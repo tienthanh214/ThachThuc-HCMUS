@@ -1,0 +1,711 @@
+[
+	{
+		"Keyword": "Database Management System"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "Checkpointing"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "Recovering"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "Botnet"
+	},
+	{
+		"Keyword": "Slammer"
+	},
+	{
+		"Keyword": "Distributed Denial of Service"
+	},
+	{
+		"Keyword": "Trojan Horse"
+	},
+	{
+		"Keyword": "Slammer - (ten rieng 1 loai worm may tinh)"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "Man in the middle"
+	},
+	{
+		"Keyword": "User identity"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "IP Spoofing"
+	},
+	{
+		"Keyword": "ARPANET"
+	},
+	{
+		"Keyword": "BITNET"
+	},
+	{
+		"Keyword": "CSNET"
+	},
+	{
+		"Keyword": "Netscape - Nha phat trien JavaScript - Ten 1 Web Browser"
+	},
+	{
+		"Keyword": "Peer-To-Peer"
+	},
+	{
+		"Keyword": "Host-to-Host"
+	},
+	{
+		"Keyword": "Files Transfer Protocol"
+	},
+	{
+		"Keyword": "Broadband"
+	},
+	{
+		"Keyword": "OSI - Open Systems Interconnection model"
+	},
+	{
+		"Keyword": "Presentation Layer"
+	},
+	{
+		"Keyword": "Datalink Layer"
+	},
+	{
+		"Keyword": "Transport Layer"
+	},
+	{
+		"Keyword": "Link Layer"
+	},
+	{
+		"Keyword": "Application Layer"
+	},
+	{
+		"Keyword": "Physical Layer"
+	},
+	{
+		"Keyword": "Session Layer"
+	},
+	{
+		"Keyword": "Coaxial cable"
+	},
+	{
+		"Keyword": "Fiber To The Home - FTTH - Ket noi truc tiep nha mang voi ho gia dinh bang cap quang"
+	},
+	{
+		"Keyword": "Datagram"
+	},
+	{
+		"Keyword": "Dial-up - Phuong thuc truy cap internet qua <quay so dien thoai>"
+	},
+	{
+		"Keyword": "Internet Service Provider"
+	},
+	{
+		"Keyword": "Packet-Switched Network"
+	},
+	{
+		"Keyword": "Segment - goi tin"
+	},
+	{
+		"Keyword": "Throughput - Tho^ng luo.ng"
+	},
+	{
+		"Keyword": "Transmission rate"
+	},
+	{
+		"Keyword": "Bandwidth"
+	},
+	{
+		"Keyword": "bit per second"
+	},
+	{
+		"Keyword": "Transmission Control Protocol - TCP"
+	},
+	{
+		"Keyword": "User Datagram Protocol - UDP"
+	},
+	{
+		"Keyword": "Switch"
+	},
+	{
+		"Keyword": "Router"
+	},
+	{
+		"Keyword": "Repeater"
+	},
+	{
+		"Keyword": "Hub"
+	},
+	{
+		"Keyword": "Cisco"
+	},
+	{
+		"Keyword": "Linksys"
+	},
+	{
+		"Keyword": "Server"
+	},
+	{
+		"Keyword": "Client"
+	},
+	{
+		"Keyword": "Datacenter"
+	},
+	{
+		"Keyword": "Process"
+	},
+	{
+		"Keyword": "Buffer"
+	},
+	{
+		"Keyword": "Socket"
+	},
+	{
+		"Keyword": "Loss-tolerant"
+	},
+	{
+		"Keyword": "Realtime"
+	},
+	{
+		"Keyword": "Connection-Oriented Service"
+	},
+	{
+		"Keyword": "Connectionless - Phi ket noi, vi du UDP"
+	},
+	{
+		"Keyword": "Privacy"
+	},
+	{
+		"Keyword": "Secure Socket Layer - SSL"
+	},
+	{
+		"Keyword": "Simple Mail Transfer Protocol - SMTP"
+	},
+	{
+		"Keyword": "Telnet"
+	},
+	{
+		"Keyword": "IP Address"
+	},
+	{
+		"Keyword": "Request"
+	},
+	{
+		"Keyword": "Response"
+	},
+	{
+		"Keyword": "Apache Tomcat"
+	},
+	{
+		"Keyword": "HyperText Transfer Protocol"
+	},
+	{
+		"Keyword": "HyperText Transfer Protocol Secure"
+	},
+	{
+		"Keyword": "Persistent Connections"
+	},
+	{
+		"Keyword": "Non-Persistent Connections"
+	},
+	{
+		"Keyword": "Round Trip Time - RTT - thoi gian ngan nhat goi tin tien trinh khach -> chu"
+	},
+	{
+		"Keyword": "Version"
+	},
+	{
+		"Keyword": "Method"
+	},
+	{
+		"Keyword": "User-Agent"
+	},
+	{
+		"Keyword": "Cookies"
+	},
+	{
+		"Keyword": "Web Cache = Proxy Server"
+	},
+	{
+		"Keyword": "Local Area Network - LAN - te^n lo't em"
+	},
+	{
+		"Keyword": "Virtual Local Area Network - VLAN"
+	},
+	{
+		"Keyword": "Attachment"
+	},
+	{
+		"Keyword": "Hyperlink"
+	},
+	{
+		"Keyword": "Graphic User Interface"
+	},
+	{
+		"Keyword": "Mail box"
+	},
+	{
+		"Keyword": "POP3 - Giao thuc truy cap thu don gian"
+	},
+	{
+		"Keyword": "IMAP - Giao thuc truy cap thu, xin hon POP3"
+	},
+	{
+		"Keyword": "Domain Name System"
+	},
+	{
+		"Keyword": "DNS Caching"
+	},
+	{
+		"Keyword": "Host Aliasing"
+	},
+	{
+		"Keyword": "Distant Centralized Databases"
+	},
+	{
+		"Keyword": "Distributed Databases"
+	},
+	{
+		"Keyword": "BitTorrent"
+	},
+	{
+		"Keyword": "Distributed Hash Tables - ky thuat su dung trong torrent"
+	},
+	{
+		"Keyword": "Circular Distributed Hash Tables - ky thuat su dung trong torrent"
+	},
+	{
+		"Keyword": "Stateless - neu khong dung Cookies"
+	},
+	{
+		"Keyword": "Stateful - luu giu trang thai, vi du dung Cookies"
+	},
+	{
+		"Keyword": "TCP Packet -- UDP Segment"
+	},
+	{
+		"Keyword": "Multiplexing -- Demultiplexing"
+	},
+	{
+		"Keyword": "Pipeline"
+	},
+	{
+		"Keyword": "Finite-State-Machine - FSM"
+	},
+	{
+		"Keyword": "Automatic Repeat Request"
+	},
+	{
+		"Keyword": "Go-Back N - giao thuc quay lui, ben gui duoc phep gui nhieu goi tin ma khong can cho bao nhan"
+	},
+	{
+		"Keyword": "Time out"
+	},
+	{
+		"Keyword": "Flow Control"
+	},
+	{
+		"Keyword": "Asynchronous Transfer Mode - ATM"
+	},
+	{
+		"Keyword": "Constant Bit Rate - thuoc ATM - dam bao toc do khong doi"
+	},
+	{
+		"Keyword": "Available Bit Rate - thuoc ATM"
+	},
+	{
+		"Keyword": "end-to-end"
+	},
+	{
+		"Keyword": "Packet"
+	},
+	{
+		"Keyword": "Resource-Management Cells"
+	},
+	{
+		"Keyword": "Congestion Avoidance"
+	},
+	{
+		"Keyword": "Congestion Control"
+	},
+	{
+		"Keyword": "Fast Recovery"
+	},
+	{
+		"Keyword": "Maximum Segment Size"
+	},
+	{
+		"Keyword": "Maximum Transmission Unit"
+	},
+	{
+		"Keyword": "Multicast"
+	},
+	{
+		"Keyword": "Unicast"
+	},
+	{
+		"Keyword": "Forwarding"
+	},
+	{
+		"Keyword": "Receiver"
+	},
+	{
+		"Keyword": "jitter - dam bao nguong toi da su sai khac"
+	},
+	{
+		"Keyword": "Internet Protocol"
+	},
+	{
+		"Keyword": "Time-to-live, dam bao packet data trong mang khong lap vo tan"
+	},
+	{
+		"Keyword": "Fragmentation Offset"
+	},
+	{
+		"Keyword": "Offset"
+	},
+	{
+		"Keyword": "IPv4"
+	},
+	{
+		"Keyword": "IPv6"
+	},
+	{
+		"Keyword": "Dotted Decimal Notation - vidu 192.168.1.1"
+	},
+	{
+		"Keyword": "Subnet"
+	},
+	{
+		"Keyword": "Subnet Mask"
+	},
+	{
+		"Keyword": "Classless Interdomain Routing :(("
+	},
+	{
+		"Keyword": "Classfull Adressing"
+	},
+	{
+		"Keyword": "Dynamic Host Configuration Protocol - DHCP"
+	},
+	{
+		"Keyword": "Plug-and-Play Protocol"
+	},
+	{
+		"Keyword": "Client-Server Protocol"
+	},
+	{
+		"Keyword": "Network Address Translation"
+	},
+	{
+		"Keyword": "Internet Group Management Protocol - IGMP"
+	},
+	{
+		"Keyword": "Virtual Private Network"
+	},
+	{
+		"Keyword": "IPSec, giao thuc bao mat IP"
+	},
+	{
+		"Keyword": "Gateway"
+	},
+	{
+		"Keyword": "Gateway Routers"
+	},
+	{
+		"Keyword": "Routing Information Protocol"
+	},
+	{
+		"Keyword": "Open Shortest Path First, dinh tuyen noi vung"
+	},
+	{
+		"Keyword": "Border Gateway Protocol, dinh tuyen ngoai vung"
+	},
+	{
+		"Keyword": "Message Digest 5"
+	},
+	{
+		"Keyword": "Backbone"
+	},
+	{
+		"Keyword": "Spanning-Tree Broadcast"
+	},
+	{
+		"Keyword": "Distance Vector Algorithm"
+	},
+	{
+		"Keyword": "Protocol Independent Multicast - PIM"
+	},
+	{
+		"Keyword": "Rendezvous Point"
+	},
+	{
+		"Keyword": "Node"
+	},
+	{
+		"Keyword": "Frame"
+	},
+	{
+		"Keyword": "Packet"
+	},
+	{
+		"Keyword": "Media Access Control - MAC"
+	},
+	{
+		"Keyword": "retransmission"
+	},
+	{
+		"Keyword": "Internet Checksum"
+	},
+	{
+		"Keyword": "Full Duplex"
+	},
+	{
+		"Keyword": "Half Duplex"
+	},
+	{
+		"Keyword": "Network Interface Card - NIC"
+	},
+	{
+		"Keyword": "Link-Layer Controller"
+	},
+	{
+		"Keyword": "Interrupts"
+	},
+	{
+		"Keyword": "Error Detection-Correction - EDC"
+	},
+	{
+		"Keyword": "parity"
+	},
+	{
+		"Keyword": "bit parity"
+	},
+	{
+		"Keyword": "checksum, kiem tong"
+	},
+	{
+		"Keyword": "Cyclic Redundancy Check - CRC, kiem du vong"
+	},
+	{
+		"Keyword": "Forward Error Correction - FEC"
+	},
+	{
+		"Keyword": "Point-to-Point"
+	},
+	{
+		"Keyword": "Time-division Multiplexing"
+	},
+	{
+		"Keyword": "Frequency-division Multiplexing"
+	},
+	{
+		"Keyword": "ALOHA"
+	},
+	{
+		"Keyword": "Carrier Sense Multiple Access - CSMA"
+	},
+	{
+		"Keyword": "CSMA/CD, trien khai CSMA la Carrier Sense Multiple Access"
+	},
+	{
+		"Keyword": "CSMA/CA, trien khai CSMA la Carrier Sense Multiple Access"
+	},
+	{
+		"Keyword": "polling"
+	},
+	{
+		"Keyword": "token-passing"
+	},
+	{
+		"Keyword": "Fiber Distribute Data Interface - FDDI"
+	},
+	{
+		"Keyword": "Address Resolution Protocol - ARP"
+	},
+	{
+		"Keyword": "Ethernet, loai mang LAN thong dung nhat"
+	},
+	{
+		"Keyword": "Novell IPX"
+	},
+	{
+		"Keyword": "Apple Talk"
+	},
+	{
+		"Keyword": "Maximum Transmission Unit - MTU"
+	},
+	{
+		"Keyword": "Byte Stuffing, ky thuat trong PeertoPeer"
+	},
+	{
+		"Keyword": "Multiprotocol Label Switching - MPLS"
+	},
+	{
+		"Keyword": "Wireless"
+	},
+	{
+		"Keyword": "Wi-Fi"
+	},
+	{
+		"Keyword": "Bluetooth"
+	},
+	{
+		"Keyword": "hand off"
+	},
+	{
+		"Keyword": "Single-hop"
+	},
+	{
+		"Keyword": "Multi-hop"
+	},
+	{
+		"Keyword": "infrastructure mode"
+	},
+	{
+		"Keyword": "adhoc mode"
+	},
+	{
+		"Keyword": "Cellular Network"
+	},
+	{
+		"Keyword": "Signal to Noise Ratio - SNR"
+	},
+	{
+		"Keyword": "802.11"
+	},
+	{
+		"Keyword": "Access Point"
+	},
+	{
+		"Keyword": "Basic Service Set - BSS"
+	},
+	{
+		"Keyword": "Beacon"
+	},
+	{
+		"Keyword": "Beacon frame, qua trinh quet, do song di dong"
+	},
+	{
+		"Keyword": "diameter"
+	},
+	{
+		"Keyword": "Collission Avoidance"
+	},
+	{
+		"Keyword": "Clear to Send"
+	},
+	{
+		"Keyword": "Request to Send"
+	},
+	{
+		"Keyword": "backoff"
+	},
+	{
+		"Keyword": "payload"
+	},
+	{
+		"Keyword": "Rate adaptation"
+	},
+	{
+		"Keyword": "Power Management"
+	},
+	{
+		"Keyword": "polling messages"
+	},
+	{
+		"Keyword": "base station"
+	},
+	{
+		"Keyword": "Bit error rate - BRE"
+	},
+	{
+		"Keyword": "Home network"
+	},
+	{
+		"Keyword": "Hidden Terminal Problem"
+	},
+{
+		"Keyword": "thrasing"
+	},
+{
+		"Keyword": "batch processing"
+	},
+{
+		"Keyword": "symetric multiprocessing"
+	},
+{
+		"Keyword": "asymetric multiprocessing"
+	},
+{
+		"Keyword": "spooling"
+	},
+{
+		"Keyword": "shell"
+	},
+{
+		"Keyword": "Ken Thompson"
+	},
+{
+		"Keyword": "VLSI - Very Large Scale Integrated"
+	},
+{
+		"Keyword": "Program Status Word"
+	},
+{
+		"Keyword": "Program counter - instruction pointer"
+	},
+{
+		"Keyword": "Direct Memory Access - DMA"
+	},
+{
+		"Keyword": "nonvolatine memory"
+	},
+{
+		"Keyword": "Process Control Block - PCB"
+	},
+{
+		"Keyword": "Stub"
+	},
+{
+		"Keyword": "PreEmtive"
+	},
+{
+		"Keyword": "Remote Procedure Call"
+	},
+{
+		"Keyword": "Race Condition"
+	},
+{
+		"Keyword": "Busy Waiting"
+	},
+{
+		"Keyword": "Critical Section"
+	},
+{
+		"Keyword": "Peterson"
+	},
+{
+		"Keyword": "Test and set"
+	},
+{
+		"Keyword": "Mutexes"
+	},
+{
+		"Keyword": "Thread-yield"
+	},
+{
+		"Keyword": "Software interrupt"
+	}
+	
+]
