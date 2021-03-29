@@ -1,0 +1,28 @@
+task main() {
+     // lui 0.4 de lui tuong ~3.5cm
+     SetSensorTouch(IN_3);
+     /*
+     unsigned int s = 0;
+     while (true) {
+           OnFwd(OUT_AC, 75);
+           if (SENSOR_3 == 1) {
+              //OnRev(OUT_AC, 75);
+              if (s == 0) {
+                 s = CurrentTick();
+              } else if (CurrentTick() - s >= 5000) {
+                   RotateMotor(OUT_AC, -75, 180);
+                   RotateMotorEx(OUT_AC, 75, 360, 90, true, true);
+                   break;
+              }
+
+
+           }
+     }
+       */
+
+     //RotateMotorEx(OUT_AC, 75, 360, 90, true, true);
+     //OnFwd(OUT_AC, 75);
+     //OnRev(OUT_A, 73);
+     //Wait(360 * 2);
+     Off(OUT_AC);
+}
