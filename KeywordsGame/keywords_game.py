@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-
 import json
 import pygame
 import random
@@ -21,8 +20,13 @@ title_font = pygame.font.SysFont("comicsansms", 40, bold = True)
 pygame.display.set_caption("Keywords - Renamed team - Made by Jug")
 surface = pygame.display.set_mode((width, height))
 music = pygame.mixer.music.load("sound/30s_countdown.mp3")
+introImage = pygame.image.load("sound/thachthuc.png").convert()
+# introImage = pygame.transform.scale(introImage, (16, 16))
+# pygame.display.set_icon(introImage)
 
-""" --- button object --"""
+event_list = []
+
+""" --- button object ---"""
 class Button:
     def __init__(self, x, y, width, height, value):
         self.rect = pygame.Rect(x, y, width, height)
@@ -57,6 +61,64 @@ class Button:
             return False
     pass
 
+""" --- option box ---"""
+
+
+class OptionBox():
+
+    def __init__(self, x, y, w, h, color, highlight_color, font, option_list, selected = 0):
+        self.color = color
+        self.highlight_color = highlight_color
+        self.rect = pygame.Rect(x, y, w, h)
+        self.font = font
+        self.option_list = option_list
+        self.selected = selected
+        self.draw_menu = False
+        self.menu_active = False
+        self.active_option = -1
+
+    def draw(self, surf):
+        pygame.draw.rect(surf, self.highlight_color if self.menu_active else self.color, self.rect)
+        pygame.draw.rect(surf, (0, 0, 0), self.rect, 2)
+        msg = self.font.render(self.option_list[self.selected], 1, (0, 0, 0))
+        surf.blit(msg, msg.get_rect(center=self.rect.center))
+
+        if self.draw_menu:
+            for i, text in enumerate(self.option_list):
+                rect = self.rect.copy()
+                rect.y += (i + 1) * self.rect.height
+                pygame.draw.rect(surf, self.highlight_color if i == self.active_option else self.color, rect)
+                msg = self.font.render(text, 1, (0, 0, 0))
+                surf.blit(msg, msg.get_rect(center=rect.center))
+            outer_rect = (
+            self.rect.x, self.rect.y + self.rect.height, self.rect.width, self.rect.height * len(self.option_list))
+            pygame.draw.rect(surf, (0, 0, 0), outer_rect, 2)
+
+    def update(self):
+        mpos = pygame.mouse.get_pos()
+        self.menu_active = self.rect.collidepoint(mpos)
+        self.active_option = -1
+        for i in range(len(self.option_list)):
+            rect = self.rect.copy()
+            rect.y += (i + 1) * self.rect.height
+            if rect.collidepoint(mpos):
+                self.active_option = i
+                break
+
+        if not self.menu_active and self.active_option == -1:
+            self.draw_menu = False
+
+        for event in event_list:
+            if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
+                if self.menu_active:
+                    self.draw_menu = not self.draw_menu
+                elif self.draw_menu and self.active_option >= 0:
+                    self.selected = self.active_option
+                    self.draw_menu = False
+                    return self.active_option
+        return -1
+    pass
+
 """ --- A game --- """
 class Game:
     def __init__(self, score = 0, keyword_index = 0):
@@ -73,7 +135,12 @@ class Game:
 
         self.result_list = []
         self.ignore_list = []
-        load_data()
+        self.data_setting = Setting(0)
+
+
+        self.order_list = OptionBox(
+                320, 420, 160, 40, (150, 150, 150), (100, 200, 255), pygame.font.SysFont(None, 30),
+                ["Random", "Sorted", "Reversed"])
 
 
     def showButton(self):
@@ -99,10 +166,13 @@ class Game:
             elif self.continue_button.isPressed():
                 self.resetGameState()
         elif self.inGame == 3:
-            pass
-        else:
-            self.inGame = 1
-
+            if self.again_button.isPressed():
+                self.__init__()
+                self.inGame = 0
+        elif self.inGame == 0:
+            if (self.play_button.isPressed()):
+                self.inGame = 1
+                self.data_setting.setting();
         pass
 
     def showKeyword(self, surface, idx):
@@ -120,6 +190,10 @@ class Game:
     def endGame(self):
         self.inGame = 2
         self.result_list.append((self.score, self.timer))
+        if (len(self.result_list) == 30):
+            self.result_list.pop(0)
+        for i in range((10 - self.keyword_index % 10) % 10):
+            self.ignore_list.append(data[self.keyword_index + i]['Keyword'])
         self.timer = -1
 
     def resetGameState(self):
@@ -128,6 +202,7 @@ class Game:
         self.inGame = 1
         self.timer = TIME_PLAY
         self.ignore_list.clear()
+        self.data_setting.setting(self.keyword_index, self.keyword_index + 10);
 
     def showSumary(self):
         self.inGame = 3
@@ -141,8 +216,9 @@ class Game:
             value = score_font.render("[" + str(i + 1) + "] " + str(self.result_list[i][0]) + " - " + str(self.result_list[i][1]) + "s.", True, (255, 0, 0))
             surface.blit(value, (200 * (i // 10 + 0) + 10, 50 * (i % 10 + 2)))
 
-        # again_button = Button(500, 450, 150, 50, "Play again")
-        # again_button.draw(surface)
+        self.again_button = Button(600, 500, 150, 50, "Play again")
+        self.again_button.draw(surface)
+
 
     def gameIntro(self):
         surface.fill((51, 204, 255))
@@ -154,9 +230,20 @@ class Game:
         font = pygame.font.SysFont("comicsansms", 18, italic = True)
         value = font.render("Author: NĐTT - 19120036 - Renamed team (2021)", True, (255, 255, 255))
         surface.blit(value, [width - 440, height - 30])
+        choice_index = self.order_list.update()
 
-        play_button = Button(width // 2 - 150 // 2, rect.center[1] + 150, 150, 50, "Play")
-        play_button.draw(surface)
+        if (choice_index == 1):
+            self.data_setting.order = 1
+        elif (choice_index == 2):
+            self.data_setting.order = -1
+        elif (choice_index == 0):
+            self.data_setting.order = 0
+        self.order_list.draw(surface)
+        self.play_button = Button(width // 2 - 150 // 2, rect.center[1] + 150 - 10, 150, 50, "Play")
+        self.play_button.draw(surface)
+
+        # surface.blit(introImage, (width // 8, 450))
+        pygame.display.flip()
 
     def gameOver(self):
         pygame.mixer.music.stop()
@@ -190,14 +277,32 @@ class Game:
         else:
             self.gameIntro()
 
-def load_data():
-    for i in range(5):
-        random.shuffle(data)
+
+class Setting:
+    def __init__(self, order = 0):
+        # Random - Descreasing - Increasing
+        #    0   -    -1       -    1
+        self.order = order # random default
+        global data
+        for i in range(10):
+            random.shuffle(data)
+
+    def load_data(self, left, right):
+        if (self.order == 1):
+            data[left : right] = sorted(data[left : right], key = lambda x: len(x['Keyword']))
+        elif (self.order == -1):
+            data[left : right] = sorted(data[left : right], key = lambda x: len(x['Keyword']), reverse = True)
+
+    def setting(self, left = 0, right = 10):
+        self.load_data(left, right)
+
+    pass
 
 if __name__ == '__main__':
     game = Game(0, 0)
     while True:
-        for event in pygame.event.get():
+        event_list = pygame.event.get()
+        for event in event_list:
             if event.type == pygame.QUIT:
                 pygame.quit()
                 quit()
