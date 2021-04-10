@@ -1,0 +1,422 @@
+// A: left motor - C: right motor
+// 1: left color - 2: right color - 3: touch - 4: ultrasonic
+
+/* Code nay xoay nguoc voi code goc */
+#define PLAY_TIME 118000
+#define HUNGRY_TIME (PLAY_TIME - 10000)
+#define CHILL_TIME 90000
+#define WHEEL_DIAMETER 4.2
+#define BLACK 1
+#define WHITE 6
+#define BLUE 2
+#define RED 5
+
+
+struct MyRobot {
+    byte Color;
+	float X, Y;  // toa do hien tai
+	float alpha; // goc hop boi mat phang chieu ngang va robot
+};
+
+long int firstStart;
+long int startTime;
+long int firstTouch;
+long int firstFreeze;
+byte numberOfBrick;
+int rotateDirection;
+byte prevColor;
+MyRobot robot;
+
+void Initialize() {
+     startTime = CurrentTick();
+
+     SetSensorColorFull(IN_1);
+     SetSensorColorFull(IN_2);
+     SetSensorTouch(IN_3);
+     SetSensorUltrasonic(IN_4);
+
+     rotateDirection = 1; // -1 : left & 1 : right
+     numberOfBrick = 0;    // so luong khoi hang da tha
+     firstTouch = 0;
+     firstFreeze = 0;
+     robot.Color = Sensor(IN_1);
+     firstStart = 0;
+     prevColor = robot.Color;
+     // minDistance = 10000;
+     // maxDistance = -10000;
+}
+
+sub ColorTable() {
+     /*
+      switch(nColor) {
+            case 1: sColor = "Black";
+            case 2: sColor = "Blue";
+            case 3: sColor = "Green";
+            case 4: sColor = "Yellow";
+            case 5: sColor = "Red";
+            case 6: sColor = "White";
+            default: sColor = "???";
+      }
+      */
+}
+
+bool IsBlackCell() {
+     /*
+     neu ca 2 color = black
+     note:
+     - 2 sensor nam tren line -> xu ly: di chuyen 1 doan >= 20mm (duong dien)
+     - 1 color black 1 color ? nam o giua 2 o black - ?
+     */
+}
+
+void GetCellPosition() {
+     /*
+       20mm bien black
+       180mm mau ben trong
+       10mm duong vien mau trang nam trong duong bien black
+       5x8 cells
+       2362x1143
+     */
+}
+
+/*  -------------------------- CHUC NANG ----------------------- */
+
+void PutBrick() {
+     //RotateMotor(OUT_BC, -75, 15);
+     //Wait(100);
+     OnFwd(OUT_BC, 0);
+     RotateMotor(OUT_A, 80, -360);
+     ++numberOfBrick; // so luong khoi hang da tha?
+     Wait(100);
+}
+
+bool CheckTouchWall() {
+     if (SENSOR_3 == 0) {
+        firstTouch = 0;
+        return false;
+     }
+     if (firstTouch == 0) {
+        firstTouch = CurrentTick();
+     } else if (CurrentTick() - firstTouch >= 1500) {
+        firstTouch = 0;
+        return true;
+     }
+     return false;
+}
+
+
+
+void TouchWall(int right = 1) {
+     // lui ~5cm va quay 90* (trai ? phai)
+     RotateMotor(OUT_BC, -75, 270);
+     RotateMotorEx(OUT_BC, 75, 395, right * 95, true, true);
+
+}
+
+bool CheckMyColor(bool orBit = false) { // check if current cell is our color
+     if (orBit == true || numberOfBrick == 0) {
+        return (Sensor(IN_1) == robot.Color || Sensor(IN_2) == robot.Color);
+     }
+     if (Sensor(IN_1) != robot.Color || Sensor(IN_2) != robot.Color)
+        return false;
+     return true;
+}
+
+bool SeeMyColorCell(int right = 1, bool orBit = false) {
+     if (!CheckMyColor(orBit))
+        return false;
+     RotateMotor(OUT_BC, -75, 285);   // tien lui
+     RotateMotorEx(OUT_BC, 75, 400, right * 95, true, true);
+     return true;
+}
+
+void ForwardOneCellAndRotate(int right = 1) {
+     RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+     RotateMotorEx(OUT_BC, 75, 400, right * 95, true, true); // xoay 90 do theo huong quay
+}
+
+void SelfBalancing() {
+     // now - no need
+}
+
+void GoForward(int angle) {
+     RotateMotor(OUT_A, 90, angle);
+     RotateMotor(OUT_C, 75, angle);
+}
+
+void OutOfFreeze() {
+     if (SensorUS(IN_4) > 20) {
+        firstFreeze = 0;
+        return;
+     }
+     //TextOut(0, 0, NumToStr(firstFreeze) + " " + NumToStr(SensorUS(IN_4)));
+     if (firstFreeze == 0) {
+        firstFreeze = CurrentTick();
+     }
+     else if (CurrentTick() - firstFreeze >= 3000) {
+        firstFreeze = 0;
+        TouchWall(rotateDirection);
+     }
+}
+
+bool CheckStartCell() {      // chua check
+     if (prevColor == BLACK) {
+        prevColor = Sensor(IN_2);
+        if (Sensor(IN_1) == robot.Color)
+           prevColor = robot.Color;
+        return prevColor == robot.Color;
+     }
+     prevColor = Sensor(IN_2);
+     if (Sensor(IN_1) == BLACK)
+        prevColor = BLACK;
+     return false;
+}
+
+bool CheckOutStartCell() {
+/*
+     if (prevColor == robot.Color) {
+        prevColor = Sensor(IN_2);
+        return prevColor == BLACK;
+     }
+     prevColor = Sensor(IN_2);
+     return false;
+  */
+     if (CurrentTick() - firstStart >= 10000) {
+        return true;
+     }
+     return false;
+}
+
+/* -----------------------------------------------------------------------------------------*/
+
+void PlayFirstStep() {
+     // xac dinh vi tri dat han`g hoa dau tien
+     /*
+       Tien hanh tha 2 khoi hang
+       xac dinh o truoc start
+           - black: day hang den o (2, 3) va (6, 4)     --> Doi Chien Thuat (4, 5) va (6, 4)
+           - else : day den truoc o start doi phuong (6, 4) va (8, 5)
+     */
+
+     RotateMotor(OUT_BC, 75, 1980 + 100); // 5.5 ROUND  (****** tang them ***** )
+
+     if (CheckMyColor()) {
+          // chua xong
+        SeeMyColorCell(-1);
+        //RotateMotor(OUT_BC, 75, 2 * 600); // tien 2 * 1.667 vong (2 cell)
+        //RotateMotorEx(OUT_BC, 75, 360, 90, true, true); // xoay -90 do huong cu
+        OnFwd(OUT_BC, 75);
+        while (!CheckTouchWall());
+        TouchWall(rotateDirection);
+
+     }
+     else {
+          /*
+          // quay 1 banh sang ben phai
+          OnFwd(OUT_A, 75);
+          Wait(360 * 3 + 180 + 90 + 45 + 31);
+          RotateMotor(OUT_BC, 75, 2880);  //8 round
+          */
+
+          /* -- cai nay dung neu den hang cuoi cung
+          RotateMotorEx(OUT_BC, 75, 360, -90, true, true);
+          RotateMotor(OUT_BC, 75, 3450);  //? round - den o tren mau xanh
+          RotateMotorEx(OUT_BC, 75, 360, -90, true, true);
+          OnFwd(OUT_BC, 75);
+          if (CheckMyColor()) {
+             PutBrick();
+             SeeMyColorCell(1); //lui va xoay sang trai
+          }
+          */
+          RotateMotor(OUT_BC, 75, 450);
+          //RotateMotorEx(OUT_BC, 75, 350, -95, true, true);
+          TouchWall(1);
+          RotateMotor(OUT_BC, 75, 3450);  //? round - den o tren mau xanh
+          //SeeMyColorCell(1);
+     }
+}
+
+void PlayGame() {
+     byte flag = 0; // check da den hang start chua
+     bool firstWall = false;
+     while (CurrentTick() - startTime < CHILL_TIME) {
+           OnFwd(OUT_BC, 75);
+
+           OutOfFreeze();
+           if (CheckStartCell()) {
+              flag = 2;
+              firstStart = CurrentTick();
+           }
+
+           if (flag != 2 && CheckMyColor()) {
+              if (numberOfBrick < 4) {
+                 PutBrick();
+              }
+              SeeMyColorCell(rotateDirection, numberOfBrick == 1);
+              rotateDirection *= -1;
+              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+
+
+              if (SENSOR_3 == 1) {
+
+                 if (flag == 2) { //neu dang o hang my start  (---- nhung ma cai nay eo bao h xay ra --- nhin dieu kien tren cung)
+                 //   TouchWall(rotateDirection); //xoay ve huong cu~ de tien thang quet het hang
+                 //   RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell) de bo qua o xanh truoc mat
+                    // cu OnFwd cho den khi gap tuong roi xoay va tien len 2 cel
+                 //   flag = 1;
+                 //   continue;
+                 } else {
+                    TouchWall(rotateDirection); // xoay chuyen huong de quyet nguoc lai
+                    continue;
+                 }
+              }
+              RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay -90 do huong cu
+              rotateDirection *= -1; // giu huong cu di xuong
+           }
+
+           if (flag == 2 && CheckOutStartCell()) {
+              flag = 0;
+           }
+
+           if (CheckTouchWall()) {
+              TouchWall(rotateDirection);
+              // tien toi va quay theo chieu cu
+              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+              // chay xuong 2 dong
+              if (firstWall == false) {
+                 RotateMotor(OUT_BC, 75, 600 - 100);
+              }
+              firstWall = true;
+              if (SENSOR_3 == 1) {
+                 rotateDirection *= -1;
+                 TouchWall(rotateDirection);
+                 RotateMotor(OUT_BC, 75, 600);
+              }  else {
+                 RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
+                 rotateDirection *= -1;
+              }
+           }
+     }
+}
+
+void PlayLastStep() {
+     // tha het 3 khoi hang con lai
+     byte flag = 0;
+     while (CurrentTick() - startTime < HUNGRY_TIME) {
+           OnFwd(OUT_BC, 75);
+           if (CheckStartCell()) {
+              flag = 2;
+              firstStart = CurrentTick();
+           }
+
+           if (flag != 2 && CheckMyColor(numberOfBrick >= 4)) {
+              if (numberOfBrick < 5)
+                 PutBrick();
+              SeeMyColorCell(rotateDirection, numberOfBrick == 5);
+              rotateDirection *= -1;
+              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+              RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay -90 do huong cu
+              rotateDirection *= -1; // giu huong cu di xuong
+           }
+           if (flag == 2 && CheckOutStartCell()) {
+              flag = 0;
+           }
+           /*
+           if (CheckTouchWall()) {
+              TouchWall(rotateDirection);
+              // tien toi va quay theo chieu cu
+              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+              RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
+              rotateDirection *= -1;
+           }
+           */
+           if (CheckTouchWall()) {
+
+              TouchWall(rotateDirection);
+
+              // tien toi va quay theo chieu cu
+              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
+              if (SENSOR_3 == 1) {
+                 rotateDirection *= -1;
+                 TouchWall(rotateDirection);
+                 RotateMotor(OUT_BC, 75, 600);
+              }  else {
+                 RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
+                 rotateDirection *= -1;
+              }
+           }
+     }
+
+     // va lam roi tha hang di
+     while (CurrentTick() - startTime < PLAY_TIME) {
+           if ((SensorUS(IN_4) < 38 && (Sensor(IN_1) == WHITE || Sensor(IN_2) == WHITE))) {
+             OnRev(OUT_BC, 75);
+           } else {
+             OnFwd(OUT_BC, 75);
+           }
+           if (CheckMyColor(1) || Sensor(IN_1) == WHITE) {
+              if (numberOfBrick < 5)
+                 PutBrick();
+              else break;
+             // if (CheckMyColor())
+             //    SeeMyColorCell();
+           }
+     }
+
+}
+
+void Rotate(int right = -1) {
+     RotateMotorEx(OUT_BC, 75, 400, right * 95, true, true);
+     return;
+     if (right == -1) {
+        RotateMotorEx(OUT_BC, 75, 350, right * 95, true, true);
+     } else {
+        RotateMotorEx(OUT_BC, 75, 400, right * 95, true, true);
+     }
+}
+
+void Test() {
+     //PutBrick(); return;
+     //Rotate(-1); return;
+     //RotateMotorEx(OUT_BC, 75, 350, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
+     //TouchWall(-1); return;
+     //OnFwd(OUT_BC, 75);
+     //PutBrick();
+     //SeeMyColorCell(-1, true); return;
+     //return;
+     //while (numberOfBrick < 5)
+     //      PutBrick();
+     //return;
+     RotateMotor(OUT_BC, 75, 0);
+     while (true) {
+           OnFwd(OUT_BC, 75);
+           continue;
+           OutOfFreeze();
+           continue;
+           if (SENSOR_3 == 1) {
+              OnFwd(OUT_BC, -75);
+              //OnRev(OUT_BC, 75);
+              while (Sensor(IN_1) != robot.Color);
+              RotateMotorEx(OUT_BC, 75, 350, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
+
+           }
+           if (CheckMyColor()) {
+              SeeMyColorCell();
+           }
+     }
+
+}
+
+task main() {
+
+     Initialize();
+     //Test();
+
+     PlayFirstStep();
+     PlayGame();
+     PlayLastStep();
+
+     Off(OUT_ABC);
+}
+
+
