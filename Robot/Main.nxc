@@ -1,9 +1,9 @@
-// A: left motor - C: right motor
+// A: left motor - C: right motor (look from back to front)
 // 1: left color - 2: right color - 3: touch - 4: ultrasonic
 
 #define PLAY_TIME 118000
-#define HUNGRY_TIME (PLAY_TIME - 10000)
-#define CHILL_TIME 80000        // luc truoc la 90000 tha 4 bricks, gio de 80000 tha 3 bricks
+#define HUNGRY_TIME (PLAY_TIME - 10000)   // 10s cuoi tha het
+#define CHILL_TIME 80000        // luc truoc la 90s tha 4 bricks, gio de 80s tha 3 bricks
 #define WHEEL_DIAMETER 4.2
 #define BLACK 1
 #define WHITE 6
@@ -17,7 +17,7 @@ struct MyRobot {
 	float alpha; // goc hop boi mat phang chieu ngang va robot
 };
 
-long int firstStart;
+long int firstStart;  // gap o Start
 long int startTime;
 long int firstTouch;
 long int firstFreeze;
@@ -84,11 +84,11 @@ void PutBrick() {
      //RotateMotor(OUT_BC, -75, 15);
      //Wait(100);
      OnFwd(OUT_BC, 0);
-     RotateMotor(OUT_A, 80, -360);
-     ++numberOfBrick; // so luong khoi hang da tha?
+     RotateMotor(OUT_A, 75, -360);
+     ++numberOfBrick; // so luong khoi hang da tha + 1
      Wait(100);
 }
-
+/* -> check if robot touch the wall <- */
 bool CheckTouchWall() {
      if (SENSOR_3 == 0) {
         firstTouch = 0;
@@ -103,8 +103,7 @@ bool CheckTouchWall() {
      return false;
 }
 
-
-
+/* -> go back and rotate when touch wall <- */
 void TouchWall(int right = -1) {
      // lui ~5cm va quay 90* (trai ? phai)
      RotateMotor(OUT_BC, -75, 265);
@@ -112,7 +111,10 @@ void TouchWall(int right = -1) {
 
 }
 
-bool CheckMyColor(bool orBit = false) { // check if current cell is our color
+/* -> check if current cell is our color <-
+   if orbit = true then check if ColorSensor1 or 2
+   if orbit = false then check if both ColorSensor1 and 2 */
+bool CheckMyColor(bool orBit = false) {
      if (orBit == true || numberOfBrick == 0) {
         return (Sensor(IN_1) == robot.Color) || (Sensor(IN_2) == robot.Color);
      }
@@ -143,6 +145,10 @@ void GoForward(int angle) {
      RotateMotor(OUT_C, 75, angle);
 }
 
+/* -> Check if freeze then do rotate to getout <-
+      Thuat: neu Distance < 20 trong 3s thi getout
+      Huong phat trien: Dung van toc (Distance / Time)
+*/
 void OutOfFreeze() {
      if (SensorUS(IN_4) > 20) {
         firstFreeze = 0;
@@ -158,6 +164,12 @@ void OutOfFreeze() {
      }
 }
 
+/* -> Check if current Cell is Our Start Cell <-
+   Thuat: Neu mau BLACK -> robot.Color la vao Start
+   Nhuoc diem: neu di thang thi nhan duoc,
+             neu TouchWall hay SeeMyColor thi se khong nhan dien duoc
+             (khong song song duoc ? [ti`m hie^?u di])
+*/
 bool CheckStartCell() {      // chua check
      if (prevColor == BLACK) {
         prevColor = Sensor(IN_2);
@@ -172,14 +184,6 @@ bool CheckStartCell() {      // chua check
 }
 
 bool CheckOutStartCell() {
-/*
-     if (prevColor == robot.Color) {
-        prevColor = Sensor(IN_2);
-        return prevColor == BLACK;
-     }
-     prevColor = Sensor(IN_2);
-     return false;
-  */
      if (CurrentTick() - firstStart >= 10000) {
         return true;
      }
@@ -197,38 +201,18 @@ void PlayFirstStep() {
            - else : day den truoc o start doi phuong (6, 4) va (8, 5)
      */
 
-     RotateMotor(OUT_BC, 75, 1980 + 160); // 5.5 ROUND  (****** tang them ***** )
+     RotateMotor(OUT_BC, 75, 1980 + 260); // 5.5 ROUND  (****** tang them ***** )
 
      if (CheckMyColor()) {
-          // chua xong
         PutBrick();
         SeeMyColorCell(1);
 
-        //RotateMotor(OUT_BC, 75, 2 * 600); // tien 2 * 1.667 vong (2 cell)
-        //RotateMotorEx(OUT_BC, 75, 360, 90, true, true); // xoay -90 do huong cu
         OnFwd(OUT_BC, 75);
         while (!CheckTouchWall());
         TouchWall(rotateDirection);
 
      }
      else {
-          /*
-          // quay 1 banh sang ben phai
-          OnFwd(OUT_A, 75);
-          Wait(360 * 3 + 180 + 90 + 45 + 31);
-          RotateMotor(OUT_BC, 75, 2880);  //8 round
-          */
-
-          /* -- cai nay dung neu den hang cuoi cung
-          RotateMotorEx(OUT_BC, 75, 360, -90, true, true);
-          RotateMotor(OUT_BC, 75, 3450);  //? round - den o tren mau xanh
-          RotateMotorEx(OUT_BC, 75, 360, -90, true, true);
-          OnFwd(OUT_BC, 75);
-          if (CheckMyColor()) {
-             PutBrick();
-             SeeMyColorCell(1); //lui va xoay sang trai
-          }
-          */
           RotateMotor(OUT_BC, 75, 450);
           //RotateMotorEx(OUT_BC, 75, 350, -95, true, true);
           TouchWall(-1);
@@ -242,7 +226,6 @@ void PlayGame() {
      bool firstWall = false;
      while (CurrentTick() - startTime < CHILL_TIME) {
            OnFwd(OUT_BC, 75);
-
            OutOfFreeze();
            if (CheckStartCell()) {
               flag = 2;
@@ -257,15 +240,9 @@ void PlayGame() {
               rotateDirection *= -1;
               RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
 
-
               if (SENSOR_3 == 1) {
 
-                 if (flag == 2) { //neu dang o hang my start  (---- nhung ma cai nay eo bao h xay ra --- nhin dieu kien tren cung)
-                 //   TouchWall(rotateDirection); //xoay ve huong cu~ de tien thang quet het hang
-                 //   RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell) de bo qua o xanh truoc mat
-                    // cu OnFwd cho den khi gap tuong roi xoay va tien len 2 cel
-                 //   flag = 1;
-                 //   continue;
+                 if (flag == 2) {
                  } else {
                     TouchWall(rotateDirection); // xoay chuyen huong de quyet nguoc lai
                     continue;
@@ -323,15 +300,7 @@ void PlayLastStep() {
            if (flag == 2 && CheckOutStartCell()) {
               flag = 0;
            }
-           /*
-           if (CheckTouchWall()) {
-              TouchWall(rotateDirection);
-              // tien toi va quay theo chieu cu
-              RotateMotor(OUT_BC, 75, 600); // tien 1.667 vong (1 cell)
-              RotateMotorEx(OUT_BC, 75, 400, rotateDirection * 95, true, true); // xoay 90 do theo huong cu
-              rotateDirection *= -1;
-           }
-           */
+
            if (CheckTouchWall()) {
               TouchWall(rotateDirection);
               // tien toi va quay theo chieu cu
