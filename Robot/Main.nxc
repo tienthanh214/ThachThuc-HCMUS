@@ -213,7 +213,7 @@ void PlayFirstStep() {
      if (CheckMyColor()) {
         PutBrick();
         SeeMyColorCell(1);
-        RotateMotor(OUT_BC, 95, -100); // lui lai cho thang
+        //RotateMotor(OUT_BC, 95, -100); // lui lai cho thang
         OnFwd(OUT_BC, 95);
         while (!CheckTouchWall());
         TouchWall(rotateDirection);
@@ -466,9 +466,10 @@ task main() {
      Initialize();
      //Test();
 
-     PlayFirstStep();
-     PlayGame();
-     PlayLastStep();
+     //PlayFirstStep();
+     //PlayGame();
+     //PlayLastStep();
+     PutBrick()
 
      Off(OUT_ABC);
 }
