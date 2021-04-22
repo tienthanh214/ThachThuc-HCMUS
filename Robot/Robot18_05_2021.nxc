@@ -300,7 +300,7 @@ void PlayGame() {
                  doneWallColor = true;
               }
               // chay xuong 2 dong
-              if (firstWall == false && mode == 2) {
+              if (firstWall == false) {
                  RotateMotor(OUT_BC, 75, 550 - 85);
               }
               firstWall = true;
