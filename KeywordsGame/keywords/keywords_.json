@@ -4219,5 +4219,380 @@
     },
     {
         "Keyword": "Semantic"
+    },
+    {
+        "Keyword": "Adjacency Matrix"
+    },
+    {
+        "Keyword": "timestamp"
+    },
+    {
+        "Keyword": "Learning rate"
+    },
+    {
+        "Keyword": "Rational Unified Process"
+    },
+    {
+        "Keyword": "Undefined behavior"
+    },
+    {
+        "Keyword": "System R"
+    },
+    {
+        "Keyword": "Shielded Twisted Pair"
+    },
+    {
+        "Keyword": "Landmark recognition"
+    },
+    {
+        "Keyword": "Very large-scale integration"
+    },
+    {
+        "Keyword": "power on self test"
+    },
+    {
+        "Keyword": "basic input output system"
+    },
+    {
+        "Keyword": "deep fake"
+    },
+    {
+        "Keyword": "Forensics"
+    },
+    {
+        "Keyword": "Binary Exploitation"
+    },
+    {
+        "Keyword": "Reverse Engineering"
+    },
+    {
+        "Keyword": "Steganography"
+    },
+    {
+        "Keyword": "Web Exploitation"
+    },
+    {
+        "Keyword": "Capture The Flag"
+    },
+    {
+        "Keyword": "File Format"
+    },
+    {
+        "Keyword": "File Magic Number"
+    },
+    {
+        "Keyword": "File Signature"
+    },
+    {
+        "Keyword": "hexadecimal"
+    },
+    {
+        "Keyword": "repository"
+    },
+    {
+        "Keyword": "metadata"
+    },
+    {
+        "Keyword": "GPS latitude"
+    },
+    {
+        "Keyword": "GPS longtitude"
+    },
+    {
+        "Keyword": "Filename Date Created (MFT)"
+    },
+    {
+        "Keyword": "Filename Date Modified (MFT)"
+    },
+    {
+        "Keyword": "Filename Date Accessed (MFT)"
+    },
+    {
+        "Keyword": "Entry Date Changed"
+    },
+    {
+        "Keyword": "Entry Date Created"
+    },
+    {
+        "Keyword": "Entry Date Modified\n"
+    },
+    {
+        "Keyword": "Entry Date Accessed"
+    },
+    {
+        "Keyword": "Universal Coordinated Time"
+    },
+    {
+        "Keyword": "Eastern Standard Time"
+    },
+    {
+        "Keyword": "network protocol analyzer"
+    },
+    {
+        "Keyword": "Packet Capture"
+    },
+    {
+        "Keyword": "traffic history"
+    },
+    {
+        "Keyword": "source IP address"
+    },
+    {
+        "Keyword": "destination IP address"
+    },
+    {
+        "Keyword": "Port"
+    },
+    {
+        "Keyword": "data payload"
+    },
+    {
+        "Keyword": "Handshake "
+    },
+    {
+        "Keyword": "least-significant bit "
+    },
+    {
+        "Keyword": "bitstream file"
+    },
+    {
+        "Keyword": "disk image"
+    },
+    {
+        "Keyword": "Raw data"
+    },
+    {
+        "Keyword": "memory dumping"
+    },
+    {
+        "Keyword": "floppy disk"
+    },
+    {
+        "Keyword": "Encryption scheme"
+    },
+    {
+        "Keyword": "exclusive OR"
+    },
+    {
+        "Keyword": "Character Frequency Analysis"
+    },
+    {
+        "Keyword": "Substitution Cipher"
+    },
+    {
+        "Keyword": "Vigenere Cipher"
+    },
+    {
+        "Keyword": "cryptosystem"
+    },
+    {
+        "Keyword": "Initialization Vector"
+    },
+    {
+        "Keyword": "Mode of Operation"
+    },
+    {
+        "Keyword": "Electronic Codebook"
+    },
+    {
+        "Keyword": "Cipher Block Chaining"
+    },
+    {
+        "Keyword": "Propogating Cipher Block Chaining"
+    },
+    {
+        "Keyword": "stream cipher"
+    },
+    {
+        "Keyword": "parallelizable "
+    },
+    {
+        "Keyword": "Padding Oracle Attack"
+    },
+    {
+        "Keyword": "asymmetric encryption"
+    },
+    {
+        "Keyword": "Public Key"
+    },
+    {
+        "Keyword": "Private Key"
+    },
+    {
+        "Keyword": "public exponent"
+    },
+    {
+        "Keyword": "private exponent"
+    },
+    {
+        "Keyword": "totient"
+    },
+    {
+        "Keyword": "Euler's totient function"
+    },
+    {
+        "Keyword": "SQL Injection"
+    },
+    {
+        "Keyword": "SQL injection payload"
+    },
+    {
+        "Keyword": "Command Injection"
+    },
+    {
+        "Keyword": "privilege escalation"
+    },
+    {
+        "Keyword": "Directory Traversal"
+    },
+    {
+        "Keyword": "Cross Site Request Forgery"
+    },
+    {
+        "Keyword": "session hijacking"
+    },
+    {
+        "Keyword": "Cross Site Scripting"
+    },
+    {
+        "Keyword": "Server Side Request Forgery"
+    },
+    {
+        "Keyword": "Interpolation Search"
+    },
+    {
+        "Keyword": "verbose instruction"
+    },
+    {
+        "Keyword": "Complex Instruction Set Computing"
+    },
+    {
+        "Keyword": "Reduced Instruction Set Computing"
+    },
+    {
+        "Keyword": "instruction pointer "
+    },
+    {
+        "Keyword": "stack pointer"
+    },
+    {
+        "Keyword": "Notable language"
+    },
+    {
+        "Keyword": "base pointer"
+    },
+    {
+        "Keyword": "clang"
+    },
+    {
+        "Keyword": "disassembler "
+    },
+    {
+        "Keyword": "plug-in"
+    },
+    {
+        "Keyword": "git fork"
+    },
+    {
+        "Keyword": "forking repo"
+    },
+    {
+        "Keyword": "Process Mapping"
+    },
+    {
+        "Keyword": "Attaching Processe"
+    },
+    {
+        "Keyword": "Decompiler"
+    },
+    {
+        "Keyword": "distributed ledger"
+    },
+    {
+        "Keyword": "instruction register"
+    },
+    {
+        "Keyword": "gamification"
+    },
+    {
+        "Keyword": "rijndael"
+    },
+    {
+        "Keyword": "Container Orchestration"
+    },
+    {
+        "Keyword": "kubernetes"
+    },
+    {
+        "Keyword": "DenseNet"
+    },
+    {
+        "Keyword": "Inception v3"
+    },
+    {
+        "Keyword": "AlphaFord"
+    },
+    {
+        "Keyword": "dereference operator"
+    },
+    {
+        "Keyword": "stack frame"
+    },
+    {
+        "Keyword": "calling convention"
+    },
+    {
+        "Keyword": "List Comprehension"
+    },
+    {
+        "Keyword": "Global Offset Table"
+    },
+    {
+        "Keyword": "snippet"
+    },
+    {
+        "Keyword": "shared library"
+    },
+    {
+        "Keyword": "Address Space Layout Randomization"
+    },
+    {
+        "Keyword": "Return Oriented Programming"
+    },
+    {
+        "Keyword": "program launcher"
+    },
+    {
+        "Keyword": "Procedure Linkage Table"
+    },
+    {
+        "Keyword": "Dynamic allocation"
+    },
+    {
+        "Keyword": "Buffer overflow"
+    },
+    {
+        "Keyword": "Argument control"
+    },
+    {
+        "Keyword": "gadget"
+    },
+    {
+        "Keyword": "Data Execution Prevention"
+    },
+    {
+        "Keyword": "Relocation Read-Only"
+    },
+    {
+        "Keyword": "Symbol "
+    },
+    {
+        "Keyword": "Stack canary"
+    },
+    {
+        "Keyword": "Child process"
+    },
+    {
+        "Keyword": "Jeopardy"
     }
 ]
