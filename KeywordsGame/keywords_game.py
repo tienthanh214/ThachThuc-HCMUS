@@ -382,7 +382,7 @@ if __name__ == '__main__':
                         game.timer += 1
                     else:
                         game.timer -= 1
-                if game.timer == 30:
+                if game.timer == 30 and not game.is_endless_mode:
                     pygame.mixer.music.play(-1)
             if event.type == pygame.MOUSEBUTTONDOWN:
                 game.checkButton()
