@@ -9,9 +9,11 @@
 import json
 import pygame
 import random
+import os
+import sys
 
 # read keywords from json
-link = "Keywords\keywords_.json"
+link = os.path.join("Keywords", "keywords_.json")
 file = open(link)
 data = json.load(file)
 file.close()
@@ -375,7 +377,7 @@ if __name__ == '__main__':
         for event in event_list:
             if event.type == pygame.QUIT:
                 pygame.quit()
-                quit()
+                sys.exit()
             if event.type == pygame.USEREVENT:
                 if game.inGame != 0:
                     if game.is_endless_mode: # endless mode
