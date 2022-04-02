@@ -1,12 +1,8 @@
 import pandas
 import json
-import xlsxwriter
 
-data_link = 'E:\GoogleDrive\ThachThuc\Keywords-Contribute.xlsx'
-
-# updated_index = pandas.read_excel(data_link, engine = 'openpyxl', usecols = ["UpdatedIndex"]).dropna()
-
-# idx = int(updated_index['UpdatedIndex'][0])
+data_link = 'C:/Users/Asus/Downloads/Keywords-Contribute.xlsx' 
+link = 'E:/HCMUS/CONTEST/THACH_THUC/KeywordsGame/keywords/keywords_.json' 
 
 excel_data_df = pandas.read_excel(data_link, engine = 'openpyxl').dropna(how = 'all')
 
@@ -31,15 +27,14 @@ excel_data_df.to_excel(writer, sheet_name = 'Sheet1', header = True, index = Fal
 writer.save()
 
 
-
-# update new records to data_base
+# ------------- update new records to data_base ----------------
 
 data = json.loads(json_str)
-link = 'C:/Users/ninhh/Downloads/auto-py-to-exe-master/auto-py-to-exe-master/output/keywords/keywords_.json'
 file = open(link)
 feeds = json.load(file)
 feeds.extend(data)
-print(len(feeds))
+file.close()
+print('Number of keywords: ', len(feeds))
 
 with open(link, 'w') as file:
     file.write(json.dumps(feeds, indent = 4))
