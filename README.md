@@ -5,11 +5,18 @@
   <img src="/images/thachthuc2020.jpg"/>
 </p>
 
+- [Vòng loại](https://fb.watch/cxfsq6TVac/)
+- [Bán kết](https://fb.watch/cxfzyzacV8/)
+- [Chung kết](https://fb.watch/cxfCxOMJcv/)
+
 ## 2021 - Runner up
 <p align="center">
   <img src="/images/thachthuc021.jpg"/>
 </p>
 
+- [Vòng loại](https://fb.watch/cxfGs1ViWC/)
+- [Bán kết](https://fb.watch/cxf-k1-h4O/)
+- [Chung kết](https://fb.watch/cxgASKmFDy/)
 
 ## Team member
 K19 Honors Program - FIT@HCMUS
