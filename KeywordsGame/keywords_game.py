@@ -372,8 +372,7 @@ class Setting:
 
     def prepare_data(self):
         global data
-        for i in range(10):
-            random.shuffle(data)
+        data = sorted(data, key = lambda x: (0 if 'Count' not in x else x['Count']) * random.random())
 
     def load_data(self, left, right):
         if (self.order == 1):
