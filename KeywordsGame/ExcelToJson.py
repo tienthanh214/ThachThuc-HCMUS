@@ -1,8 +1,8 @@
 import pandas
 import json
 
-data_link = 'C:/Users/Asus/Downloads/Keywords-Contribute.xlsx' 
-link = 'E:/HCMUS/CONTEST/THACH_THUC/KeywordsGame/keywords/keywords_.json' 
+data_link = '/Users/lap15158/Downloads/Keywords-Contribute.xlsx' 
+link = './KeywordsGame/keywords/keywords_.json' 
 
 excel_data_df = pandas.read_excel(data_link, engine = 'openpyxl').dropna(how = 'all')
 

@@ -4699,5 +4699,68 @@
     },
     {
         "Keyword": "Naive Bayes"
+    },
+    {
+        "Keyword": "Load balancer"
+    },
+    {
+        "Keyword": "Cache hit"
+    },
+    {
+        "Keyword": "Master-slave relationship"
+    },
+    {
+        "Keyword": "Content delivery network"
+    },
+    {
+        "Keyword": "Digital identity"
+    },
+    {
+        "Keyword": "maximum likelihood estimation"
+    },
+    {
+        "Keyword": "Canny Edge Detector"
+    },
+    {
+        "Keyword": "Sobel Operator"
+    },
+    {
+        "Keyword": "Prewitt Operator"
+    },
+    {
+        "Keyword": "DeepFake Detection"
+    },
+    {
+        "Keyword": "Face swapping"
+    },
+    {
+        "Keyword": "Lip-syncing"
+    },
+    {
+        "Keyword": "Head Puppetry"
+    },
+    {
+        "Keyword": "Metric learning"
+    },
+    {
+        "Keyword": "Contrastive learning"
+    },
+    {
+        "Keyword": "Siamese network"
+    },
+    {
+        "Keyword": "Triplet loss"
+    },
+    {
+        "Keyword": "Cross entropy"
+    },
+    {
+        "Keyword": "Information retrieval"
+    },
+    {
+        "Keyword": "Bidirectional Encoder Representations from Transformers"
+    },
+    {
+        "Keyword": "Generative Pre-trained Transformer"
     }
 ]
