@@ -1,0 +1,26 @@
+.container {
+    padding-top: 30px;
+    width: 80%;
+}
+
+.container .info-area {
+    /* padding-right: 40px; */
+    /* text-align: right; */
+    padding-bottom: 10px;
+}
+
+.container .result-box {
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    gap: 24px;
+}
+
+.container .result-box .result-item {
+    background-color:darkcyan;
+    border-radius: 20%;
+    padding-inline: 10px;
+    font-size: 16px;
+    color: white;
+}
