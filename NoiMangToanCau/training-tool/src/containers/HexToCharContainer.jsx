@@ -4,7 +4,7 @@ import { genHexValue } from "../utils/random";
 import "./HexToCharContainer.css";
 
 export default function HexToCharContainer() {
-	const MAX_CHAR_PLAY = 35;
+	const MAX_CHAR_PLAY = 30;
 	const [hexValue, setHexValue] = useState("Press Enter to start");
 	const [point, setPoint] = useState(0);
 	const [total, setTotal] = useState(0);
@@ -61,8 +61,8 @@ export default function HexToCharContainer() {
 		<div className="container">
 			<div className="info-area">
 				<h3 style={{ color: "green" }}>
-					<span style={{ color: "black" }}>Score: </span>
-					{point} / {total}
+					<span style={{ color: "black" }}>Score:</span>
+					{point} / {Math.max(total - 1, 0)}
 				</h3>
 			</div>
 			<div className="play-area">
