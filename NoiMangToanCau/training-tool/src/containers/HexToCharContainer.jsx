@@ -4,7 +4,7 @@ import { genHexValue } from "../utils/random";
 import "./HexToCharContainer.css";
 
 export default function HexToCharContainer() {
-	const MAX_CHAR_PLAY = 35;
+	const MAX_CHAR_PLAY = 3;
 	const [hexValue, setHexValue] = useState("Press Enter to start");
 	const [point, setPoint] = useState(0);
 	const [total, setTotal] = useState(0);
@@ -22,8 +22,13 @@ export default function HexToCharContainer() {
 			setHexValue(newHex);
 			return;
 		}
+		const newPoint =
+			point +
+			(hexValue === userInputValue.charCodeAt(0).toString(16).toUpperCase());
+		if (!isGameOver) setPoint(newPoint);
+
 		if (total >= MAX_CHAR_PLAY) {
-			setHexValue(`Your score: ${point}/${total}`);
+			setHexValue(`Your score: ${newPoint}/${total}`);
 			const currentGameOver = isGameOver;
 			console.log(isGameOver);
 			setIsGameOver((isGameOver) => !isGameOver);
@@ -32,10 +37,6 @@ export default function HexToCharContainer() {
 			setHexValue(newHex);
 			setTotal((total) => total + 1);
 		}
-		const newPoint =
-			point +
-			(hexValue === userInputValue.charCodeAt(0).toString(16).toUpperCase());
-		setPoint(newPoint);
 	};
 
 	const appendResult = (curPoint) => {
@@ -61,8 +62,8 @@ export default function HexToCharContainer() {
 		<div className="container">
 			<div className="info-area">
 				<h3 style={{ color: "green" }}>
-					<span style={{ color: "black" }}>Score: </span>
-					{point} / {total}
+					<span style={{ color: "black" }}>Score:</span>
+					{point} / {Math.max(total - 1, 0)}
 				</h3>
 			</div>
 			<div className="play-area">

@@ -158,10 +158,20 @@ class Game:
         self.mode_list = OptionBox(width // 10 * 6, 420, 160, 40, (150, 150, 150), (100, 200, 255), score_font, ["Official", "Endless"])
         self.is_endless_mode = False
 
+        self.hasUpdated = False
+
+    def updateCounter(self, keyword_index):
+        if "Count" not in data[keyword_index]:
+            data[keyword_index]['Count'] = 0
+        data[keyword_index]['Count'] += 1
+        self.hasUpdated = True
+
     # handle click event on button
     def checkButton(self):
         if self.inGame == 1:
             if self.correct_button.isPressed():
+                # count to prevent over-fit
+                self.updateCounter(self.keyword_index)
                 self.keyword_index += 1
                 self.score += 1
                 if self.keyword_index % NUM_KEYWORDs == 0 and self.is_endless_mode == False:
@@ -262,6 +272,12 @@ class Game:
         self.again_button = Button(600, 500, 150, 50, "Play again")
         self.again_button.draw(surface)
 
+        if self.hasUpdated:
+            self.hasUpdated = False            
+            with open(link, 'w') as file:
+                file.write(json.dumps(data, indent = 4))
+                file.close()
+
     # ----- set up intro stage ----
     
     def setupOrderChoice(self):
@@ -356,8 +372,7 @@ class Setting:
 
     def prepare_data(self):
         global data
-        for i in range(10):
-            random.shuffle(data)
+        data = sorted(data, key = lambda x: ((0 if 'Count' not in x else x['Count']) + 1) * random.random())
 
     def load_data(self, left, right):
         if (self.order == 1):
