@@ -29,9 +29,14 @@ int check_symmetry(vector<vector<int>> map, int mode) {
                 if (is_vertical) return VERTICAL;
                 if (is_main_diagonnal) return MAIN_DIAGONAL;
                 if (is_sub_diagonnal) return SUB_DIAGONAL;
-                return -1;
+                return -1; // Map khong doi xung
             }
         }
+    if (is_horizontal) return HORIZONTAL;
+    if (is_vertical) return VERTICAL;
+    if (is_main_diagonnal) return MAIN_DIAGONAL;
+    if (is_sub_diagonnal) return SUB_DIAGONAL;
+    return -2; // code bug
 }
 
 int main() {
