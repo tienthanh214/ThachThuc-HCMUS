@@ -4,8 +4,6 @@ import GameWrapper from "./GameWrapper";
 export default function CharToBin() {
 	const MAX_CHAR_PLAY = 32;
 
-    
-
 	const onCheckCorrect = (charValue, userInputValue) => {
         return parseInt(userInputValue, 2) + 32 === charValue.charCodeAt(0)
     }

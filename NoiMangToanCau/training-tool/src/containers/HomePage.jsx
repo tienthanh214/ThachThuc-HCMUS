@@ -9,7 +9,7 @@ export default function HomePage({listGame}) {
             <div className="menu">
                 {
                     listGame.map((game) => (
-                        <Link to={game.link}>
+                        <Link to={game.link} key={game.link}>
                             <button className="item">
                                 {game.name}
                             </button>

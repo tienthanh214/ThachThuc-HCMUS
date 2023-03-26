@@ -11,3 +11,7 @@ export function genHexValue(min, max) {
 export function genCharValue(min, max) {
     return String.fromCharCode(getRandomInt(min, max))
 }
+
+export function genBinValue(min, max) {
+    return getRandomInt(min, max).toString(2).padStart(4, '0')
+}

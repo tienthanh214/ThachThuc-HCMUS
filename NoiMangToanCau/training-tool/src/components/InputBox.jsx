@@ -10,9 +10,6 @@ export default function InputBox({handleEnter, length}) {
 
     const handleKeyDown = (e) => {
         if (e.key === 'Enter') {
-			if (value.length < length) {
-				return
-			}
             handleEnter(value)
             setValue('')
         }
