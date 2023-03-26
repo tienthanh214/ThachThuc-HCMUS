@@ -9,9 +9,11 @@ export default function HomePage({listGame}) {
             <div className="menu">
                 {
                     listGame.map((game) => (
-                        <div className="item" key={game.name}>
-                            <Link to={game.link}>{game.name}</Link>
-                        </div>
+                        <Link to={game.link}>
+                            <button className="item">
+                                {game.name}
+                            </button>
+                        </Link>
                     ))
                 }
             </div>

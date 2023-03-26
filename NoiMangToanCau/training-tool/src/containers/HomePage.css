@@ -1,21 +1,37 @@
 .home-page {
-    padding: 16px;
+	padding: 16px;
 }
 
 .home-page .menu {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    flex-wrap: wrap;
 }
 
 .home-page .menu .item {
-    margin-top: 16px;
-    background-color: lightblue;
-    font-size: 20px;
-    padding: 16px;
-    border-radius: 8px;
-    color: white;
-    font-weight: 700;
-    box-shadow: inset;
-    text-shadow: 1lvi;
+	margin-top: 24px;
+	font-size: 20px;
+	padding: 16px;
+	font-weight: bold;
+	box-shadow: inset;
+	text-shadow: 1lvi;
+	height: 100px;
+	width: 200px;
+
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+    background-size: 200% auto;
+	transition: 0.5s;
+	color: white;
+	background-image: linear-gradient(
+		to right,
+		#fbc2eb 0%,
+		#a6c1ee 51%,
+		#fbc2eb 100%
+	);
+}
+
+.item:hover {
+    background-position: right center;
 }
