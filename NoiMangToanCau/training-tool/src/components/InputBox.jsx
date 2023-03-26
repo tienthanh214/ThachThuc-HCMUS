@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-export default function InputBox({handleEnter}) {
+export default function InputBox({handleEnter, length}) {
 	const inputRef = useRef();
 	const [value, setValue] = useState("");
 
@@ -21,8 +21,8 @@ export default function InputBox({handleEnter}) {
 			type="text"
 			required
 			autoFocus
-			maxLength={1}
-			minLength={1}
+			maxLength={length}
+			minLength={length}
 			value={value}
 			onChange={(e) => setValue(e.target.value)}
             onKeyDown={(e) => handleKeyDown(e)}
