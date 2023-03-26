@@ -1,0 +1,21 @@
+.home-page {
+    padding: 16px;
+}
+
+.home-page .menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home-page .menu .item {
+    margin-top: 16px;
+    background-color: lightblue;
+    font-size: 20px;
+    padding: 16px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    box-shadow: inset;
+    text-shadow: 1lvi;
+}
