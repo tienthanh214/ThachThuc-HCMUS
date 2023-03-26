@@ -4,12 +4,14 @@ import CharToBin from "./containers/CharToBit";
 import HexToChar from "./containers/HexToChar";
 import HomePage from "./containers/HomePage";
 import BinToHex from "./containers/BinToHex";
+import DecToHex from "./containers/DecToHex";
 
 function App() {
 	const listGame = [
 		{name: 'Hex To Char', link: "/hex2char", component: HexToChar},
 		{name: 'Char To 5 bit', link: "/char2bin", component: CharToBin},
-		{name: '4 Bit To Hex', link: "/bin2hex", component: BinToHex}
+		{name: '4 Bit To Hex', link: "/bin2hex", component: BinToHex},
+		{name: 'Dec To Hex', link: "/dec2hex", component: DecToHex}
 
 	]
 
