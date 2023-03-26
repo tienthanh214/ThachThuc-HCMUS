@@ -12,27 +12,46 @@ export default function HexToCharContainer() {
 
 	const [result, setResult] = useState([]);
 	const [startTime, setStartTime] = useState(0);
+	const [wrongAnswer, setWrongAnswer] = useState([]);
+	const [message, setMessage] = useState("");
 
 	const onHandleCompare = (userInputValue) => {
 		if (total > 1 && userInputValue === "") return;
 		const newHex = genHexValue(32, 126);
 		if (total === 0) {
+			setMessage('')
+			setWrongAnswer([])
 			setStartTime(new Date());
 			setTotal(1);
 			setHexValue(newHex);
 			return;
 		}
-		const newPoint =
-			point +
-			(hexValue === userInputValue.charCodeAt(0).toString(16).toUpperCase());
-		if (!isGameOver) setPoint(newPoint);
+		const isCorrect =
+			hexValue === userInputValue.charCodeAt(0).toString(16).toUpperCase();
+		const newPoint = point + isCorrect;
 
+		if (!isGameOver) {
+			setPoint(newPoint);
+			if (!isCorrect) {
+				const newWrongAnswer = [
+					...wrongAnswer,
+					{
+						ans: hexValue,
+						your: userInputValue,
+					},
+				];
+				setWrongAnswer(newWrongAnswer);
+			}
+		}
 		if (total >= MAX_CHAR_PLAY) {
-			setHexValue(`Your score: ${newPoint}/${total}`);
+			setMessage(`Your score: ${newPoint}/${total}`);
+			setHexValue("Press Enter to continue");
 			const currentGameOver = isGameOver;
-			console.log(isGameOver);
 			setIsGameOver((isGameOver) => !isGameOver);
-			if (currentGameOver) return;
+			if (currentGameOver) {
+				return
+			}
+				
 		} else {
 			setHexValue(newHex);
 			setTotal((total) => total + 1);
@@ -71,6 +90,21 @@ export default function HexToCharContainer() {
 				<h3 style={{ fontSize: 40, color: "blue" }}>{hexValue}</h3>
 				<InputBox handleEnter={onHandleCompare} />
 			</div>
+			<div className="last-result">{message ? (
+				<>
+				<h3>
+					{message}
+				</h3>
+				<div className="wrong-list">
+					{
+						wrongAnswer.map((res, id) => (
+							<p key={id} style={{fontSize: 18}}>{id + 1}. <span style={{color: 'green', fontWeight: 'bold'}}>{res.ans}</span> → <span style={{color: 'red'}}>{res.your}</span> </p>
+						))
+					}
+				</div>
+				</>
+
+			) : null}</div>
 			<div className="result-box">
 				{result.map((res, id) => (
 					<div key={id} className="result-item">
