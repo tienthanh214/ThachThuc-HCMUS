@@ -1,11 +1,12 @@
 import "./App.css";
-import HexToCharContainer from "./containers/HexToCharContainer";
+import CharToBin from "./containers/CharToBit";
+import HexToChar from "./containers/HexToChar";
 
 function App() {
 	return (
 		<div className="App">
 			<div className="App-body">
-				<HexToCharContainer />
+				<CharToBin />
 			</div>
 		</div>
 	);

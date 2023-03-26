@@ -1,7 +1,7 @@
 import { genHexValue } from "../utils/random";
 import GameWrapper from "./GameWrapper";
 
-export default function HexToCharContainer() {
+export default function HexToChar() {
 	const MAX_CHAR_PLAY = 35;
 
 	const onCheckCorrect = (hexValue, userInputValue) => {

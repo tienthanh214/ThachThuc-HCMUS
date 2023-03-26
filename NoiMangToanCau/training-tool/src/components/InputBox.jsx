@@ -10,6 +10,9 @@ export default function InputBox({handleEnter, length}) {
 
     const handleKeyDown = (e) => {
         if (e.key === 'Enter') {
+			if (value.length < length) {
+				return
+			}
             handleEnter(value)
             setValue('')
         }
@@ -19,7 +22,7 @@ export default function InputBox({handleEnter, length}) {
 		<input
             ref={inputRef}
 			type="text"
-			required
+			required={true}
 			autoFocus
 			maxLength={length}
 			minLength={length}

@@ -8,3 +8,6 @@ export function genHexValue(min, max) {
     return getRandomInt(min, max).toString(16).toUpperCase()
 }
 
+export function genCharValue(min, max) {
+    return String.fromCharCode(getRandomInt(min, max))
+}
