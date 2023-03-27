@@ -5,7 +5,12 @@ export default function BinToHex() {
     const MAX_CHAR_PLAY = 35;
 
 	const onCheckCorrect = (binValue, userInputValue) => {
-        return parseInt(binValue, 2) === parseInt(userInputValue, 10)
+		let bin = parseInt(binValue, 2);
+		if (bin < 10)
+        	return bin === parseInt(userInputValue, 10);
+		
+		userInputValue = userInputValue.toUpperCase();
+		return userInputValue.length < 2 && userInputValue.charCodeAt(0) - ("A").charCodeAt(0) + 10 === bin;
     }
 
 	return <GameWrapper gameName={"Convert 4 bit below to hex"}
