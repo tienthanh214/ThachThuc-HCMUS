@@ -16,4 +16,3 @@ for i in range(0, len(lines), 2):
         print(chr(cur), end = '')
     print('\n')
 
-        
