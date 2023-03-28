@@ -1,3 +1,8 @@
+# Training NMTC tool
+## Usage
+Open file `app/index.html` to run on your browser locally
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
