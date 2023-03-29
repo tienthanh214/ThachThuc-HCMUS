@@ -9,7 +9,7 @@ export default function CharToBin() {
     }
 
 	return <GameWrapper gameName={"Convert char below to 5 bit"}
-		genQuestion={() => genCharValue(32, 63)}
+		genQuestion={() => genCharValue(33, 63)}
 		checkCorrect={onCheckCorrect}
 		numOfQuestion={MAX_CHAR_PLAY}
 		answerLength={5}

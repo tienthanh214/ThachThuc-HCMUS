@@ -1,0 +1,195 @@
+[INFO] Step: 0, Remaining steps: 49/50
+[TeamThanh] Invalid starting point (11, 2), retrying...
+[TeamThanh][TeamThanh2] starting points: (15, 3), (1, 14).
+[TeamThanh] Starting point (15, 3).
+[TeamThanh2] Starting point (1, 14).
+[INFO] Step: 1, Remaining steps: 48/50
+[TeamThanh] Move from (15, 3) to (14, 3)
+[TeamThanh2] Move from (1, 14) to (2, 14)
+[TeamThanh] Get 1 coins.
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 2, Remaining steps: 47/50
+[TeamThanh] Move from (14, 3) to (14, 2)
+[TeamThanh2] Move from (2, 14) to (2, 13)
+[TeamThanh] Get 1 coins.
+[INFO] Step: 3, Remaining steps: 46/50
+[TeamThanh] Move from (14, 2) to (13, 2)
+[TeamThanh2] Move from (2, 13) to (2, 12)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 4, Remaining steps: 45/50
+[TeamThanh] Move from (13, 2) to (12, 2)
+[TeamThanh2] Move from (2, 12) to (2, 11)
+[TeamThanh] Get 2 coins.
+[TeamThanh2] Get 4 coins.
+[INFO] Step: 5, Remaining steps: 44/50
+[TeamThanh] Move from (12, 2) to (11, 2)
+[TeamThanh2] Move from (2, 11) to (3, 11)
+[TeamThanh] Get 4 coins.
+[INFO] Step: 6, Remaining steps: 43/50
+[TeamThanh] Move from (11, 2) to (10, 2)
+[TeamThanh2] Move from (3, 11) to (3, 10)
+[TeamThanh2] Get 3 coins.
+[INFO] Step: 7, Remaining steps: 42/50
+[TeamThanh] Move from (10, 2) to (10, 3)
+[TeamThanh2] Move from (3, 10) to (3, 9)
+[TeamThanh] Get 3 coins.
+[TeamThanh2] Get 4 coins.
+[INFO] Step: 8, Remaining steps: 41/50
+[TeamThanh] Move from (10, 3) to (9, 3)
+[TeamThanh2] Move from (3, 9) to (3, 8)
+[TeamThanh] Get 4 coins.
+[INFO] Step: 9, Remaining steps: 40/50
+[TeamThanh] Move from (9, 3) to (9, 4)
+[TeamThanh2] Move from (3, 8) to (4, 8)
+[TeamThanh] Get 1 coins.
+[INFO] Step: 10, Remaining steps: 39/50
+[TeamThanh] Move from (9, 4) to (8, 4)
+[TeamThanh2] Move from (4, 8) to (4, 7)
+[TeamThanh2] Get 3 coins.
+[INFO] Step: 11, Remaining steps: 38/50
+[TeamThanh] Move from (8, 4) to (7, 4)
+[TeamThanh2] Move from (4, 7) to (3, 7)
+[TeamThanh] Get 3 coins.
+[INFO] Step: 12, Remaining steps: 37/50
+[TeamThanh] Move from (7, 4) to (6, 4)
+[TeamThanh2] Move from (3, 7) to (3, 6)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 13, Remaining steps: 36/50
+[TeamThanh] Move from (6, 4) to (6, 5)
+[TeamThanh2] Move from (3, 6) to (3, 5)
+[TeamThanh] Get 2 coins.
+[INFO] Step: 14, Remaining steps: 35/50
+[TeamThanh] Move from (6, 5) to (6, 4)
+[TeamThanh2] Move from (3, 5) to (3, 4)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 15, Remaining steps: 34/50
+[TeamThanh] Move from (6, 4) to (6, 3)
+[TeamThanh2] Move from (3, 4) to (4, 4)
+[TeamThanh] Get 2 coins.
+[TeamThanh2] Get 6 coins.
+[INFO] Step: 16, Remaining steps: 33/50
+[TeamThanh] Move from (6, 3) to (7, 3)
+[TeamThanh2] Move from (4, 4) to (4, 3)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 17, Remaining steps: 32/50
+[TeamThanh] Move from (7, 3) to (7, 2)
+[TeamThanh2] Move from (4, 3) to (5, 3)
+[TeamThanh] Get 3 coins.
+[INFO] Step: 18, Remaining steps: 31/50
+[TeamThanh] Move from (7, 2) to (7, 3)
+[TeamThanh2] Move from (5, 3) to (5, 4)
+[INFO] Step: 19, Remaining steps: 30/50
+[TeamThanh] Move from (7, 3) to (7, 4)
+[TeamThanh2] Move from (5, 4) to (5, 5)
+[INFO] Step: 20, Remaining steps: 29/50
+[TeamThanh] Move from (7, 4) to (7, 5)
+[TeamThanh2] Move from (5, 5) to (5, 6)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 21, Remaining steps: 28/50
+[TeamThanh] Move from (7, 5) to (7, 6)
+[TeamThanh2] Move from (5, 6) to (5, 7)
+[TeamThanh] Get 1 coins.
+[INFO] Step: 22, Remaining steps: 27/50
+[TeamThanh] Move from (7, 6) to (6, 6)
+[TeamThanh2] Move from (5, 7) to (5, 8)
+[INFO] Step: 23, Remaining steps: 26/50
+[TeamThanh] Move from (6, 6) to (6, 7)
+[TeamThanh2] Move from (5, 8) to (5, 9)
+[TeamThanh] Get 1 coins.
+[INFO] Step: 24, Remaining steps: 25/50
+[TeamThanh] Move from (6, 7) to (6, 8)
+[TeamThanh2] Move from (5, 9) to (5, 10)
+[TeamThanh2] Equip shield.
+[INFO] Step: 25, Remaining steps: 24/50
+Treasure appeared at (8, 8). Treasure value = 2.
+[TeamThanh] Move from (6, 8) to (5, 8)
+[TeamThanh2] Move from (5, 10) to (5, 11)
+[INFO] Step: 26, Remaining steps: 23/50
+[TeamThanh] Move from (5, 8) to (4, 8)
+[TeamThanh2] Move from (5, 11) to (6, 11)
+[TeamThanh2] Get 3 coins.
+[INFO] Step: 27, Remaining steps: 22/50
+[TeamThanh] Move from (4, 8) to (3, 8)
+[TeamThanh2] Move from (6, 11) to (5, 11)
+[INFO] Step: 28, Remaining steps: 21/50
+[TeamThanh] Move from (3, 8) to (3, 7)
+[TeamThanh2] Move from (5, 11) to (4, 11)
+[INFO] Step: 29, Remaining steps: 20/50
+[TeamThanh] Move from (3, 7) to (2, 7)
+[TeamThanh2] Move from (4, 11) to (4, 10)
+[TeamThanh] Get 3 coins.
+[TeamThanh2] Encounter trap.
+[INFO] Step: 30, Remaining steps: 19/50
+[TeamThanh] Move from (2, 7) to (3, 7)
+[TeamThanh2] Move from (4, 10) to (5, 10)
+[INFO] Step: 31, Remaining steps: 18/50
+[TeamThanh] Move from (3, 7) to (2, 7)
+[TeamThanh2] Move from (5, 10) to (6, 10)
+[INFO] Step: 32, Remaining steps: 17/50
+[TeamThanh] Move from (2, 7) to (1, 7)
+[TeamThanh2] Move from (6, 10) to (7, 10)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 33, Remaining steps: 16/50
+[TeamThanh] Move from (1, 7) to (1, 6)
+[TeamThanh2] Move from (7, 10) to (7, 9)
+[INFO] Step: 34, Remaining steps: 15/50
+[TeamThanh] Move from (1, 6) to (1, 5)
+[TeamThanh2] Move from (7, 9) to (7, 8)
+[INFO] Step: 35, Remaining steps: 14/50
+[TeamThanh] Move from (1, 5) to (1, 4)
+[TeamThanh2] Move from (7, 8) to (8, 8)
+[TeamThanh] Get 1 coins.
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 36, Remaining steps: 13/50
+[TeamThanh] Move from (1, 4) to (2, 4)
+[TeamThanh2] Move from (8, 8) to (9, 8)
+[INFO] Step: 37, Remaining steps: 12/50
+[TeamThanh] Move from (2, 4) to (2, 3)
+[TeamThanh2] Move from (9, 8) to (9, 7)
+[TeamThanh] Get 1 coins.
+[INFO] Step: 38, Remaining steps: 11/50
+[TeamThanh] Move from (2, 3) to (2, 4)
+[TeamThanh2] Move from (9, 7) to (10, 7)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 39, Remaining steps: 10/50
+[TeamThanh] Move from (2, 4) to (3, 4)
+[TeamThanh2] Move from (10, 7) to (11, 7)
+[INFO] Step: 40, Remaining steps: 9/50
+[TeamThanh] Move from (3, 4) to (4, 4)
+[TeamThanh2] Move from (11, 7) to (11, 6)
+[TeamThanh2] Get 3 coins.
+[INFO] Step: 41, Remaining steps: 8/50
+[TeamThanh] Move from (4, 4) to (5, 4)
+[TeamThanh2] Move from (11, 6) to (11, 7)
+[INFO] Step: 42, Remaining steps: 7/50
+[TeamThanh] Move from (5, 4) to (5, 5)
+[TeamThanh2] Move from (11, 7) to (11, 8)
+[INFO] Step: 43, Remaining steps: 6/50
+[TeamThanh] Move from (5, 5) to (6, 5)
+[TeamThanh2] Move from (11, 8) to (11, 9)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 44, Remaining steps: 5/50
+[TeamThanh] Move from (6, 5) to (5, 5)
+[TeamThanh2] Move from (11, 9) to (10, 9)
+[TeamThanh2] Encounter trap.
+[INFO] Step: 45, Remaining steps: 4/50
+[TeamThanh] Move from (5, 5) to (6, 5)
+[TeamThanh2] Move from (10, 9) to (9, 9)
+[INFO] Step: 46, Remaining steps: 3/50
+[TeamThanh] Move from (6, 5) to (7, 5)
+[TeamThanh2] Move from (9, 9) to (9, 10)
+[TeamThanh2] Encounter trap.
+[INFO] Step: 47, Remaining steps: 2/50
+[TeamThanh] Move from (7, 5) to (8, 5)
+[TeamThanh2] Move from (9, 10) to (9, 11)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 48, Remaining steps: 1/50
+[TeamThanh] Move from (8, 5) to (9, 5)
+[TeamThanh2] Move from (9, 11) to (8, 11)
+[INFO] Step: 49, Remaining steps: 0/50
+[TeamThanh] Move from (9, 5) to (10, 5)
+[TeamThanh2] Move from (8, 11) to (9, 11)
+[TeamThanh] Equip shield.
+Final score:
+[TeamThanh] is alive and shielded with 33 coins.
+[TeamThanh2] is alive and shielded with 43 coins.
