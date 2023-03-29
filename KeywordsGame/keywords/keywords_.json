@@ -1,438 +1,38 @@
 [
     {
-        "Keyword": "Joomla",
+        "Keyword": "Scope",
         "Count": 1
     },
     {
-        "Keyword": "Entropy",
+        "Keyword": "Top-down",
         "Count": 1
     },
     {
-        "Keyword": "Exponent",
+        "Keyword": "Heuristics",
         "Count": 1
     },
     {
-        "Keyword": "Automaton",
+        "Keyword": "Decryption",
         "Count": 1
     },
     {
-        "Keyword": "memory dumping",
+        "Keyword": "File Format",
         "Count": 1
     },
     {
-        "Keyword": "Dynamic allocation",
+        "Keyword": "Asynchronus",
         "Count": 1
     },
     {
-        "Keyword": "Logical Memory Address",
+        "Keyword": "Rate adaptation",
         "Count": 1
     },
     {
-        "Keyword": "National Security Agency",
+        "Keyword": "Bag of Features",
         "Count": 1
     },
     {
-        "Keyword": "Longest common subsequence",
-        "Count": 1
-    },
-    {
-        "Keyword": "International Collegiate Programming Contest",
-        "Count": 1
-    },
-    {
-        "Keyword": "NoSQL",
-        "Count": 1
-    },
-    {
-        "Keyword": "Hashtag",
-        "Count": 1
-    },
-    {
-        "Keyword": "Blowfish",
-        "Count": 1
-    },
-    {
-        "Keyword": "Galaxy 4S",
-        "Count": 1
-    },
-    {
-        "Keyword": "Video Card",
-        "Count": 1
-    },
-    {
-        "Keyword": "Theta Join",
-        "Count": 1
-    },
-    {
-        "Keyword": "Spanning tree",
-        "Count": 1
-    },
-    {
-        "Keyword": "Mark Zuckerberg",
-        "Count": 1
-    },
-    {
-        "Keyword": "Information Gain",
-        "Count": 1
-    },
-    {
-        "Keyword": "Red Hat Enterprise",
-        "Count": 1
-    },
-    {
-        "Keyword": "Connectionless - Phi ket noi, vi du UDP"
-    },
-    {
-        "Keyword": "Ken Thompson"
-    },
-    {
-        "Keyword": "Predictive Analytics"
-    },
-    {
-        "Keyword": "Hyperlink"
-    },
-    {
-        "Keyword": "Linux Distribution",
-        "Count": 1
-    },
-    {
-        "Keyword": "Saigon Hi Tech Park"
-    },
-    {
-        "Keyword": "Port"
-    },
-    {
-        "Keyword": "Branch Statements"
-    },
-    {
-        "Keyword": "Tim Cook",
-        "Count": 1
-    },
-    {
-        "Keyword": "Scope"
-    },
-    {
-        "Keyword": "Cookies",
-        "Count": 2
-    },
-    {
-        "Keyword": "Normal Form",
-        "Count": 1
-    },
-    {
-        "Keyword": "floppy disk",
-        "Count": 1
-    },
-    {
-        "Keyword": "hexadecimal",
-        "Count": 1
-    },
-    {
-        "Keyword": "Hash Function",
-        "Count": 1
-    },
-    {
-        "Keyword": "Stack Overflow",
-        "Count": 1
-    },
-    {
-        "Keyword": "Singular Value Decomposition",
-        "Count": 1
-    },
-    {
-        "Keyword": "Abstract Syntax Notation One",
-        "Count": 1
-    },
-    {
-        "Keyword": "Multiplexing -- Demultiplexing",
-        "Count": 2
-    },
-    {
-        "Keyword": "Complex Instruction Set Computing",
-        "Count": 1
-    },
-    {
-        "Keyword": "Flyweight Pattern"
-    },
-    {
-        "Keyword": "Frequency-division Multiplexing",
-        "Count": 1
-    },
-    {
-        "Keyword": "totient"
-    },
-    {
-        "Keyword": "Security"
-    },
-    {
-        "Keyword": "Jeopardy"
-    },
-    {
-        "Keyword": "Windows"
-    },
-    {
-        "Keyword": "rijndael"
-    },
-    {
-        "Keyword": "Recursion"
-    },
-    {
-        "Keyword": "WhatsApp"
-    },
-    {
-        "Keyword": "end-to-end"
-    },
-    {
-        "Keyword": "Botnet",
-        "Count": 2
-    },
-    {
-        "Keyword": "Datacenter",
-        "Count": 1
-    },
-    {
-        "Keyword": "Clock Rate",
-        "Count": 1
-    },
-    {
-        "Keyword": "Outsourcing",
-        "Count": 1
-    },
-    {
-        "Keyword": "Sparse Coding",
-        "Count": 1
-    },
-    {
-        "Keyword": "Generalization",
-        "Count": 1
-    },
-    {
-        "Keyword": "First In First Out",
-        "Count": 1
-    },
-    {
-        "Keyword": "Dalvik Virtual Machine",
-        "Count": 1
-    },
-    {
-        "Keyword": "Filename Date Created (MFT)",
-        "Count": 1
-    },
-    {
-        "Keyword": "Scale invarient feature transform",
-        "Count": 1
-    },
-    {
-        "Keyword": "Minesweeper"
-    },
-    {
-        "Keyword": "Smartphone",
-        "Count": 1
-    },
-    {
-        "Keyword": "Static Method",
-        "Count": 1
-    },
-    {
-        "Keyword": "Response"
-    },
-    {
-        "Keyword": "Router"
-    },
-    {
-        "Keyword": "System R"
-    },
-    {
-        "Keyword": "Digital Watermarking"
-    },
-    {
-        "Keyword": "Go-Back N"
-    },
-    {
-        "Keyword": "Hard disk drive"
-    },
-    {
-        "Keyword": "Generative Adversarial Network Modeling"
-    },
-    {
-        "Keyword": "IPv4",
-        "Count": 2
-    },
-    {
-        "Keyword": "HAS-A",
-        "Count": 1
-    },
-    {
-        "Keyword": "Header",
-        "Count": 1
-    },
-    {
-        "Keyword": "Trojan",
-        "Count": 1
-    },
-    {
-        "Keyword": "Wikileaks",
-        "Count": 2
-    },
-    {
-        "Keyword": "Half Duplex",
-        "Count": 2
-    },
-    {
-        "Keyword": "Tail Recursion",
-        "Count": 1
-    },
-    {
-        "Keyword": "Mediator Pattern",
-        "Count": 1
-    },
-    {
-        "Keyword": "Interpolation search",
-        "Count": 1
-    },
-    {
-        "Keyword": "Java Foundation Classes",
-        "Count": 1
-    },
-    {
-        "Keyword": "least-significant bit "
-    },
-    {
-        "Keyword": "Website"
-    },
-    {
-        "Keyword": "Sign"
-    },
-    {
-        "Keyword": "HipHop Virtual Machine"
-    },
-    {
-        "Keyword": "Cloud Storage"
-    },
-    {
-        "Keyword": "Unikey",
-        "Count": 1
-    },
-    {
-        "Keyword": "Dotted Decimal Notation - vidu 192.168.1.1"
-    },
-    {
-        "Keyword": "Combinatoric",
-        "Count": 1
-    },
-    {
-        "Keyword": "Index Operator"
-    },
-    {
-        "Keyword": "Virtual Inheriatance"
-    },
-    {
-        "Keyword": "C#",
-        "Count": 1
-    },
-    {
-        "Keyword": "AngularJS",
-        "Count": 1
-    },
-    {
-        "Keyword": "Read Only",
-        "Count": 1
-    },
-    {
-        "Keyword": "Input Device",
-        "Count": 1
-    },
-    {
-        "Keyword": "private exponent",
-        "Count": 1
-    },
-    {
-        "Keyword": "Integrated Circuit",
-        "Count": 2
-    },
-    {
-        "Keyword": "Rectified Linear Unit",
-        "Count": 1
-    },
-    {
-        "Keyword": "Rivest - Shamir - Adleman",
-        "Count": 1
-    },
-    {
-        "Keyword": "General Data Protection Regulation"
-    },
-    {
-        "Keyword": "Simple Mail Transfer Protocol - SMTP"
-    },
-    {
-        "Keyword": "Wii",
-        "Count": 1
-    },
-    {
-        "Keyword": "Graph",
-        "Count": 1
-    },
-    {
-        "Keyword": "Swing",
-        "Count": 1
-    },
-    {
-        "Keyword": "GLONASS",
-        "Count": 1
-    },
-    {
-        "Keyword": "Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "Big-endian",
-        "Count": 2
-    },
-    {
-        "Keyword": "Argument control",
-        "Count": 1
-    },
-    {
-        "Keyword": "Fragmentation Offset",
-        "Count": 1
-    },
-    {
-        "Keyword": "Packet-Switched Network",
-        "Count": 1
-    },
-    {
-        "Keyword": "Distinguished Encoding Rules"
-    },
-    {
-        "Keyword": "Procedure",
-        "Count": 1
-    },
-    {
-        "Keyword": "Hackathon",
-        "Count": 1
-    },
-    {
-        "Keyword": "Googlecode",
-        "Count": 1
-    },
-    {
-        "Keyword": "Cisco System",
-        "Count": 1
-    },
-    {
-        "Keyword": "Secure Socket Layer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Cross Site Scripting",
-        "Count": 1
-    },
-    {
-        "Keyword": "Least Significant Bit",
-        "Count": 1
-    },
-    {
-        "Keyword": "Initialization Vector",
+        "Keyword": "Link-Layer Controller",
         "Count": 1
     },
     {
@@ -440,412 +40,61 @@
         "Count": 1
     },
     {
-        "Keyword": "Histogram Specification",
+        "Keyword": "Infomation Security"
+    },
+    {
+        "Keyword": "Ginger Bread"
+    },
+    {
+        "Keyword": "Import"
+    },
+    {
+        "Keyword": "Hashtag"
+    },
+    {
+        "Keyword": "Fibonacci"
+    },
+    {
+        "Keyword": "base station"
+    },
+    {
+        "Keyword": "Bit per second"
+    },
+    {
+        "Keyword": "Delimiter"
+    },
+    {
+        "Keyword": "shared library"
+    },
+    {
+        "Keyword": "Intergrity"
+    },
+    {
+        "Keyword": "Kitkat",
         "Count": 1
     },
     {
-        "Keyword": "Metric learning"
-    },
-    {
-        "Keyword": "Wireless"
-    },
-    {
-        "Keyword": "IP Address"
-    },
-    {
-        "Keyword": "Data Access Layer"
-    },
-    {
-        "Keyword": "Vertex",
-        "Count": 1
-    },
-    {
-        "Keyword": "Overriding"
-    },
-    {
-        "Keyword": "Attacker"
-    },
-    {
-        "Keyword": "Electronic Codebook"
-    },
-    {
-        "Keyword": "Crowdfunding"
-    },
-    {
-        "Keyword": "Software interrupt"
-    },
-    {
-        "Keyword": "Stub",
-        "Count": 1
-    },
-    {
-        "Keyword": "Push",
-        "Count": 1
-    },
-    {
-        "Keyword": "Redis",
-        "Count": 1
-    },
-    {
-        "Keyword": "Stream",
-        "Count": 1
-    },
-    {
-        "Keyword": "Constant",
-        "Count": 1
-    },
-    {
-        "Keyword": "Induction",
-        "Count": 1
-    },
-    {
-        "Keyword": "Data Warehouse",
-        "Count": 1
-    },
-    {
-        "Keyword": "Computer Graphics",
-        "Count": 1
-    },
-    {
-        "Keyword": "Client-Server Protocol",
+        "Keyword": "Cookie",
         "Count": 2
     },
     {
-        "Keyword": "Constraint Programming",
+        "Keyword": "Viettel",
         "Count": 1
     },
     {
-        "Keyword": "Finite State Machine",
-        "Count": 1
-    },
-    {
-        "Keyword": "Robotics"
-    },
-    {
-        "Keyword": "gadget"
-    },
-    {
-        "Keyword": "Source code"
-    },
-    {
-        "Keyword": "Version"
-    },
-    {
-        "Keyword": "Divide and Conquer"
-    },
-    {
-        "Keyword": "Digitization"
-    },
-    {
-        "Keyword": "World Cyber Game"
-    },
-    {
-        "Keyword": "Multiple Inheritance"
-    },
-    {
-        "Keyword": "Sequence diagram"
-    },
-    {
-        "Keyword": "HTC",
+        "Keyword": "Gateway",
         "Count": 1
     },
     {
         "Keyword": "NP Hard",
-        "Count": 2
-    },
-    {
-        "Keyword": "Backbone",
         "Count": 1
     },
     {
-        "Keyword": "Consistency",
+        "Keyword": "Password",
         "Count": 1
     },
     {
-        "Keyword": "Adjacency Matrix",
-        "Count": 1
-    },
-    {
-        "Keyword": "Best case Complexity",
-        "Count": 1
-    },
-    {
-        "Keyword": "Greatest Common Divisor",
-        "Count": 1
-    },
-    {
-        "Keyword": "basic input output system",
-        "Count": 1
-    },
-    {
-        "Keyword": "Hypertext Markup Language",
-        "Count": 1
-    },
-    {
-        "Keyword": "Propogating Cipher Block Chaining",
-        "Count": 1
-    },
-    {
-        "Keyword": "Binary Code"
-    },
-    {
-        "Keyword": "Data Management"
-    },
-    {
-        "Keyword": "Port Address Translation"
-    },
-    {
-        "Keyword": "Windows Phone Store",
-        "Count": 1
-    },
-    {
-        "Keyword": "Content Delivery Network"
-    },
-    {
-        "Keyword": "Cycle"
-    },
-    {
-        "Keyword": "Tree",
-        "Count": 1
-    },
-    {
-        "Keyword": "Edge"
-    },
-    {
-        "Keyword": "Text Editor"
-    },
-    {
-        "Keyword": "CSMA/CD, trien khai CSMA la Carrier Sense Multiple Access"
-    },
-    {
-        "Keyword": "C",
-        "Count": 1
-    },
-    {
-        "Keyword": "SCRUM",
-        "Count": 1
-    },
-    {
-        "Keyword": "Intersect",
-        "Count": 1
-    },
-    {
-        "Keyword": "Flash Sort",
-        "Count": 1
-    },
-    {
-        "Keyword": "Negative cycle",
-        "Count": 2
-    },
-    {
-        "Keyword": "Application Layer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Concurrency pattern",
-        "Count": 1
-    },
-    {
-        "Keyword": "Consumer Electronics Show",
-        "Count": 1
-    },
-    {
-        "Keyword": "Universal Coordinated Time",
-        "Count": 1
-    },
-    {
-        "Keyword": "Distributed Hash Tables - ky thuat su dung trong torrent",
-        "Count": 1
-    },
-    {
-        "Keyword": "Code Reuse"
-    },
-    {
-        "Keyword": "Critical Section"
-    },
-    {
-        "Keyword": "Responsive Web",
-        "Count": 1
-    },
-    {
-        "Keyword": "Location"
-    },
-    {
-        "Keyword": "Output"
-    },
-    {
-        "Keyword": "Extraction Operator",
-        "Count": 1
-    },
-    {
-        "Keyword": "Beacon"
-    },
-    {
-        "Keyword": "Bit mask",
-        "Count": 1
-    },
-    {
-        "Keyword": "LISP"
-    },
-    {
-        "Keyword": "SQL injection payload"
-    },
-    {
-        "Keyword": "F#",
-        "Count": 2
-    },
-    {
-        "Keyword": "CUDA",
-        "Count": 1
-    },
-    {
-        "Keyword": "MongoDB",
-        "Count": 2
-    },
-    {
-        "Keyword": "Navigate",
-        "Count": 1
-    },
-    {
-        "Keyword": "Ivy Bridge",
-        "Count": 1
-    },
-    {
-        "Keyword": "Brute Force",
-        "Count": 1
-    },
-    {
-        "Keyword": "Administrator",
-        "Count": 1
-    },
-    {
-        "Keyword": "Digital Signal Processing",
-        "Count": 1
-    },
-    {
-        "Keyword": "Graphics Device Interface",
-        "Count": 1
-    },
-    {
-        "Keyword": "Resource Acquisition Is Initialization",
-        "Count": 1
-    },
-    {
-        "Keyword": "SmallTalk"
-    },
-    {
-        "Keyword": "Hamming Distance"
-    },
-    {
-        "Keyword": "Local Aread Network"
-    },
-    {
-        "Keyword": "Host Aliasing"
-    },
-    {
-        "Keyword": "Taskbar"
-    },
-    {
-        "Keyword": "Advanced Micro Devices",
-        "Count": 1
-    },
-    {
-        "Keyword": "Coursera"
-    },
-    {
-        "Keyword": "Resource-Management Cells"
-    },
-    {
-        "Keyword": "Perfectly Secure"
-    },
-    {
-        "Keyword": "gamification"
-    },
-    {
-        "Keyword": "Emacs",
-        "Count": 1
-    },
-    {
-        "Keyword": "pandas",
-        "Count": 1
-    },
-    {
-        "Keyword": "Sub String",
-        "Count": 1
-    },
-    {
-        "Keyword": "Na\u00efve Bayes",
-        "Count": 1
-    },
-    {
-        "Keyword": "Sourceforge",
-        "Count": 1
-    },
-    {
-        "Keyword": "Sort Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "Concrete Class",
-        "Count": 1
-    },
-    {
-        "Keyword": "nonvolatine memory",
-        "Count": 1
-    },
-    {
-        "Keyword": "Virtual Private Network",
-        "Count": 1
-    },
-    {
-        "Keyword": "Address Resolution Protocol - ARP",
-        "Count": 1
-    },
-    {
-        "Keyword": "Larry Ellison"
-    },
-    {
-        "Keyword": "Google Web Toolkit"
-    },
-    {
-        "Keyword": "deep fake"
-    },
-    {
-        "Keyword": "Public Key"
-    },
-    {
-        "Keyword": "Normal Distribution"
-    },
-    {
-        "Keyword": "User Datagram Protocol - UDP"
-    },
-    {
-        "Keyword": "Backpropagation"
-    },
-    {
-        "Keyword": "Collision Domain"
-    },
-    {
-        "Keyword": "Strategy"
-    },
-    {
-        "Keyword": "Symbol ",
-        "Count": 1
-    },
-    {
-        "Keyword": "Kafka",
-        "Count": 1
-    },
-    {
-        "Keyword": "Tumblr",
-        "Count": 1
-    },
-    {
-        "Keyword": "Triplet loss",
-        "Count": 1
-    },
-    {
-        "Keyword": "Static Array",
+        "Keyword": "Read Only",
         "Count": 1
     },
     {
@@ -853,4006 +102,476 @@
         "Count": 1
     },
     {
-        "Keyword": "Smart contract",
-        "Count": 1
-    },
-    {
-        "Keyword": "Formal Variable",
-        "Count": 1
-    },
-    {
-        "Keyword": "Boruvska Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "Reference Parameter"
-    },
-    {
-        "Keyword": "Spanning-Tree Broadcast"
-    },
-    {
-        "Keyword": "Certificate Authority",
-        "Count": 1
-    },
-    {
-        "Keyword": "Anonymity"
-    },
-    {
-        "Keyword": "Method Overloading"
-    },
-    {
-        "Keyword": "Manhattan Distance"
-    },
-    {
-        "Keyword": "Persistent Connections"
-    },
-    {
-        "Keyword": "Picasa",
-        "Count": 1
-    },
-    {
-        "Keyword": "Lip-syncing"
-    },
-    {
-        "Keyword": "Halt Problem"
-    },
-    {
-        "Keyword": "Relational Database"
-    },
-    {
-        "Keyword": "Infomation Security"
-    },
-    {
-        "Keyword": "Mutexes"
-    },
-    {
-        "Keyword": "Safari"
-    },
-    {
-        "Keyword": "Information Theory"
-    },
-    {
-        "Keyword": "Augmented Reality"
-    },
-    {
-        "Keyword": "Macbook Pro",
-        "Count": 1
-    },
-    {
-        "Keyword": "Private Key"
-    },
-    {
-        "Keyword": "Ruby"
-    },
-    {
-        "Keyword": "Threat modeling"
-    },
-    {
-        "Keyword": "Race Condition"
-    },
-    {
-        "Keyword": "Sergey Brin"
-    },
-    {
-        "Keyword": "CIA Triad"
-    },
-    {
-        "Keyword": "Hidden Markov Model"
-    },
-    {
-        "Keyword": "Internet Group Management Protocol - IGMP",
+        "Keyword": "Network Layer",
         "Count": 2
     },
     {
-        "Keyword": "Base Class",
+        "Keyword": "batch processing",
         "Count": 1
     },
     {
-        "Keyword": "Event-driven Programming"
-    },
-    {
-        "Keyword": "Call of Duty",
-        "Count": 1
-    },
-    {
-        "Keyword": "Operating System"
-    },
-    {
-        "Keyword": "Pixel"
-    },
-    {
-        "Keyword": "Java Applet"
-    },
-    {
-        "Keyword": "Avast"
-    },
-    {
-        "Keyword": "State Pattern"
-    },
-    {
-        "Keyword": "Dropbox"
-    },
-    {
-        "Keyword": "Prolog"
-    },
-    {
-        "Keyword": "Non-repudiation"
-    },
-    {
-        "Keyword": "Flow Control"
-    },
-    {
-        "Keyword": "Landmark recognition"
-    },
-    {
-        "Keyword": "Mutable"
-    },
-    {
-        "Keyword": "Memory Leak"
-    },
-    {
-        "Keyword": "Biometric"
-    },
-    {
-        "Keyword": "Moore Law"
-    },
-    {
-        "Keyword": "Simple Mail Transfer Protocol"
-    },
-    {
-        "Keyword": "shared library"
-    },
-    {
-        "Keyword": "Polish prefix notation"
-    },
-    {
-        "Keyword": "Primitive"
-    },
-    {
-        "Keyword": "Effective Variable"
-    },
-    {
-        "Keyword": "Nondeterministic Polynomial time",
-        "Count": 1
-    },
-    {
-        "Keyword": "Binary Insertion Sort"
-    },
-    {
-        "Keyword": "Delimiter"
-    },
-    {
-        "Keyword": "Creational pattern"
-    },
-    {
-        "Keyword": "Explicit Casting"
-    },
-    {
-        "Keyword": "Abstract Factory Pattern"
-    },
-    {
-        "Keyword": "File system"
+        "Keyword": "Siri"
     },
     {
         "Keyword": "Little-endian"
     },
     {
-        "Keyword": "Sequentially Access"
+        "Keyword": "Plug-and-Play Protocol"
     },
     {
-        "Keyword": "Memento Pattern"
+        "Keyword": "FLoating-point Operations Per Second"
     },
     {
-        "Keyword": "Nested Recursion"
+        "Keyword": "Euler's Formula"
     },
     {
-        "Keyword": "Data Type Definition"
+        "Keyword": "Packet-Switched Network"
     },
     {
-        "Keyword": "Rich Site Summary"
+        "Keyword": "C#"
     },
     {
-        "Keyword": "Microsoft Developer Network"
+        "Keyword": "Cookies"
     },
     {
-        "Keyword": "Directory"
+        "Keyword": "Nintendo"
     },
     {
-        "Keyword": "Apple App Store"
+        "Keyword": "Network Topology"
     },
     {
-        "Keyword": "Functional Overloading"
-    },
-    {
-        "Keyword": "Kindle Fire"
-    },
-    {
-        "Keyword": "Hack"
-    },
-    {
-        "Keyword": "AlphaFord"
-    },
-    {
-        "Keyword": "Recommender System"
-    },
-    {
-        "Keyword": "hand off"
-    },
-    {
-        "Keyword": "Structured Query Language"
-    },
-    {
-        "Keyword": "Silicon Valley",
+        "Keyword": "Stub",
         "Count": 1
     },
     {
-        "Keyword": "Entry Date Accessed"
-    },
-    {
-        "Keyword": "Tim Berners-Lee"
-    },
-    {
-        "Keyword": "Nanocomputer"
-    },
-    {
-        "Keyword": "Reference Variable"
-    },
-    {
-        "Keyword": "Fatal Error",
+        "Keyword": "Revoke",
         "Count": 1
     },
     {
-        "Keyword": "Document Object Model"
-    },
-    {
-        "Keyword": "Programming Language"
-    },
-    {
-        "Keyword": "Function Library"
-    },
-    {
-        "Keyword": "Data access object",
+        "Keyword": "Full Duplex",
         "Count": 1
     },
     {
-        "Keyword": "Windows 8"
-    },
-    {
-        "Keyword": "Pseudocode"
-    },
-    {
-        "Keyword": "Memory Fragment"
-    },
-    {
-        "Keyword": "Paul Allen"
-    },
-    {
-        "Keyword": "Broadband"
-    },
-    {
-        "Keyword": "exclusive OR"
-    },
-    {
-        "Keyword": "Subnet"
-    },
-    {
-        "Keyword": "Class diagram"
-    },
-    {
-        "Keyword": "Casting"
-    },
-    {
-        "Keyword": "Class-level Member"
-    },
-    {
-        "Keyword": "Leap Motion"
-    },
-    {
-        "Keyword": "Gateway"
-    },
-    {
-        "Keyword": "circuit",
+        "Keyword": "Encapsulation",
         "Count": 1
     },
     {
-        "Keyword": "OculusVR"
-    },
-    {
-        "Keyword": "Quicksort"
-    },
-    {
-        "Keyword": "Regular Expression"
-    },
-    {
-        "Keyword": "payload"
-    },
-    {
-        "Keyword": "Skype"
-    },
-    {
-        "Keyword": "Cloning Pattern"
-    },
-    {
-        "Keyword": "Google Hummingbird"
-    },
-    {
-        "Keyword": "File Format"
-    },
-    {
-        "Keyword": "Peer-to-peer"
-    },
-    {
-        "Keyword": "Personal Home Page"
-    },
-    {
-        "Keyword": "Google API"
-    },
-    {
-        "Keyword": "Platform as a Service"
-    },
-    {
-        "Keyword": "PreEmptive"
-    },
-    {
-        "Keyword": "Presentation Layer"
-    },
-    {
-        "Keyword": "Slammer"
-    },
-    {
-        "Keyword": "Completely Automated Public Turing test to tell Computers and Humans Apart"
-    },
-    {
-        "Keyword": "XCode"
-    },
-    {
-        "Keyword": "Standard Template Library"
-    },
-    {
-        "Keyword": "Multilayer Perceptrons",
+        "Keyword": "Abstract Class",
         "Count": 1
     },
     {
-        "Keyword": "BTalk"
+        "Keyword": "Transport Layer",
+        "Count": 2
     },
     {
-        "Keyword": "Javascript"
-    },
-    {
-        "Keyword": "Deepfake  Technology"
-    },
-    {
-        "Keyword": "XPath"
-    },
-    {
-        "Keyword": "Venn Diagram"
-    },
-    {
-        "Keyword": "Digitalization"
-    },
-    {
-        "Keyword": "Pentium",
+        "Keyword": "Project Operator",
         "Count": 1
     },
     {
-        "Keyword": "Total Commander"
-    },
-    {
-        "Keyword": "Google Instant"
-    },
-    {
-        "Keyword": "Interrupt",
+        "Keyword": "Microsoft Visual Studio",
         "Count": 1
     },
     {
-        "Keyword": "Double Data Rate"
-    },
-    {
-        "Keyword": "Natural Language Processing"
-    },
-    {
-        "Keyword": "Heuristics"
-    },
-    {
-        "Keyword": "Anjuta"
-    },
-    {
-        "Keyword": "Objective-C"
-    },
-    {
-        "Keyword": "Point-to-Point"
-    },
-    {
-        "Keyword": "Peripheral Component Interconnect Express"
-    },
-    {
-        "Keyword": "Google Doodle"
-    },
-    {
-        "Keyword": "The Art of Computer Programming"
-    },
-    {
-        "Keyword": "Linksys"
-    },
-    {
-        "Keyword": "Pipeline"
-    },
-    {
-        "Keyword": "Intellectual property rights"
-    },
-    {
-        "Keyword": "Netscape"
-    },
-    {
-        "Keyword": "Interrupts"
-    },
-    {
-        "Keyword": "Markov Process",
+        "Keyword": "Longest common subsequence",
         "Count": 1
     },
     {
-        "Keyword": "Marshmallow"
-    },
-    {
-        "Keyword": "Gang of Four"
-    },
-    {
-        "Keyword": "American Standard Code for Information Interchange"
-    },
-    {
-        "Keyword": "Data Abstraction"
-    },
-    {
-        "Keyword": "Counter Strike",
+        "Keyword": "Infrastructure as a Service",
         "Count": 1
     },
     {
-        "Keyword": "Input"
+        "Keyword": "Union"
     },
     {
-        "Keyword": "ASUS",
-        "Count": 1
-    },
-    {
-        "Keyword": "Ruby on Rail",
-        "Count": 1
-    },
-    {
-        "Keyword": "Enigma"
-    },
-    {
-        "Keyword": "Information Security"
-    },
-    {
-        "Keyword": "Revoke"
-    },
-    {
-        "Keyword": "Balanced Binary Search Tree"
-    },
-    {
-        "Keyword": "Relational Algebra"
-    },
-    {
-        "Keyword": "Physical Memory Address"
-    },
-    {
-        "Keyword": "Method"
-    },
-    {
-        "Keyword": "Java"
-    },
-    {
-        "Keyword": "Quality Assurance"
-    },
-    {
-        "Keyword": "Confidentiality"
-    },
-    {
-        "Keyword": "Algorithmic Complexity"
-    },
-    {
-        "Keyword": "Nondeterministic finite automaton"
-    },
-    {
-        "Keyword": "HyperText Transfer Protocol Secure"
-    },
-    {
-        "Keyword": "Distant Centralized Databases"
-    },
-    {
-        "Keyword": "Memoization"
-    },
-    {
-        "Keyword": "Red-Black Tree",
-        "Count": 1
-    },
-    {
-        "Keyword": "Server Side Request Forgery"
-    },
-    {
-        "Keyword": "snippet"
-    },
-    {
-        "Keyword": "Proxy Patern"
-    },
-    {
-        "Keyword": "Local Variable"
-    },
-    {
-        "Keyword": "Sobel Operator"
-    },
-    {
-        "Keyword": "Dynamic Array"
-    },
-    {
-        "Keyword": "Deep Blue"
-    },
-    {
-        "Keyword": "Viber"
-    },
-    {
-        "Keyword": "Support Vector Machine",
-        "Count": 1
-    },
-    {
-        "Keyword": "Speech Recognition"
-    },
-    {
-        "Keyword": "Member-wise Copy"
-    },
-    {
-        "Keyword": "Search Engine Optimization"
-    },
-    {
-        "Keyword": "Laptop"
-    },
-    {
-        "Keyword": "Peterson"
-    },
-    {
-        "Keyword": "Artificial Intelligent"
-    },
-    {
-        "Keyword": "Interpolation Search"
-    },
-    {
-        "Keyword": "Regular Language"
-    },
-    {
-        "Keyword": "Cache-friendly"
-    },
-    {
-        "Keyword": "Business Logic Layer"
-    },
-    {
-        "Keyword": "VLSI - Very Large Scale Integrated"
-    },
-    {
-        "Keyword": "retransmission",
-        "Count": 1
-    },
-    {
-        "Keyword": "Mobile Application"
-    },
-    {
-        "Keyword": "LUA"
-    },
-    {
-        "Keyword": "Cryptography"
-    },
-    {
-        "Keyword": "CRT Monitor"
-    },
-    {
-        "Keyword": "Endianess"
-    },
-    {
-        "Keyword": "Adversarial Attack"
-    },
-    {
-        "Keyword": "Import"
-    },
-    {
-        "Keyword": "Overflow"
-    },
-    {
-        "Keyword": "Dijkstra Algorithm"
-    },
-    {
-        "Keyword": "Most Significant Bit"
-    },
-    {
-        "Keyword": "Process Mapping"
-    },
-    {
-        "Keyword": "Imperative Programming"
-    },
-    {
-        "Keyword": "What You See is What You Get"
-    },
-    {
-        "Keyword": "Handshake ",
-        "Count": 1
-    },
-    {
-        "Keyword": "Twitter"
-    },
-    {
-        "Keyword": "Shortest seek time first"
-    },
-    {
-        "Keyword": "Logistic Regression"
-    },
-    {
-        "Keyword": "K-nearest neighbor",
-        "Count": 1
-    },
-    {
-        "Keyword": "DirectX"
-    },
-    {
-        "Keyword": "C-style casting"
-    },
-    {
-        "Keyword": "Function Overloading"
-    },
-    {
-        "Keyword": "Logical Operator"
-    },
-    {
-        "Keyword": "Coding Theory"
-    },
-    {
-        "Keyword": "Reusability"
-    },
-    {
-        "Keyword": "Intergrity"
-    },
-    {
-        "Keyword": "Remote Procedure Call"
-    },
-    {
-        "Keyword": "Database Security"
-    },
-    {
-        "Keyword": "Validation"
-    },
-    {
-        "Keyword": "Digital"
-    },
-    {
-        "Keyword": "Distributed Denial of Service"
-    },
-    {
-        "Keyword": "Offset"
-    },
-    {
-        "Keyword": "Automotive Engineering"
-    },
-    {
-        "Keyword": "Serial Advanced Technology Attachment"
-    },
-    {
-        "Keyword": "batch processing"
-    },
-    {
-        "Keyword": "Object"
-    },
-    {
-        "Keyword": "Default Constructor"
-    },
-    {
-        "Keyword": "Cisco"
-    },
-    {
-        "Keyword": "AOL"
-    },
-    {
-        "Keyword": "Link Layer"
-    },
-    {
-        "Keyword": "Statistical Analysis System"
-    },
-    {
-        "Keyword": "Link-Layer Controller"
-    },
-    {
-        "Keyword": "Semaphore"
-    },
-    {
-        "Keyword": "Hologram"
-    },
-    {
-        "Keyword": "Maximum Transmission Unit - MTU"
-    },
-    {
-        "Keyword": "VMWare"
-    },
-    {
-        "Keyword": "Naive Bayes"
-    },
-    {
-        "Keyword": "Functional Programming"
-    },
-    {
-        "Keyword": "Cyclic Redundancy Check - CRC, kiem du vong"
-    },
-    {
-        "Keyword": "Network Address Translation"
-    },
-    {
-        "Keyword": "Metric Space"
-    },
-    {
-        "Keyword": "Binary Search Tree"
-    },
-    {
-        "Keyword": "Assembly Language"
-    },
-    {
-        "Keyword": "Bluray"
-    },
-    {
-        "Keyword": "PostgreSQL"
-    },
-    {
-        "Keyword": "Friend Class"
+        "Keyword": "Stateful - luu giu trang thai, vi du dung Cookies"
     },
     {
         "Keyword": "Alan Turing"
     },
     {
-        "Keyword": "Malware"
+        "Keyword": "Function Template"
     },
     {
-        "Keyword": "Embedded System"
+        "Keyword": "BITNET"
     },
     {
-        "Keyword": "Supercomputer"
+        "Keyword": "Wireless"
     },
     {
-        "Keyword": "OpenGL ES"
+        "Keyword": "Inheritance"
     },
     {
-        "Keyword": "Advanced Encryption Standard (AES)"
+        "Keyword": "Debugging"
     },
     {
-        "Keyword": "Degree",
+        "Keyword": "The Art of Computer Programming"
+    },
+    {
+        "Keyword": "cryptosystem"
+    },
+    {
+        "Keyword": "Node",
         "Count": 1
     },
     {
-        "Keyword": "Principal Component Analysis"
-    },
-    {
-        "Keyword": "Encapsulation"
-    },
-    {
-        "Keyword": "Substitution Cipher"
-    },
-    {
-        "Keyword": "John Von Neumann"
-    },
-    {
-        "Keyword": "Buffer"
-    },
-    {
-        "Keyword": "Jelly Bean"
-    },
-    {
-        "Keyword": "Lotus Software"
-    },
-    {
-        "Keyword": "Neural Network"
-    },
-    {
-        "Keyword": "Composite Pattern"
-    },
-    {
-        "Keyword": "Vigenere Cipher"
-    },
-    {
-        "Keyword": "Battlefield"
-    },
-    {
-        "Keyword": "Modeling",
+        "Keyword": "Throw",
         "Count": 1
     },
     {
-        "Keyword": "Geographic Information System"
-    },
-    {
-        "Keyword": "Basic Data Type"
-    },
-    {
-        "Keyword": "Stack canary"
-    },
-    {
-        "Keyword": "Dependent"
-    },
-    {
-        "Keyword": "Fiber Distribute Data Interface - FDDI"
-    },
-    {
-        "Keyword": "Insertion Operator"
-    },
-    {
-        "Keyword": "Superclass"
-    },
-    {
-        "Keyword": "symetric multiprocessing"
-    },
-    {
-        "Keyword": "Memory Address"
-    },
-    {
-        "Keyword": "Platform"
-    },
-    {
-        "Keyword": "Facade Pattern",
+        "Keyword": "Anonymous",
         "Count": 1
     },
     {
-        "Keyword": "Decryption"
-    },
-    {
-        "Keyword": "Interpreter Pattern"
-    },
-    {
-        "Keyword": "Arithmetic Logic Unit"
-    },
-    {
-        "Keyword": "Mode of Operation"
-    },
-    {
-        "Keyword": "BitTorrent"
-    },
-    {
-        "Keyword": "Friend Function"
-    },
-    {
-        "Keyword": "Chain of Responsibility Pattern"
-    },
-    {
-        "Keyword": "Test Case",
+        "Keyword": "Access Point",
         "Count": 1
     },
     {
-        "Keyword": "Nokia City Lens"
-    },
-    {
-        "Keyword": "Long Short Term Memory",
+        "Keyword": "Hamilton Cycle",
         "Count": 1
     },
     {
-        "Keyword": "Cryptocurrency"
+        "Keyword": "Negative cycle",
+        "Count": 2
     },
     {
-        "Keyword": "Institute of Electrical and Electronics Engineers"
-    },
-    {
-        "Keyword": "Hungarian Notation"
-    },
-    {
-        "Keyword": "Client"
-    },
-    {
-        "Keyword": "Process Control Block - PCB"
-    },
-    {
-        "Keyword": "Factory Method Pattern"
-    },
-    {
-        "Keyword": "Widget",
+        "Keyword": "Mutual Recursion",
         "Count": 1
     },
     {
-        "Keyword": "Internet Service Provider",
+        "Keyword": "Linear Regression",
         "Count": 1
     },
     {
-        "Keyword": "Haswell"
-    },
-    {
-        "Keyword": "Compiler"
-    },
-    {
-        "Keyword": "Yahoo Messenger"
-    },
-    {
-        "Keyword": "Abstract Data Type"
-    },
-    {
-        "Keyword": "Data Control Language"
-    },
-    {
-        "Keyword": "Bit"
-    },
-    {
-        "Keyword": "Windows 3.1"
-    },
-    {
-        "Keyword": "Sub-program"
-    },
-    {
-        "Keyword": "Advanced Encryption Standard",
+        "Keyword": "Java Foundation Classes",
         "Count": 1
     },
     {
-        "Keyword": "asymmetric encryption"
-    },
-    {
-        "Keyword": "Playstation Vita"
-    },
-    {
-        "Keyword": "Operand"
-    },
-    {
-        "Keyword": "Eyetracking"
-    },
-    {
-        "Keyword": "Files Transfer Protocol"
-    },
-    {
-        "Keyword": "Car-to-car Communication"
-    },
-    {
-        "Keyword": "Scrash"
-    },
-    {
-        "Keyword": "Probability"
-    },
-    {
-        "Keyword": "Kickstarter"
-    },
-    {
-        "Keyword": "Linear Algebra"
-    },
-    {
-        "Keyword": "Walk",
-        "Count": 1
-    },
-    {
-        "Keyword": "Y2K bug"
-    },
-    {
-        "Keyword": "Multi-hop"
-    },
-    {
-        "Keyword": "Prim Algorithm"
-    },
-    {
-        "Keyword": "Dimension"
-    },
-    {
-        "Keyword": "Smartwatch"
-    },
-    {
-        "Keyword": "Loop Structure"
-    },
-    {
-        "Keyword": "Skydrive"
-    },
-    {
-        "Keyword": "Border Gateway Protocol, dinh tuyen ngoai vung"
-    },
-    {
-        "Keyword": "Octave"
-    },
-    {
-        "Keyword": "High-Performance Computer"
-    },
-    {
-        "Keyword": "Functional Dependency"
-    },
-    {
-        "Keyword": "Data Encryption Standard"
-    },
-    {
-        "Keyword": "Wrapping"
-    },
-    {
-        "Keyword": "Parameter"
-    },
-    {
-        "Keyword": "Request to Send"
-    },
-    {
-        "Keyword": "sigmoid"
-    },
-    {
-        "Keyword": "disk image"
-    },
-    {
-        "Keyword": "Maximum Segment Size"
-    },
-    {
-        "Keyword": "Cache"
-    },
-    {
-        "Keyword": "Digital Forensics"
-    },
-    {
-        "Keyword": "String"
-    },
-    {
-        "Keyword": "Behavioral pattern"
-    },
-    {
-        "Keyword": "Top-down"
-    },
-    {
-        "Keyword": "network protocol analyzer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Conditional Expression",
-        "Count": 1
-    },
-    {
-        "Keyword": "Elsevier"
-    },
-    {
-        "Keyword": "Classification"
-    },
-    {
-        "Keyword": "Mozilla Firefox"
-    },
-    {
-        "Keyword": "Java Platform Enterprise Edition"
-    },
-    {
-        "Keyword": "Thinkpad"
-    },
-    {
-        "Keyword": "Variable Declaration"
-    },
-    {
-        "Keyword": "Quantum Computer"
-    },
-    {
-        "Keyword": "Username"
-    },
-    {
-        "Keyword": "Reference"
-    },
-    {
-        "Keyword": "Secure Hash Algorithm"
-    },
-    {
-        "Keyword": "Multiple Thread"
-    },
-    {
-        "Keyword": "Command Pattern"
-    },
-    {
-        "Keyword": "Amazon web services"
-    },
-    {
-        "Keyword": "Constraint"
-    },
-    {
-        "Keyword": "Polling"
-    },
-    {
-        "Keyword": "privilege escalation"
-    },
-    {
-        "Keyword": "Specification"
-    },
-    {
-        "Keyword": "Control Structure"
-    },
-    {
-        "Keyword": "Direct Memory Access - DMA",
-        "Count": 1
-    },
-    {
-        "Keyword": "Parent class"
-    },
-    {
-        "Keyword": "Block"
-    },
-    {
-        "Keyword": "Compare"
-    },
-    {
-        "Keyword": "Software as a Service"
-    },
-    {
-        "Keyword": "Deep Learning"
-    },
-    {
-        "Keyword": "Bitmap Header"
-    },
-    {
-        "Keyword": "Metaprogramming"
-    },
-    {
-        "Keyword": "DeepFake"
-    },
-    {
-        "Keyword": "Data Encryption Standard (DES)"
-    },
-    {
-        "Keyword": "Language-Integrated Query"
-    },
-    {
-        "Keyword": "Rational Unified Process"
-    },
-    {
-        "Keyword": "Polymorphism"
-    },
-    {
-        "Keyword": "Hadoop"
-    },
-    {
-        "Keyword": "git fork"
-    },
-    {
-        "Keyword": "Root Class"
-    },
-    {
-        "Keyword": "Thread"
-    },
-    {
-        "Keyword": "Windows Phone"
-    },
-    {
-        "Keyword": "Capital Letter"
-    },
-    {
-        "Keyword": "Norton Commander"
-    },
-    {
-        "Keyword": "PostScript"
-    },
-    {
-        "Keyword": "shell"
-    },
-    {
-        "Keyword": "adhoc mode"
-    },
-    {
-        "Keyword": "Entry Date Created"
-    },
-    {
-        "Keyword": "Robert Noyce"
-    },
-    {
-        "Keyword": "Web Cache = Proxy Server"
-    },
-    {
-        "Keyword": "base pointer"
-    },
-    {
-        "Keyword": "Message Digest 5"
-    },
-    {
-        "Keyword": "Google Nexus"
-    },
-    {
-        "Keyword": "Web Browser"
-    },
-    {
-        "Keyword": "Rich Text Format"
-    },
-    {
-        "Keyword": "Namespace"
-    },
-    {
-        "Keyword": "Atomic"
-    },
-    {
-        "Keyword": "Node"
-    },
-    {
-        "Keyword": "Xbox One"
-    },
-    {
-        "Keyword": "Very large-scale integration"
-    },
-    {
-        "Keyword": "Pointer"
-    },
-    {
-        "Keyword": "TCP Packet -- UDP Segment"
-    },
-    {
-        "Keyword": "Scrolling"
-    },
-    {
-        "Keyword": "Hub"
-    },
-    {
-        "Keyword": "Adobe"
-    },
-    {
-        "Keyword": "Presentation Tier"
-    },
-    {
-        "Keyword": "Javascript Object Notation"
-    },
-    {
-        "Keyword": "Extract"
-    },
-    {
-        "Keyword": "Binary Exploitation"
-    },
-    {
-        "Keyword": "Delete"
-    },
-    {
-        "Keyword": "Adversarial Network"
-    },
-    {
-        "Keyword": "Face Detection"
-    },
-    {
-        "Keyword": "Data Type"
-    },
-    {
-        "Keyword": "Intrusion Detection System"
-    },
-    {
-        "Keyword": "Euclidean Distance"
-    },
-    {
-        "Keyword": "Variable"
-    },
-    {
-        "Keyword": "Optical Disk",
-        "Count": 1
-    },
-    {
-        "Keyword": "Isolation"
-    },
-    {
-        "Keyword": "Cryptology",
-        "Count": 1
-    },
-    {
-        "Keyword": "Internet Checksum"
-    },
-    {
-        "Keyword": "Media Access Control - MAC"
-    },
-    {
-        "Keyword": "Bootstrap"
-    },
-    {
-        "Keyword": "American National Standards Institute"
-    },
-    {
-        "Keyword": "Floating Point",
+        "Keyword": "HyperText Transfer Protocol Secure",
         "Count": 1
     },
     {
         "Keyword": "Association"
     },
     {
-        "Keyword": "Sub-routine"
+        "Keyword": "Use-case diagram"
     },
     {
-        "Keyword": "Bag of Words"
+        "Keyword": "Endianess"
     },
     {
-        "Keyword": "Lip-syncing"
+        "Keyword": "Electronic Codebook"
     },
     {
-        "Keyword": "Online Transaction Processing"
-    },
-    {
-        "Keyword": "Deep Reinforcement Learning"
-    },
-    {
-        "Keyword": "Vulnerability"
-    },
-    {
-        "Keyword": "Mathematica"
-    },
-    {
-        "Keyword": "Process"
-    },
-    {
-        "Keyword": "Bayesian Network",
+        "Keyword": "Statistic",
         "Count": 1
     },
     {
-        "Keyword": "bit parity",
-        "Count": 1
-    },
-    {
-        "Keyword": "Try Catch"
-    },
-    {
-        "Keyword": "Activation Function"
-    },
-    {
-        "Keyword": "Sector"
-    },
-    {
-        "Keyword": "Replay Attach"
-    },
-    {
-        "Keyword": "Integrated"
-    },
-    {
-        "Keyword": "Signal to Noise Ratio - SNR"
-    },
-    {
-        "Keyword": "Sony Picture"
-    },
-    {
-        "Keyword": "Business Logic Tier",
-        "Count": 1
-    },
-    {
-        "Keyword": "Automatic Repeat Request"
-    },
-    {
-        "Keyword": "Datagram"
-    },
-    {
-        "Keyword": "Wordpress"
-    },
-    {
-        "Keyword": "dereference operator"
-    },
-    {
-        "Keyword": "Host-to-Host"
-    },
-    {
-        "Keyword": "APARNET"
-    },
-    {
-        "Keyword": "Case Study",
-        "Count": 1
-    },
-    {
-        "Keyword": "User identity"
-    },
-    {
-        "Keyword": "Data"
-    },
-    {
-        "Keyword": "Distributed Databases",
-        "Count": 1
-    },
-    {
-        "Keyword": "Child process"
-    },
-    {
-        "Keyword": "Multitasking",
-        "Count": 1
-    },
-    {
-        "Keyword": "Bioinformatics"
-    },
-    {
-        "Keyword": "Information retrieval"
-    },
-    {
-        "Keyword": "Container"
-    },
-    {
-        "Keyword": "International Business Machines"
-    },
-    {
-        "Keyword": "Genetic Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "Singleton Pattern"
-    },
-    {
-        "Keyword": "metadata"
-    },
-    {
-        "Keyword": "Multiprotocol Label Switching - MPLS"
-    },
-    {
-        "Keyword": "BITNET"
-    },
-    {
-        "Keyword": "Decorator Pattern"
-    },
-    {
-        "Keyword": "Playstation Portable"
-    },
-    {
-        "Keyword": "Chromebook"
-    },
-    {
-        "Keyword": "Procedural Programming"
-    },
-    {
-        "Keyword": "XQuery"
-    },
-    {
-        "Keyword": "Calculus"
-    },
-    {
-        "Keyword": "Interpreter"
-    },
-    {
-        "Keyword": "Class",
-        "Count": 1
-    },
-    {
-        "Keyword": "NTT Data"
-    },
-    {
-        "Keyword": "Authorization"
-    },
-    {
-        "Keyword": "Deterministic finite automaton"
-    },
-    {
-        "Keyword": "Behaviour"
-    },
-    {
-        "Keyword": "Congestion Control"
-    },
-    {
-        "Keyword": "Google Street View"
-    },
-    {
-        "Keyword": "Function Pointer"
-    },
-    {
-        "Keyword": "Spring"
-    },
-    {
-        "Keyword": "Dynamic Host Configuration Protocol - DHCP"
-    },
-    {
-        "Keyword": "Stateful - luu giu trang thai, vi du dung Cookies"
-    },
-    {
-        "Keyword": "public exponent",
-        "Count": 1
-    },
-    {
-        "Keyword": "Humanoid Robot"
-    },
-    {
-        "Keyword": "Solid State Drive"
-    },
-    {
-        "Keyword": "Local Features",
-        "Count": 1
-    },
-    {
-        "Keyword": "Apple Talk"
-    },
-    {
-        "Keyword": "Transport Layer Secure"
-    },
-    {
-        "Keyword": "HyperText Transfer Protocol"
-    },
-    {
-        "Keyword": "Constructor"
-    },
-    {
-        "Keyword": "Path"
-    },
-    {
-        "Keyword": "Prewitt Operator"
-    },
-    {
-        "Keyword": "thrasing"
-    },
-    {
-        "Keyword": "Static Constructor",
-        "Count": 1
-    },
-    {
-        "Keyword": ""
-    },
-    {
-        "Keyword": "Open Shortest Path First, dinh tuyen noi vung"
-    },
-    {
-        "Keyword": "bit per second"
-    },
-    {
-        "Keyword": "Data Access Tier"
-    },
-    {
-        "Keyword": "Sentinel"
-    },
-    {
-        "Keyword": "A* Search Algorithm"
-    },
-    {
-        "Keyword": "View"
-    },
-    {
-        "Keyword": "Control Abstraction"
-    },
-    {
-        "Keyword": "distributed ledger",
-        "Count": 1
-    },
-    {
-        "Keyword": "Nintendo"
-    },
-    {
-        "Keyword": "Shortcut"
-    },
-    {
-        "Keyword": "Classful addressing"
-    },
-    {
-        "Keyword": "Array"
-    },
-    {
-        "Keyword": "DB2",
-        "Count": 1
-    },
-    {
-        "Keyword": "Relation"
-    },
-    {
-        "Keyword": "File Signature"
-    },
-    {
-        "Keyword": "Wearable Device"
-    },
-    {
-        "Keyword": "Integrity"
-    },
-    {
-        "Keyword": "Articulation Point (Cut Vertex)"
-    },
-    {
-        "Keyword": "Fibonacci Sequence",
-        "Count": 1
-    },
-    {
-        "Keyword": "Heartbleed"
-    },
-    {
-        "Keyword": "RDF Site Summary"
-    },
-    {
-        "Keyword": "Macintosh"
-    },
-    {
-        "Keyword": "polling"
-    },
-    {
-        "Keyword": "Authentication (AuthN)"
-    },
-    {
-        "Keyword": "Authorization  (AuthZ)"
-    },
-    {
-        "Keyword": "calling convention"
-    },
-    {
-        "Keyword": "Busy Waiting"
-    },
-    {
-        "Keyword": "eXtensible Application Markup Language"
-    },
-    {
-        "Keyword": "bitstream file"
-    },
-    {
-        "Keyword": "NVIDIA"
-    },
-    {
-        "Keyword": "Selection Sort"
-    },
-    {
-        "Keyword": "Windows NT"
-    },
-    {
-        "Keyword": "ChatGPT"
-    },
-    {
-        "Keyword": "Stateless - neu khong dung Cookies",
-        "Count": 1
-    },
-    {
-        "Keyword": "Heap"
-    },
-    {
-        "Keyword": "BlackBerry World"
-    },
-    {
-        "Keyword": "Radio button"
-    },
-    {
-        "Keyword": "stack frame"
-    },
-    {
-        "Keyword": "Return Oriented Programming"
-    },
-    {
-        "Keyword": "Frequency Attach"
-    },
-    {
-        "Keyword": "Onine Analytical Processing"
-    },
-    {
-        "Keyword": "LinkedIn"
-    },
-    {
-        "Keyword": "Data Execution Prevention"
-    },
-    {
-        "Keyword": "Transistor",
-        "Count": 1
-    },
-    {
-        "Keyword": "Xbox",
-        "Count": 1
-    },
-    {
-        "Keyword": "Dynamic Link Library"
-    },
-    {
-        "Keyword": "Springer"
-    },
-    {
-        "Keyword": "Available Bit Rate - thuoc ATM"
-    },
-    {
-        "Keyword": "Stereoscopic 3D"
-    },
-    {
-        "Keyword": "Automata"
-    },
-    {
-        "Keyword": "Prototype Pattern"
-    },
-    {
-        "Keyword": "Collission Avoidance"
-    },
-    {
-        "Keyword": "Graph API"
-    },
-    {
-        "Keyword": "Sun Microsystem"
-    },
-    {
-        "Keyword": "Dequeue"
-    },
-    {
-        "Keyword": "Enterprise"
-    },
-    {
-        "Keyword": "Research & Development"
-    },
-    {
-        "Keyword": "Domain Name System"
-    },
-    {
-        "Keyword": "parity"
-    },
-    {
-        "Keyword": "Reinterprest Casting"
-    },
-    {
-        "Keyword": "Data Mining"
-    },
-    {
-        "Keyword": "DNS Caching"
-    },
-    {
-        "Keyword": "Digital Transformation"
-    },
-    {
-        "Keyword": "Hard coding"
-    },
-    {
-        "Keyword": "Data Access Sevices"
-    },
-    {
-        "Keyword": "spooling"
-    },
-    {
-        "Keyword": "Program counter - instruction pointer"
-    },
-    {
-        "Keyword": "Throw"
-    },
-    {
-        "Keyword": "Convex Hull"
-    },
-    {
-        "Keyword": "Server"
-    },
-    {
-        "Keyword": "ALOHA"
-    },
-    {
-        "Keyword": "Block Cipher"
-    },
-    {
-        "Keyword": "Observer Pattern"
-    },
-    {
-        "Keyword": "Checkpointing"
-    },
-    {
-        "Keyword": "Privacy"
-    },
-    {
-        "Keyword": "Database Management System"
-    },
-    {
-        "Keyword": "Near Field Communication"
-    },
-    {
-        "Keyword": "Copy"
-    },
-    {
-        "Keyword": "Hash Table"
-    },
-    {
-        "Keyword": "Recognition"
-    },
-    {
-        "Keyword": "Fingerprint"
-    },
-    {
-        "Keyword": "SQL Injection"
-    },
-    {
-        "Keyword": "File Magic Number"
-    },
-    {
-        "Keyword": "diameter"
-    },
-    {
-        "Keyword": "Agile"
-    },
-    {
-        "Keyword": "Extreme Programming"
-    },
-    {
-        "Keyword": "Portable Document Format"
-    },
-    {
-        "Keyword": "Steve Ballmer"
-    },
-    {
-        "Keyword": "Java Database Connectivity"
-    },
-    {
-        "Keyword": "numpy"
-    },
-    {
-        "Keyword": "Virtual Destructor"
-    },
-    {
-        "Keyword": "Switch"
-    },
-    {
-        "Keyword": "Clique"
-    },
-    {
-        "Keyword": "Hacker",
-        "Count": 1
-    },
-    {
-        "Keyword": "Windows 7"
-    },
-    {
-        "Keyword": "Bit error rate - BRE"
-    },
-    {
-        "Keyword": "Virtual Local Area Network - VLAN"
-    },
-    {
-        "Keyword": "Circular Linked List"
-    },
-    {
-        "Keyword": "Novell"
-    },
-    {
-        "Keyword": "Argument"
-    },
-    {
-        "Keyword": "Computer Vision"
-    },
-    {
-        "Keyword": "Windows Communication Foundation"
-    },
-    {
-        "Keyword": "Full Duplex"
-    },
-    {
-        "Keyword": "Database"
-    },
-    {
-        "Keyword": "Zalo"
-    },
-    {
-        "Keyword": "Uniform Resource Name"
-    },
-    {
-        "Keyword": "Fast Recovery",
-        "Count": 1
-    },
-    {
-        "Keyword": "Loss-tolerant"
-    },
-    {
-        "Keyword": "Megaupload"
-    },
-    {
-        "Keyword": "Private Data Member",
-        "Count": 1
-    },
-    {
-        "Keyword": "Conventional Cryptosystem"
-    },
-    {
-        "Keyword": "Enterprise Resource Planning"
-    },
-    {
-        "Keyword": "Packet Capture"
-    },
-    {
-        "Keyword": "Windows CE"
-    },
-    {
-        "Keyword": "Linux Kernel",
-        "Count": 1
-    },
-    {
-        "Keyword": "Apache Subversion"
-    },
-    {
-        "Keyword": "Builder Pattern"
-    },
-    {
-        "Keyword": "Class Declaration"
-    },
-    {
-        "Keyword": "Concatenation",
-        "Count": 1
-    },
-    {
-        "Keyword": "Uncentainty",
-        "Count": 1
-    },
-    {
-        "Keyword": "Padding Oracle Attack"
-    },
-    {
-        "Keyword": "Round Trip Time"
-    },
-    {
-        "Keyword": "Internet Information Services"
-    },
-    {
-        "Keyword": "Secret Key"
-    },
-    {
-        "Keyword": "Address Space Layout Randomization"
-    },
-    {
-        "Keyword": "Asynchronous JavaScript and XML"
-    },
-    {
-        "Keyword": "Histogram Equalization"
-    },
-    {
-        "Keyword": "Internet Explorer"
-    },
-    {
-        "Keyword": "Function Declaration"
-    },
-    {
-        "Keyword": "Uniform Resource Indetifier"
-    },
-    {
-        "Keyword": "Obfuscation"
-    },
-    {
-        "Keyword": "Euler's Formula"
-    },
-    {
-        "Keyword": "Undefined behavior"
-    },
-    {
-        "Keyword": "Android Developer Tools"
-    },
-    {
-        "Keyword": "Last In First Out"
-    },
-    {
-        "Keyword": "Polish notation"
-    },
-    {
-        "Keyword": "IMAP - Giao thuc truy cap thu, xin hon POP3"
-    },
-    {
-        "Keyword": "Endian"
-    },
-    {
-        "Keyword": "Haskell"
-    },
-    {
-        "Keyword": "IPSec, giao thuc bao mat IP"
-    },
-    {
-        "Keyword": "C++"
-    },
-    {
-        "Keyword": "Kinect",
-        "Count": 1
-    },
-    {
-        "Keyword": "Microsoft Visual Studio"
-    },
-    {
-        "Keyword": "Hewlett-Packard"
-    },
-    {
-        "Keyword": "Formal Language",
-        "Count": 1
-    },
-    {
-        "Keyword": "Ginger Bread"
-    },
-    {
-        "Keyword": "Character Frequency Analysis"
-    },
-    {
-        "Keyword": "Symmetric Cryptosystem"
-    },
-    {
-        "Keyword": "Laser Printer"
-    },
-    {
-        "Keyword": "CSMA/CA, trien khai CSMA la Carrier Sense Multiple Access"
-    },
-    {
-        "Keyword": "Byte Stuffing, ky thuat trong PeertoPeer"
-    },
-    {
-        "Keyword": "Built-in Data Type"
-    },
-    {
-        "Keyword": "Nokia Lumia",
-        "Count": 1
-    },
-    {
-        "Keyword": "Quadratic Time"
-    },
-    {
-        "Keyword": "OSI - Open Systems Interconnection model"
+        "Keyword": "Euclidean Algorithm"
     },
     {
         "Keyword": "Random Access"
     },
     {
-        "Keyword": "Toolbox"
+        "Keyword": "Undefined behavior"
     },
     {
-        "Keyword": "Union"
+        "Keyword": "Eclipse"
     },
     {
-        "Keyword": "parallelizable "
+        "Keyword": "Sun Microsystem"
     },
     {
-        "Keyword": "Friend"
-    },
-    {
-        "Keyword": "timestamp"
-    },
-    {
-        "Keyword": "Algorithm Implementation",
+        "Keyword": "Taskbar",
         "Count": 1
     },
     {
-        "Keyword": "ATI Technologies"
-    },
-    {
-        "Keyword": "Elastic Compute Cloud"
-    },
-    {
-        "Keyword": "Mac OS"
-    },
-    {
-        "Keyword": "Finite-State-Machine - FSM",
+        "Keyword": "Datacenter",
         "Count": 1
     },
     {
-        "Keyword": "Logarithm Time"
-    },
-    {
-        "Keyword": "Wikipedia"
-    },
-    {
-        "Keyword": "Forwarding"
-    },
-    {
-        "Keyword": "Cryptanalysis"
-    },
-    {
-        "Keyword": "Use-case diagram"
-    },
-    {
-        "Keyword": "Global Offset Table"
-    },
-    {
-        "Keyword": "Peer-To-Peer"
-    },
-    {
-        "Keyword": "Run-length encoding"
-    },
-    {
-        "Keyword": "Operator"
-    },
-    {
-        "Keyword": "Compaq"
-    },
-    {
-        "Keyword": "Thread-yield",
+        "Keyword": "Googleplex",
         "Count": 1
     },
     {
-        "Keyword": "AVL Tree"
-    },
-    {
-        "Keyword": "Gateway Routers"
-    },
-    {
-        "Keyword": "Larry Page"
-    },
-    {
-        "Keyword": "Round Trip Time - RTT"
-    },
-    {
-        "Keyword": "Cartesian Product"
-    },
-    {
-        "Keyword": "View-Master",
+        "Keyword": "Humanoid Robot",
         "Count": 1
     },
     {
-        "Keyword": "Perl"
-    },
-    {
-        "Keyword": "Command Injection"
-    },
-    {
-        "Keyword": "Parallel Computing"
-    },
-    {
-        "Keyword": "Encryption"
-    },
-    {
-        "Keyword": "Information Leak"
-    },
-    {
-        "Keyword": "Hierachical Structure"
-    },
-    {
-        "Keyword": "Hue Saturation",
+        "Keyword": "Metaprogramming",
         "Count": 1
     },
     {
-        "Keyword": "Cross Site Request Forgery"
+        "Keyword": "Iterator Pattern",
+        "Count": 1
     },
     {
-        "Keyword": "Mainframe Computer"
+        "Keyword": "Argument control",
+        "Count": 1
     },
     {
-        "Keyword": "Turing Award"
+        "Keyword": "Abstract Data Type",
+        "Count": 1
+    },
+    {
+        "Keyword": "Persistent Connections",
+        "Count": 1
+    },
+    {
+        "Keyword": "Global Positioning System",
+        "Count": 1
+    },
+    {
+        "Keyword": "Onine Analytical Processing"
+    },
+    {
+        "Keyword": "Scale invarient feature transform"
+    },
+    {
+        "Keyword": "Prewitt Operator"
     },
     {
         "Keyword": "Durability"
     },
     {
-        "Keyword": "stream cipher"
+        "Keyword": "RDF Site Summary"
     },
     {
-        "Keyword": "Fragmentation"
+        "Keyword": "Viber"
     },
     {
-        "Keyword": "Privilege"
+        "Keyword": "Virtual Destructor"
     },
     {
-        "Keyword": "P vs NP"
-    },
-    {
-        "Keyword": "Fourier Transform",
-        "Count": 1
-    },
-    {
-        "Keyword": "Wireless Access Point",
-        "Count": 1
-    },
-    {
-        "Keyword": "Image Segmentation"
-    },
-    {
-        "Keyword": "Graphic User Interface"
-    },
-    {
-        "Keyword": "Access Modifier"
-    },
-    {
-        "Keyword": "Cloning"
-    },
-    {
-        "Keyword": "Blob detection"
-    },
-    {
-        "Keyword": "Uniform Distribution"
-    },
-    {
-        "Keyword": "infrastructure mode"
-    },
-    {
-        "Keyword": "Dynamic Programming"
-    },
-    {
-        "Keyword": "Dynamic Allocation of Memory"
-    },
-    {
-        "Keyword": "Lenovo"
-    },
-    {
-        "Keyword": "Playstation",
-        "Count": 1
-    },
-    {
-        "Keyword": "Decision Table"
-    },
-    {
-        "Keyword": "Onedrive"
-    },
-    {
-        "Keyword": "Microsoft Surface",
-        "Count": 1
-    },
-    {
-        "Keyword": "Metro"
-    },
-    {
-        "Keyword": "Data Member",
-        "Count": 1
-    },
-    {
-        "Keyword": "Notification"
-    },
-    {
-        "Keyword": "Telnet"
-    },
-    {
-        "Keyword": "Reinforcement Learning"
-    },
-    {
-        "Keyword": "Referential Integrity"
-    },
-    {
-        "Keyword": "Retrieval",
-        "Count": 1
+        "Keyword": "disassembler "
     },
     {
         "Keyword": "Pixar"
     },
     {
-        "Keyword": "Methodology",
+        "Keyword": "Google Web Toolkit"
+    },
+    {
+        "Keyword": "Flow Control",
         "Count": 1
     },
     {
-        "Keyword": "Markov Chain"
-    },
-    {
-        "Keyword": "Statistical Learning"
-    },
-    {
-        "Keyword": "Planar Graph"
-    },
-    {
-        "Keyword": "Graph Coloring"
-    },
-    {
-        "Keyword": "Reactjs",
+        "Keyword": "Memento Pattern",
         "Count": 1
     },
     {
-        "Keyword": "Redundant Array of Independent Disks"
-    },
-    {
-        "Keyword": "Metropolitan Ared Network"
-    },
-    {
-        "Keyword": "backoff"
-    },
-    {
-        "Keyword": "Google Panda"
-    },
-    {
-        "Keyword": "Generative Adversarial Network"
-    },
-    {
-        "Keyword": "Sequential Search"
-    },
-    {
-        "Keyword": "User-Agent"
-    },
-    {
-        "Keyword": "Spiral Model"
-    },
-    {
-        "Keyword": "Dictionaries"
-    },
-    {
-        "Keyword": "Metadata"
-    },
-    {
-        "Keyword": "Unicast"
-    },
-    {
-        "Keyword": "Password"
-    },
-    {
-        "Keyword": "Reverse Polish notation"
-    },
-    {
-        "Keyword": "Role-based access control"
-    },
-    {
-        "Keyword": "Suffix Array"
-    },
-    {
-        "Keyword": "base station"
-    },
-    {
-        "Keyword": "Enqueue"
-    },
-    {
-        "Keyword": "Common Runtime Language"
-    },
-    {
-        "Keyword": "Python"
-    },
-    {
-        "Keyword": "Sieve of Eratosthenes",
+        "Keyword": "Sequence diagram",
         "Count": 1
     },
     {
-        "Keyword": "Middleware"
-    },
-    {
-        "Keyword": "Trojan Horse"
-    },
-    {
-        "Keyword": "Project Operator"
-    },
-    {
-        "Keyword": "Directory Traversal",
+        "Keyword": "Computer Graphics",
         "Count": 1
     },
     {
-        "Keyword": "Ethernet, loai mang LAN thong dung nhat"
-    },
-    {
-        "Keyword": "Breadth First Search",
+        "Keyword": "Linux Distribution",
         "Count": 1
     },
     {
-        "Keyword": "Coprime"
-    },
-    {
-        "Keyword": "Turing Machine"
-    },
-    {
-        "Keyword": "Knight's Tour Problem"
-    },
-    {
-        "Keyword": "Formal Parameter",
+        "Keyword": "instruction register",
         "Count": 1
     },
     {
-        "Keyword": "Transaction",
+        "Keyword": "Certificate Authority",
         "Count": 1
     },
     {
-        "Keyword": "Average case Complexity"
-    },
-    {
-        "Keyword": "Carrier Sense Multiple Access - CSMA",
+        "Keyword": "symetric multiprocessing",
         "Count": 1
-    },
-    {
-        "Keyword": "Access Point"
-    },
-    {
-        "Keyword": "Visualization"
-    },
-    {
-        "Keyword": "data payload"
-    },
-    {
-        "Keyword": "Kindle"
-    },
-    {
-        "Keyword": "Dongatory"
-    },
-    {
-        "Keyword": "Foreign Key"
-    },
-    {
-        "Keyword": "Container Orchestration"
-    },
-    {
-        "Keyword": "Software Architecture"
-    },
-    {
-        "Keyword": "Rate adaptation"
-    },
-    {
-        "Keyword": "New Technology File System"
-    },
-    {
-        "Keyword": "Tablet Computer"
-    },
-    {
-        "Keyword": "Pop"
-    },
-    {
-        "Keyword": "Loss Function"
-    },
-    {
-        "Keyword": "Decision Tree"
-    },
-    {
-        "Keyword": "First come first server"
-    },
-    {
-        "Keyword": "Home network",
-        "Count": 1
-    },
-    {
-        "Keyword": "Mozila Thunderbird",
-        "Count": 1
-    },
-    {
-        "Keyword": "Function Template"
-    },
-    {
-        "Keyword": "Control Flows",
-        "Count": 1
-    },
-    {
-        "Keyword": "Reduced Instruction Set Computing"
-    },
-    {
-        "Keyword": "Error Detection-Correction - EDC"
-    },
-    {
-        "Keyword": "Singly Linear Linked List"
-    },
-    {
-        "Keyword": "Packet"
-    },
-    {
-        "Keyword": "Google Now",
-        "Count": 1
-    },
-    {
-        "Keyword": "MySQL",
-        "Count": 1
-    },
-    {
-        "Keyword": "Deep Copy"
-    },
-    {
-        "Keyword": "Siri"
-    },
-    {
-        "Keyword": "Man in the middle"
-    },
-    {
-        "Keyword": "iMac"
-    },
-    {
-        "Keyword": "Google+"
-    },
-    {
-        "Keyword": "File Allocation Table"
-    },
-    {
-        "Keyword": "Alpha Go"
-    },
-    {
-        "Keyword": "Programming Tip"
-    },
-    {
-        "Keyword": "Googleplex"
-    },
-    {
-        "Keyword": "Maximum flow problem"
-    },
-    {
-        "Keyword": "Instance"
-    },
-    {
-        "Keyword": "edX",
-        "Count": 1
-    },
-    {
-        "Keyword": "Unix"
-    },
-    {
-        "Keyword": "Canny Edge Detector",
-        "Count": 1
-    },
-    {
-        "Keyword": "asymetric multiprocessing"
-    },
-    {
-        "Keyword": "Attachment"
-    },
-    {
-        "Keyword": "Const Casting"
-    },
-    {
-        "Keyword": "cryptosystem"
-    },
-    {
-        "Keyword": "Wireless Router"
-    },
-    {
-        "Keyword": "polling messages",
-        "Count": 1
-    },
-    {
-        "Keyword": "Rony Abovitz"
-    },
-    {
-        "Keyword": "Character"
-    },
-    {
-        "Keyword": "Constant Bit Rate - thuoc ATM - dam bao toc do khong doi"
-    },
-    {
-        "Keyword": "Bubble Sort"
-    },
-    {
-        "Keyword": "ACK"
-    },
-    {
-        "Keyword": "forking repo"
-    },
-    {
-        "Keyword": "Euler Diagram"
-    },
-    {
-        "Keyword": "Batch"
-    },
-    {
-        "Keyword": "Optical Character Recognition",
-        "Count": 1
-    },
-    {
-        "Keyword": "Load balancer"
-    },
-    {
-        "Keyword": "Program Status Word"
-    },
-    {
-        "Keyword": "Plain Text"
-    },
-    {
-        "Keyword": "Procedure Linkage Table"
-    },
-    {
-        "Keyword": "Bluetooth"
-    },
-    {
-        "Keyword": "Natural Join",
-        "Count": 1
-    },
-    {
-        "Keyword": "Magic Leap"
-    },
-    {
-        "Keyword": "Basic Service Set - BSS"
-    },
-    {
-        "Keyword": "Unified Modeling Language"
-    },
-    {
-        "Keyword": "Siamese network"
-    },
-    {
-        "Keyword": "Vietkey"
-    },
-    {
-        "Keyword": "Hypertext Transfer Protocol"
-    },
-    {
-        "Keyword": "IP Spoofing"
-    },
-    {
-        "Keyword": "B-Tree"
-    },
-    {
-        "Keyword": "Unreal"
-    },
-    {
-        "Keyword": "Computational Geometry"
-    },
-    {
-        "Keyword": "Infrastructure as a Service"
-    },
-    {
-        "Keyword": "The Pirate Bay"
-    },
-    {
-        "Keyword": "Asynchronous Transfer Mode - ATM",
-        "Count": 1
-    },
-    {
-        "Keyword": "Imagine Cup"
-    },
-    {
-        "Keyword": "Session Layer"
-    },
-    {
-        "Keyword": "Adruino"
-    },
-    {
-        "Keyword": "Vim"
-    },
-    {
-        "Keyword": "Linear Time"
-    },
-    {
-        "Keyword": "Motorola"
-    },
-    {
-        "Keyword": "ActionScript"
-    },
-    {
-        "Keyword": "Really Simple Syndication"
-    },
-    {
-        "Keyword": "Non Fungible Token"
-    },
-    {
-        "Keyword": "Candy Crush"
-    },
-    {
-        "Keyword": "Supervised Learning"
-    },
-    {
-        "Keyword": "Netscape - Nha phat trien JavaScript",
-        "Count": 1
-    },
-    {
-        "Keyword": "repository"
-    },
-    {
-        "Keyword": "Segment"
-    },
-    {
-        "Keyword": "Google I/O"
-    },
-    {
-        "Keyword": "Game Designer"
-    },
-    {
-        "Keyword": "Apache"
-    },
-    {
-        "Keyword": "Inception v3"
-    },
-    {
-        "Keyword": "Pattern Matching"
-    },
-    {
-        "Keyword": "Alias"
-    },
-    {
-        "Keyword": "Code Block"
-    },
-    {
-        "Keyword": "Integrity Constraint"
-    },
-    {
-        "Keyword": "3DES"
-    },
-    {
-        "Keyword": "Face swapping"
-    },
-    {
-        "Keyword": "IEnumerable"
-    },
-    {
-        "Keyword": "Starcraft"
-    },
-    {
-        "Keyword": "Filename Date Accessed (MFT)"
-    },
-    {
-        "Keyword": "Composite Number"
-    },
-    {
-        "Keyword": "MapReduce"
-    },
-    {
-        "Keyword": "Google Glass"
-    },
-    {
-        "Keyword": "Hidden Terminal Problem"
-    },
-    {
-        "Keyword": "Wide Character"
-    },
-    {
-        "Keyword": "Microsoft Silverlight"
-    },
-    {
-        "Keyword": "Time out"
-    },
-    {
-        "Keyword": "Optical Flow"
-    },
-    {
-        "Keyword": "Network Interface Card - NIC"
-    },
-    {
-        "Keyword": "Optimal Binary Search Tree"
-    },
-    {
-        "Keyword": "Bitcoin"
-    },
-    {
-        "Keyword": "Destructor"
-    },
-    {
-        "Keyword": "FLoating-point Operations Per Second"
-    },
-    {
-        "Keyword": "Capture The Flag"
-    },
-    {
-        "Keyword": "Github"
-    },
-    {
-        "Keyword": "iCloud"
-    },
-    {
-        "Keyword": "Time-division Multiplexing"
-    },
-    {
-        "Keyword": "BitDefender"
-    },
-    {
-        "Keyword": "Cellular Network"
-    },
-    {
-        "Keyword": "Adobe Flash Player"
-    },
-    {
-        "Keyword": "Memory Mapping"
-    },
-    {
-        "Keyword": "Four Color Theorem"
-    },
-    {
-        "Keyword": "CSNET"
-    },
-    {
-        "Keyword": "Implementation"
-    },
-    {
-        "Keyword": "Class-level Method"
-    },
-    {
-        "Keyword": "Scala"
-    },
-    {
-        "Keyword": "Mutimedia"
-    },
-    {
-        "Keyword": "Bing"
-    },
-    {
-        "Keyword": "iTunes",
-        "Count": 1
-    },
-    {
-        "Keyword": "Debugging"
-    },
-    {
-        "Keyword": "Circular Distributed Hash Tables - ky thuat su dung trong torrent"
-    },
-    {
-        "Keyword": "Shift Cipher"
-    },
-    {
-        "Keyword": "OpenCV",
-        "Count": 1
-    },
-    {
-        "Keyword": "802.11"
-    },
-    {
-        "Keyword": "Transmission Control Protocol - TCP"
-    },
-    {
-        "Keyword": "Global Positioning System"
-    },
-    {
-        "Keyword": "Wide Area Network"
-    },
-    {
-        "Keyword": "Symbian"
-    },
-    {
-        "Keyword": "Image Processing"
-    },
-    {
-        "Keyword": "Binary Search"
-    },
-    {
-        "Keyword": "DeepFake Detection",
-        "Count": 1
-    },
-    {
-        "Keyword": "Single-hop",
-        "Count": 1
-    },
-    {
-        "Keyword": "Markov Model"
-    },
-    {
-        "Keyword": "Search Algorithm"
-    },
-    {
-        "Keyword": "Semantic"
-    },
-    {
-        "Keyword": "Broadcast"
-    },
-    {
-        "Keyword": "Paypal"
-    },
-    {
-        "Keyword": "IS-A"
-    },
-    {
-        "Keyword": "Extensible Stylesheet Language Transformations"
-    },
-    {
-        "Keyword": "Encryption scheme"
-    },
-    {
-        "Keyword": "Support Vector Regression"
-    },
-    {
-        "Keyword": "Sciencedirect"
-    },
-    {
-        "Keyword": "Cache hit"
-    },
-    {
-        "Keyword": "Infix notation"
-    },
-    {
-        "Keyword": "Secrecy"
-    },
-    {
-        "Keyword": "instruction register"
-    },
-    {
-        "Keyword": "Microsoft Cortana",
-        "Count": 1
-    },
-    {
-        "Keyword": "NetBean"
-    },
-    {
-        "Keyword": "Terrain"
-    },
-    {
-        "Keyword": "Ford-Bellman Algorithm"
-    },
-    {
-        "Keyword": "Network News Transfer Protocol"
-    },
-    {
-        "Keyword": "OpenGL",
-        "Count": 1
-    },
-    {
-        "Keyword": "File Transfer Protocol"
-    },
-    {
-        "Keyword": "Protocol Independent Multicast - PIM"
-    },
-    {
-        "Keyword": "Primary Key"
-    },
-    {
-        "Keyword": "Parser"
-    },
-    {
-        "Keyword": "Coaxial cable"
-    },
-    {
-        "Keyword": "Visitor Pattern"
-    },
-    {
-        "Keyword": "Supplementary specification"
-    },
-    {
-        "Keyword": "Data Center"
-    },
-    {
-        "Keyword": "Steganography"
-    },
-    {
-        "Keyword": "Fibonacci"
-    },
-    {
-        "Keyword": "Honeycomb"
-    },
-    {
-        "Keyword": "Integrated Development Enviroment"
-    },
-    {
-        "Keyword": "Repeater"
-    },
-    {
-        "Keyword": "Preprocessing"
-    },
-    {
-        "Keyword": "Ping",
-        "Count": 1
-    },
-    {
-        "Keyword": "Extensible Markup Language"
-    },
-    {
-        "Keyword": "World of Warcraft"
-    },
-    {
-        "Keyword": "Message Broker"
-    },
-    {
-        "Keyword": "Blockchain"
-    },
-    {
-        "Keyword": "Decompiler"
-    },
-    {
-        "Keyword": "Euler",
-        "Count": 1
-    },
-    {
-        "Keyword": "Bandwidth"
-    },
-    {
-        "Keyword": "Shielded Twisted Pair"
-    },
-    {
-        "Keyword": "Lowest Common Ancestor"
-    },
-    {
-        "Keyword": "Reverse Engineering"
-    },
-    {
-        "Keyword": "EmguCV"
-    },
-    {
-        "Keyword": "Windows XP"
-    },
-    {
-        "Keyword": "Backtracking"
-    },
-    {
-        "Keyword": "Throughput"
-    },
-    {
-        "Keyword": "Converter"
-    },
-    {
-        "Keyword": "LATEX",
-        "Count": 1
-    },
-    {
-        "Keyword": "Symmectric Cryptosystem"
-    },
-    {
-        "Keyword": "Histogram Matching"
-    },
-    {
-        "Keyword": "Euler's totient function"
-    },
-    {
-        "Keyword": "Boolean",
-        "Count": 1
-    },
-    {
-        "Keyword": "Kaspersky",
-        "Count": 1
-    },
-    {
-        "Keyword": "Generating Function"
-    },
-    {
-        "Keyword": "Notable language"
-    },
-    {
-        "Keyword": "Froyo"
-    },
-    {
-        "Keyword": "Pointer Variable"
-    },
-    {
-        "Keyword": "Fedora"
-    },
-    {
-        "Keyword": "Specialization"
-    },
-    {
-        "Keyword": "Scripting Language"
-    },
-    {
-        "Keyword": "Computer Security",
-        "Count": 1
-    },
-    {
-        "Keyword": "Thrashing"
-    },
-    {
-        "Keyword": "Cipher Block Chaining"
-    },
-    {
-        "Keyword": "Polynomial Time"
-    },
-    {
-        "Keyword": "Component"
-    },
-    {
-        "Keyword": "maximum likelihood estimation"
-    },
-    {
-        "Keyword": "Availability"
-    },
-    {
-        "Keyword": "clang"
-    },
-    {
-        "Keyword": "Kitkat"
-    },
-    {
-        "Keyword": "Subnet Mask"
-    },
-    {
-        "Keyword": "Association for Computing Machinery",
-        "Count": 1
-    },
-    {
-        "Keyword": "Extended Euclidean Algorithm"
-    },
-    {
-        "Keyword": "Nonvolatile memory express"
-    },
-    {
-        "Keyword": "Power Management"
-    },
-    {
-        "Keyword": "Julia",
-        "Count": 1
-    },
-    {
-        "Keyword": "Word Processing"
-    },
-    {
-        "Keyword": "Wireless Mouse"
-    },
-    {
-        "Keyword": "Generic Code"
-    },
-    {
-        "Keyword": "Plug-and-Play Protocol"
-    },
-    {
-        "Keyword": "Integrated Electronics"
-    },
-    {
-        "Keyword": "Network Address Translation Overload"
-    },
-    {
-        "Keyword": "Cascading Style Sheets",
-        "Count": 1
-    },
-    {
-        "Keyword": "Immuatable"
-    },
-    {
-        "Keyword": "Trigger"
-    },
-    {
-        "Keyword": "Connection-Oriented Service"
-    },
-    {
-        "Keyword": "Optimal"
-    },
-    {
-        "Keyword": "Local Host",
-        "Count": 1
-    },
-    {
-        "Keyword": "softmax"
-    },
-    {
-        "Keyword": "Microsoft Foundation Class"
-    },
-    {
-        "Keyword": "Technical Support"
-    },
-    {
-        "Keyword": "Lowest Common Multiple"
-    },
-    {
-        "Keyword": "Google App Engine"
-    },
-    {
-        "Keyword": "Open System Interconnection"
-    },
-    {
-        "Keyword": "Alexa"
-    },
-    {
-        "Keyword": "Wi-Fi",
-        "Count": 1
-    },
-    {
-        "Keyword": "TED"
-    },
-    {
-        "Keyword": "Inheritance",
-        "Count": 1
-    },
-    {
-        "Keyword": "Deepfake"
-    },
-    {
-        "Keyword": "Java Platform Standard Edition"
     },
     {
         "Keyword": "Hypertext Transfer Protocol Secure",
         "Count": 1
     },
     {
-        "Keyword": "Data Manipulation Language"
-    },
-    {
-        "Keyword": "Iterator Pattern"
-    },
-    {
-        "Keyword": "disassembler "
-    },
-    {
-        "Keyword": "Entry Date Changed"
-    },
-    {
-        "Keyword": "Dial-up - Phuong thuc truy cap internet qua <quay so dien thoai>"
-    },
-    {
-        "Keyword": ".NET Framework"
-    },
-    {
-        "Keyword": "Cyber crime investigation"
-    },
-    {
-        "Keyword": "Pascal"
-    },
-    {
-        "Keyword": "Dispatch"
-    },
-    {
-        "Keyword": "Business Logic Sevices"
-    },
-    {
-        "Keyword": "Streaming"
-    },
-    {
-        "Keyword": "Torrent"
-    },
-    {
-        "Keyword": "Eclipse"
-    },
-    {
-        "Keyword": "Need For Speed"
-    },
-    {
-        "Keyword": "Unicode"
-    },
-    {
-        "Keyword": "Hololens"
-    },
-    {
-        "Keyword": "Stack Unwinding"
-    },
-    {
-        "Keyword": "Classless Inter-domain Routing"
-    },
-    {
-        "Keyword": "Ternary Search"
-    },
-    {
-        "Keyword": "SPSS Statistics"
-    },
-    {
-        "Keyword": "3D Printer"
-    },
-    {
-        "Keyword": "Youtube"
-    },
-    {
-        "Keyword": "Boolean Operator"
-    },
-    {
-        "Keyword": "Abstract Class"
-    },
-    {
-        "Keyword": "Master Boot Record"
-    },
-    {
-        "Keyword": "Programming Interface"
-    },
-    {
-        "Keyword": "Schema"
-    },
-    {
-        "Keyword": "Google Chrome"
-    },
-    {
-        "Keyword": "Worst case Complexity"
-    },
-    {
-        "Keyword": "Firewall"
-    },
-    {
-        "Keyword": "Dynamic Memory"
-    },
-    {
-        "Keyword": "Crowdsourcing"
-    },
-    {
-        "Keyword": "Structural pattern"
-    },
-    {
-        "Keyword": "PHP: Hypertext Preprocessor",
+        "Keyword": "Simple Mail Transfer Protocol - SMTP",
         "Count": 1
     },
     {
-        "Keyword": "Minimum Spanning Tree"
+        "Keyword": "Tuple"
     },
     {
-        "Keyword": "kubernetes"
+        "Keyword": "Friend Class"
     },
     {
-        "Keyword": "Xbox 360"
+        "Keyword": "Framework Application"
     },
     {
-        "Keyword": "Controller"
-    },
-    {
-        "Keyword": "Local Area Network",
-        "Count": 1
-    },
-    {
-        "Keyword": "Bash"
-    },
-    {
-        "Keyword": "Request"
-    },
-    {
-        "Keyword": "Java Development Kit",
-        "Count": 1
-    },
-    {
-        "Keyword": "Matrix Laboratory"
-    },
-    {
-        "Keyword": "Histogram"
-    },
-    {
-        "Keyword": "SQLite",
-        "Count": 1
-    },
-    {
-        "Keyword": "verbose instruction"
-    },
-    {
-        "Keyword": "jitter - dam bao nguong toi da su sai khac"
-    },
-    {
-        "Keyword": "Method Overriding"
-    },
-    {
-        "Keyword": "Linear Search"
-    },
-    {
-        "Keyword": "Linear Recursion"
-    },
-    {
-        "Keyword": "Content delivery network"
-    },
-    {
-        "Keyword": "program launcher"
-    },
-    {
-        "Keyword": "traffic history",
-        "Count": 1
-    },
-    {
-        "Keyword": "Integer Factorization"
-    },
-    {
-        "Keyword": "Google Penguin"
-    },
-    {
-        "Keyword": "Z function"
-    },
-    {
-        "Keyword": "Infrastructure"
-    },
-    {
-        "Keyword": "Acer"
-    },
-    {
-        "Keyword": "Instagram"
-    },
-    {
-        "Keyword": "Time-to-live"
-    },
-    {
-        "Keyword": "Forward Declaration"
-    },
-    {
-        "Keyword": "Opera"
-    },
-    {
-        "Keyword": "Caesar Cipher",
-        "Count": 1
-    },
-    {
-        "Keyword": "Foursquare"
-    },
-    {
-        "Keyword": "Double-ended Queue"
-    },
-    {
-        "Keyword": "Oracle"
-    },
-    {
-        "Keyword": "Analysis of Algorithm"
-    },
-    {
-        "Keyword": "Intel 4004"
-    },
-    {
-        "Keyword": "Deadlock"
-    },
-    {
-        "Keyword": "Implicit Casting"
-    },
-    {
-        "Keyword": "Binary Recursion"
-    },
-    {
-        "Keyword": "String Matching"
-    },
-    {
-        "Keyword": "Master-slave relationship"
-    },
-    {
-        "Keyword": "Macro"
-    },
-    {
-        "Keyword": "Google Remote Procedure Call"
-    },
-    {
-        "Keyword": "NULL"
+        "Keyword": "Head Puppetry"
     },
     {
         "Keyword": "Data-link Layer"
     },
     {
-        "Keyword": "Zero Day Exploit"
+        "Keyword": "Insertion Operator"
     },
     {
-        "Keyword": "Grant"
+        "Keyword": "Hacker"
     },
     {
-        "Keyword": "Broadcast Domain"
+        "Keyword": "Frequency Attach"
     },
     {
-        "Keyword": "Filename Date Modified (MFT)"
+        "Keyword": "Schema"
     },
     {
-        "Keyword": "Macbook Air"
+        "Keyword": "Histogram Equalization"
     },
     {
-        "Keyword": "Template Method Pattern"
-    },
-    {
-        "Keyword": "Massachusetts Institute of Technology"
-    },
-    {
-        "Keyword": "Computational complexity theory"
-    },
-    {
-        "Keyword": "Voice over Internet Protocol"
-    },
-    {
-        "Keyword": "Prime"
-    },
-    {
-        "Keyword": "Bidirectional Encoder Representations from Transformers"
-    },
-    {
-        "Keyword": "Mutual Recursion"
-    },
-    {
-        "Keyword": "Insertion sort"
-    },
-    {
-        "Keyword": "Abstract Window Toolkit",
+        "Keyword": "VMWare",
         "Count": 1
     },
     {
-        "Keyword": "Fast Fourier Transform",
+        "Keyword": "Mutimedia",
         "Count": 1
     },
     {
-        "Keyword": "DenseNet"
-    },
-    {
-        "Keyword": "Elastic"
-    },
-    {
-        "Keyword": "Cross entropy"
-    },
-    {
-        "Keyword": "Congestion Avoidance"
-    },
-    {
-        "Keyword": "Binary File"
-    },
-    {
-        "Keyword": "Aggregation"
-    },
-    {
-        "Keyword": "Bridge (cut-edge, cut arc or an isthmus)"
-    },
-    {
-        "Keyword": "Linux",
+        "Keyword": "Try Catch",
         "Count": 1
     },
     {
-        "Keyword": "token-passing"
-    },
-    {
-        "Keyword": "Web Exploitation"
-    },
-    {
-        "Keyword": "POP3 - Giao thuc truy cap thu don gian"
-    },
-    {
-        "Keyword": "Fsoft"
-    },
-    {
-        "Keyword": "Apache Tomcat"
-    },
-    {
-        "Keyword": "Compositon"
-    },
-    {
-        "Keyword": "Queue"
-    },
-    {
-        "Keyword": "Iterator"
-    },
-    {
-        "Keyword": "destination IP address"
-    },
-    {
-        "Keyword": "Google Drive"
-    },
-    {
-        "Keyword": "ARPANET"
-    },
-    {
-        "Keyword": "Linear Regression"
-    },
-    {
-        "Keyword": "Fiber To The Home - FTTH "
-    },
-    {
-        "Keyword": "stack pointer"
-    },
-    {
-        "Keyword": "Interface",
+        "Keyword": "Base Class",
         "Count": 1
     },
     {
-        "Keyword": "Shockwave Flash"
-    },
-    {
-        "Keyword": "Raspberry Pi"
-    },
-    {
-        "Keyword": "Anonymous"
-    },
-    {
-        "Keyword": "Windows Azure"
-    },
-    {
-        "Keyword": "Statement"
-    },
-    {
-        "Keyword": "Uniform Resource Locator"
-    },
-    {
-        "Keyword": "Structured Data"
-    },
-    {
-        "Keyword": "Bitlocker",
+        "Keyword": "Radio button",
         "Count": 1
     },
     {
-        "Keyword": "Bitwise Copy"
-    },
-    {
-        "Keyword": "Actual Argument"
-    },
-    {
-        "Keyword": "Windows Me"
-    },
-    {
-        "Keyword": "Zend Framework"
-    },
-    {
-        "Keyword": "Greedy Algorithm"
-    },
-    {
-        "Keyword": "Asynchronus"
-    },
-    {
-        "Keyword": "GPS longtitude"
-    },
-    {
-        "Keyword": "Project Loon"
-    },
-    {
-        "Keyword": "Copy Constructor"
-    },
-    {
-        "Keyword": "Multicast"
-    },
-    {
-        "Keyword": "Routing Information Protocol"
-    },
-    {
-        "Keyword": "Recovering",
+        "Keyword": "Microsoft Silverlight",
         "Count": 1
     },
     {
-        "Keyword": "Pycharm"
-    },
-    {
-        "Keyword": "Network Security"
-    },
-    {
-        "Keyword": "Java Virtual Machine"
-    },
-    {
-        "Keyword": "Programming Paradigm"
-    },
-    {
-        "Keyword": "Pure Virtual Method"
-    },
-    {
-        "Keyword": "High-level Shader Language"
-    },
-    {
-        "Keyword": "Raedon"
-    },
-    {
-        "Keyword": "Knight Tour",
+        "Keyword": "Uniform Resource Locator",
         "Count": 1
     },
     {
-        "Keyword": "Hyper-V"
-    },
-    {
-        "Keyword": "Non-Persistent Connections"
-    },
-    {
-        "Keyword": "Computer Network"
-    },
-    {
-        "Keyword": "Touchscreen"
-    },
-    {
-        "Keyword": "Database Replica"
-    },
-    {
-        "Keyword": "Memory Allocation"
-    },
-    {
-        "Keyword": "Nahalem Architecture"
-    },
-    {
-        "Keyword": "Model View View Model"
-    },
-    {
-        "Keyword": "checksum, kiem tong"
-    },
-    {
-        "Keyword": "Knapsack"
-    },
-    {
-        "Keyword": "Physical Layer"
-    },
-    {
-        "Keyword": "Side Channel"
-    },
-    {
-        "Keyword": "Normalize"
-    },
-    {
-        "Keyword": "Shallow Copy"
-    },
-    {
-        "Keyword": "Contrastive learning"
-    },
-    {
-        "Keyword": "Attribute",
+        "Keyword": "Data Manipulation Language",
         "Count": 1
     },
     {
-        "Keyword": "Dell"
-    },
-    {
-        "Keyword": "Architectural Patterns"
-    },
-    {
-        "Keyword": "Dennis Ritchie"
-    },
-    {
-        "Keyword": "Cursor"
-    },
-    {
-        "Keyword": "source IP address"
-    },
-    {
-        "Keyword": "Silverlight"
-    },
-    {
-        "Keyword": "Bag of Features"
-    },
-    {
-        "Keyword": "Cross-product"
-    },
-    {
-        "Keyword": "Viettel"
-    },
-    {
-        "Keyword": "MySpace"
-    },
-    {
-        "Keyword": "Virtual Reality",
+        "Keyword": "Deep Reinforcement Learning",
         "Count": 1
     },
     {
-        "Keyword": "diophantine equation"
-    },
-    {
-        "Keyword": "Built-in Class"
-    },
-    {
-        "Keyword": "Double-ended Priority Queue"
-    },
-    {
-        "Keyword": "Microsoft SQL Server"
-    },
-    {
-        "Keyword": "Static Local Variable"
-    },
-    {
-        "Keyword": "Digitized"
-    },
-    {
-        "Keyword": "session hijacking"
-    },
-    {
-        "Keyword": "Mail box",
+        "Keyword": "Extensible Stylesheet Language Transformations",
         "Count": 1
     },
     {
-        "Keyword": "Jeff Bezos"
+        "Keyword": "Character Frequency Analysis"
     },
     {
-        "Keyword": "Transmission rate"
+        "Keyword": "Code Block"
     },
     {
-        "Keyword": "Hamilton Cycle"
+        "Keyword": "Most Significant Bit"
     },
     {
-        "Keyword": "Cyber-Physical Production Systems"
+        "Keyword": "Program Status Word"
     },
     {
-        "Keyword": "Clear to Send"
+        "Keyword": "Adobe"
     },
     {
-        "Keyword": "Laplacian"
+        "Keyword": "Effective Variable"
     },
     {
-        "Keyword": "Class Implementation"
+        "Keyword": "Thinkpad"
     },
     {
-        "Keyword": "Affine Transformation"
+        "Keyword": "Program counter - instruction pointer"
     },
     {
-        "Keyword": "Donald Knuth"
+        "Keyword": "Host Aliasing"
+    },
+    {
+        "Keyword": "Segment"
+    },
+    {
+        "Keyword": "Acer",
+        "Count": 1
+    },
+    {
+        "Keyword": "Vietkey",
+        "Count": 1
+    },
+    {
+        "Keyword": "Algorithm",
+        "Count": 1
+    },
+    {
+        "Keyword": "Aggregation",
+        "Count": 1
+    },
+    {
+        "Keyword": "Block Cipher",
+        "Count": 1
+    },
+    {
+        "Keyword": "Ternary Search",
+        "Count": 1
+    },
+    {
+        "Keyword": "Quality Assurance",
+        "Count": 1
+    },
+    {
+        "Keyword": "Technical Support",
+        "Count": 1
+    },
+    {
+        "Keyword": "Deepfake  Technology",
+        "Count": 1
+    },
+    {
+        "Keyword": "Average case Complexity",
+        "Count": 1
+    },
+    {
+        "Keyword": "Cyclic Redundancy Check - CRC, kiem du vong"
+    },
+    {
+        "Keyword": "Flyweight Pattern"
+    },
+    {
+        "Keyword": "Magic Leap"
+    },
+    {
+        "Keyword": "Data transfer object",
+        "Count": 1
+    },
+    {
+        "Keyword": "Windows Phone Store",
+        "Count": 1
+    },
+    {
+        "Keyword": "Buffer"
+    },
+    {
+        "Keyword": "Realtime"
     },
     {
         "Keyword": "Merge Sort"
     },
     {
-        "Keyword": "Upper Case"
+        "Keyword": "Google API"
     },
     {
-        "Keyword": "Worm"
+        "Keyword": "Extract"
     },
     {
-        "Keyword": "Gameloft"
-    },
-    {
-        "Keyword": "Big-O"
-    },
-    {
-        "Keyword": "Data Definition Language"
-    },
-    {
-        "Keyword": "Model View Controller"
-    },
-    {
-        "Keyword": "Digital image processing"
-    },
-    {
-        "Keyword": "Andrey Markov"
-    },
-    {
-        "Keyword": "Exponential Time"
-    },
-    {
-        "Keyword": "Turing Test"
-    },
-    {
-        "Keyword": "power on self test"
-    },
-    {
-        "Keyword": "Receiver"
-    },
-    {
-        "Keyword": "Decision Problem"
-    },
-    {
-        "Keyword": "Mako Surgical"
-    },
-    {
-        "Keyword": "Lambda Expression",
-        "Count": 1
-    },
-    {
-        "Keyword": "Realtime",
-        "Count": 1
-    },
-    {
-        "Keyword": "Frame",
-        "Count": 1
-    },
-    {
-        "Keyword": "Generative Pre-trained Transformer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Data tampering",
-        "Count": 1
-    },
-    {
-        "Keyword": "Secure Socket Layer - SSL",
-        "Count": 1
-    },
-    {
-        "Keyword": "Google Play",
-        "Count": 1
-    },
-    {
-        "Keyword": "Methodological",
-        "Count": 1
-    },
-    {
-        "Keyword": "Rendezvous Point",
-        "Count": 1
-    },
-    {
-        "Keyword": "Human Computer Interaction",
-        "Count": 1
-    },
-    {
-        "Keyword": "PCI Express",
-        "Count": 1
-    },
-    {
-        "Keyword": "NP Complete",
-        "Count": 1
-    },
-    {
-        "Keyword": "Euclidean Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "List Comprehension",
-        "Count": 1
-    },
-    {
-        "Keyword": "Portable Operating System Interface",
-        "Count": 1
-    },
-    {
-        "Keyword": "Doubly Linear Linked List",
-        "Count": 1
-    },
-    {
-        "Keyword": "R",
-        "Count": 1
-    },
-    {
-        "Keyword": "Computer Science",
-        "Count": 1
-    },
-    {
-        "Keyword": "Entry Date Modified\n",
-        "Count": 1
-    },
-    {
-        "Keyword": "Red Green Blue Alpha",
-        "Count": 1
-    },
-    {
-        "Keyword": "Datalink Layer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Flow chart",
-        "Count": 1
-    },
-    {
-        "Keyword": "Data Structure",
-        "Count": 1
-    },
-    {
-        "Keyword": "Mediafire",
-        "Count": 1
-    },
-    {
-        "Keyword": "Static Member",
-        "Count": 1
-    },
-    {
-        "Keyword": "Linear Programming",
-        "Count": 1
-    },
-    {
-        "Keyword": "Intel x86",
-        "Count": 1
-    },
-    {
-        "Keyword": "Novell IPX",
-        "Count": 1
-    },
-    {
-        "Keyword": "Probability Distribution",
-        "Count": 1
-    },
-    {
-        "Keyword": "Lollipop",
-        "Count": 1
-    },
-    {
-        "Keyword": "Project Manager",
-        "Count": 1
-    },
-    {
-        "Keyword": "Stack",
-        "Count": 1
-    },
-    {
-        "Keyword": "OpenSSL",
-        "Count": 1
-    },
-    {
-        "Keyword": "Folder",
-        "Count": 1
-    },
-    {
-        "Keyword": "Discrete Mathematics",
-        "Count": 1
-    },
-    {
-        "Keyword": "Google Maps",
-        "Count": 1
-    },
-    {
-        "Keyword": "REpresentational State Transfer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Global Variable",
-        "Count": 1
-    },
-    {
-        "Keyword": "Connected Component",
-        "Count": 1
-    },
-    {
-        "Keyword": "Quality Control",
-        "Count": 1
-    },
-    {
-        "Keyword": "LibreOffice",
-        "Count": 1
-    },
-    {
-        "Keyword": "Network Layer",
-        "Count": 1
-    },
-    {
-        "Keyword": "Team Foundation",
-        "Count": 1
-    },
-    {
-        "Keyword": "Analytic Combinatorics",
-        "Count": 1
-    },
-    {
-        "Keyword": "Eastern Standard Time",
-        "Count": 1
-    },
-    {
-        "Keyword": "Intializers",
-        "Count": 1
-    },
-    {
-        "Keyword": "E-signature",
-        "Count": 1
-    },
-    {
-        "Keyword": "Kruskal Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "PageRank",
-        "Count": 1
-    },
-    {
-        "Keyword": "Virtual Method",
-        "Count": 1
-    },
-    {
-        "Keyword": "Vsphere",
-        "Count": 1
-    },
-    {
-        "Keyword": "Extensible HyperText Markup Language",
-        "Count": 1
-    },
-    {
-        "Keyword": "Segment - goi tin",
-        "Count": 1
-    },
-    {
-        "Keyword": "Software development kit",
-        "Count": 1
-    },
-    {
-        "Keyword": "Prototype",
-        "Count": 1
-    },
-    {
-        "Keyword": "Nonrepudiation",
-        "Count": 1
-    },
-    {
-        "Keyword": "Class Name",
-        "Count": 1
-    },
-    {
-        "Keyword": "Internet Protocol",
-        "Count": 1
-    },
-    {
-        "Keyword": "Linked List",
-        "Count": 1
-    },
-    {
-        "Keyword": "Bottom-up",
-        "Count": 1
-    },
-    {
-        "Keyword": "Design Pattern",
-        "Count": 1
-    },
-    {
-        "Keyword": "Gordon Moore",
-        "Count": 1
-    },
-    {
-        "Keyword": "Solid State Driver",
-        "Count": 1
-    },
-    {
-        "Keyword": "Dynamic Casting",
-        "Count": 1
-    },
-    {
-        "Keyword": "GPS latitude",
-        "Count": 1
-    },
-    {
-        "Keyword": "Context Menu",
-        "Count": 1
-    },
-    {
-        "Keyword": "Distance Vector Algorithm",
-        "Count": 1
-    },
-    {
-        "Keyword": "Earliest Deadline First scheduling",
-        "Count": 1
-    },
-    {
-        "Keyword": "Openoffice",
-        "Count": 1
-    },
-    {
-        "Keyword": "Code Duplication",
+        "Keyword": "Grant",
         "Count": 1
-    },
-    {
-        "Keyword": "Yahoo",
-        "Count": 1
-    },
-    {
-        "Keyword": "Lexicographical Order",
-        "Count": 1
-    },
-    {
-        "Keyword": "Buffer overflow",
-        "Count": 2
     },
     {
-        "Keyword": "Big Data",
+        "Keyword": "Automata",
         "Count": 1
     },
     {
-        "Keyword": "VirtualBox",
+        "Keyword": "3D Printer",
         "Count": 1
     },
     {
@@ -4860,327 +579,1916 @@
         "Count": 1
     },
     {
-        "Keyword": "Eric Schmidt",
+        "Keyword": "Load balancer",
         "Count": 1
     },
     {
-        "Keyword": "Flickr",
+        "Keyword": "World Cyber Game",
         "Count": 1
     },
     {
-        "Keyword": "Fibonacci Number",
+        "Keyword": "Behavioral pattern",
         "Count": 1
     },
     {
-        "Keyword": "Machine Learning",
+        "Keyword": "Default Constructor",
         "Count": 1
     },
     {
-        "Keyword": "Forensics",
+        "Keyword": "Institute of Electrical and Electronics Engineers",
         "Count": 1
     },
     {
-        "Keyword": "Topology",
+        "Keyword": "Bidirectional Encoder Representations from Transformers"
+    },
+    {
+        "Keyword": "Perl",
         "Count": 1
     },
     {
-        "Keyword": "qubit",
+        "Keyword": "Recursion",
         "Count": 1
     },
     {
-        "Keyword": "Strategy Pattern",
+        "Keyword": "Validation",
         "Count": 1
     },
     {
-        "Keyword": "Priority Queue",
+        "Keyword": "Shift Cipher",
         "Count": 1
     },
     {
-        "Keyword": "Learning rate",
+        "Keyword": "Neural Network",
         "Count": 1
     },
     {
-        "Keyword": "Framework Application",
+        "Keyword": "John Von Neumann",
         "Count": 1
     },
     {
-        "Keyword": "Stream Cipher",
+        "Keyword": "Boruvska Algorithm",
         "Count": 1
     },
     {
-        "Keyword": "Trail",
+        "Keyword": "Entry Date Accessed",
         "Count": 1
     },
     {
-        "Keyword": "Cloud Computing",
+        "Keyword": "Document Object Model",
         "Count": 1
     },
     {
-        "Keyword": "Beacon frame, qua trinh quet, do song di dong",
+        "Keyword": "Data Encryption Standard (DES)"
+    },
+    {
+        "Keyword": "MySQL",
         "Count": 1
     },
     {
-        "Keyword": "Maple",
+        "Keyword": "Stack",
         "Count": 1
     },
     {
-        "Keyword": "Mantissa",
+        "Keyword": "Gordon Moore",
         "Count": 1
     },
     {
-        "Keyword": "Mobile World Congress",
+        "Keyword": "Counter Strike",
         "Count": 1
     },
     {
-        "Keyword": "Bridge Pattern",
+        "Keyword": "Buffer overflow",
+        "Count": 2
+    },
+    {
+        "Keyword": "Rich Site Summary",
         "Count": 1
     },
     {
-        "Keyword": "Ethernet",
+        "Keyword": "Control Abstraction",
         "Count": 1
     },
     {
-        "Keyword": "LulzSec",
+        "Keyword": "Nahalem Architecture",
         "Count": 1
     },
     {
-        "Keyword": "Attaching Processe",
+        "Keyword": "Microsoft SQL Server",
         "Count": 1
     },
     {
-        "Keyword": "External Storage",
+        "Keyword": "CSMA/CA, trien khai CSMA la Carrier Sense Multiple Access",
         "Count": 1
     },
     {
-        "Keyword": "Digital signature",
+        "Keyword": "Secret Key"
+    },
+    {
+        "Keyword": "Platform"
+    },
+    {
+        "Keyword": "Reduced Instruction Set Computing"
+    },
+    {
+        "Keyword": "Double Data Rate"
+    },
+    {
+        "Keyword": "repository"
+    },
+    {
+        "Keyword": "Solid State Drive"
+    },
+    {
+        "Keyword": "Visualization"
+    },
+    {
+        "Keyword": "Postfix notation"
+    },
+    {
+        "Keyword": "Presentation Layer"
+    },
+    {
+        "Keyword": "Smart contract"
+    },
+    {
+        "Keyword": "NULL",
         "Count": 1
     },
     {
-        "Keyword": "Registry",
+        "Keyword": "BTalk",
         "Count": 1
     },
     {
-        "Keyword": "instruction pointer ",
+        "Keyword": "Upper Case",
         "Count": 1
     },
     {
-        "Keyword": "IPv6",
+        "Keyword": "Integrated",
         "Count": 1
     },
     {
-        "Keyword": "Connectivity",
+        "Keyword": "Ken Thompson",
         "Count": 1
     },
     {
-        "Keyword": "Loop Invariant",
+        "Keyword": "Implementation",
         "Count": 1
     },
     {
-        "Keyword": "JavaFX",
+        "Keyword": "Static Constructor",
         "Count": 1
     },
     {
-        "Keyword": "Single Linked List",
+        "Keyword": "Business Intelligent",
+        "Count": 2
+    },
+    {
+        "Keyword": "Near Field Communication",
         "Count": 1
     },
     {
-        "Keyword": "HaNoi Tower",
+        "Keyword": "Open Shortest Path First, dinh tuyen noi vung",
         "Count": 1
     },
     {
-        "Keyword": "Raw data",
+        "Keyword": "Method"
+    },
+    {
+        "Keyword": "Server"
+    },
+    {
+        "Keyword": "Instagram"
+    },
+    {
+        "Keyword": "Presentation Tier"
+    },
+    {
+        "Keyword": "Minesweeper"
+    },
+    {
+        "Keyword": "Multi-hop"
+    },
+    {
+        "Keyword": "Eight Queens Puzzle"
+    },
+    {
+        "Keyword": "Function Declaration"
+    },
+    {
+        "Keyword": "instruction pointer "
+    },
+    {
+        "Keyword": "Concrete Class"
+    },
+    {
+        "Keyword": "IPv4",
+        "Count": 2
+    },
+    {
+        "Keyword": "Atomic",
         "Count": 1
     },
     {
-        "Keyword": "WHOIS",
+        "Keyword": "Robotics",
         "Count": 1
     },
     {
-        "Keyword": "Head Puppetry",
+        "Keyword": "Automaton",
         "Count": 1
     },
     {
-        "Keyword": "Blank",
+        "Keyword": "Cross-product",
         "Count": 1
     },
     {
-        "Keyword": "Adapter Pattern",
+        "Keyword": "Cross entropy",
         "Count": 1
     },
     {
-        "Keyword": "Template",
+        "Keyword": "Capture The Flag",
         "Count": 1
     },
     {
-        "Keyword": "Floyd Algorithm",
+        "Keyword": "Norton Commander",
         "Count": 1
     },
     {
-        "Keyword": "Tag",
+        "Keyword": "Maximum flow problem",
         "Count": 1
     },
     {
-        "Keyword": "Optimization Problem",
+        "Keyword": "Lowest Common Multiple",
         "Count": 1
     },
     {
-        "Keyword": "Keyword",
+        "Keyword": "Emacs"
+    },
+    {
+        "Keyword": "Server Side Request Forgery"
+    },
+    {
+        "Keyword": "Support Vector Machine"
+    },
+    {
+        "Keyword": "Hackathon"
+    },
+    {
+        "Keyword": "Rony Abovitz"
+    },
+    {
+        "Keyword": "Local Variable"
+    },
+    {
+        "Keyword": "Sub-routine"
+    },
+    {
+        "Keyword": "Message Digest 5"
+    },
+    {
+        "Keyword": "Secure Socket Layer - SSL"
+    },
+    {
+        "Keyword": "Amazon web services"
+    },
+    {
+        "Keyword": "Compaq",
         "Count": 1
     },
     {
-        "Keyword": "Statistic",
+        "Keyword": "Intersect",
         "Count": 1
     },
     {
-        "Keyword": "Socket",
+        "Keyword": "Openoffice",
+        "Count": 2
+    },
+    {
+        "Keyword": "stream cipher",
         "Count": 1
     },
     {
-        "Keyword": "Robotic Process Automation",
+        "Keyword": "Entry Date Changed",
         "Count": 1
+    },
+    {
+        "Keyword": "Constraint Programming",
+        "Count": 1
+    },
+    {
+        "Keyword": "Language-Integrated Query",
+        "Count": 1
+    },
+    {
+        "Keyword": "Supplementary specification"
+    },
+    {
+        "Keyword": "HyperText Transfer Protocol",
+        "Count": 1
+    },
+    {
+        "Keyword": "Asynchronous Transfer Mode - ATM",
+        "Count": 1
+    },
+    {
+        "Keyword": "Stereoscopic 3D"
+    },
+    {
+        "Keyword": "edX"
+    },
+    {
+        "Keyword": "Candy Crush"
+    },
+    {
+        "Keyword": "Availability"
+    },
+    {
+        "Keyword": "Perfectly Secure"
+    },
+    {
+        "Keyword": "Argument"
+    },
+    {
+        "Keyword": "rijndael"
+    },
+    {
+        "Keyword": "Static Local Variable"
+    },
+    {
+        "Keyword": "source IP address"
+    },
+    {
+        "Keyword": "stack pointer"
+    },
+    {
+        "Keyword": "ACK",
+        "Count": 1
+    },
+    {
+        "Keyword": "802.11"
+    },
+    {
+        "Keyword": "Jeopardy"
+    },
+    {
+        "Keyword": "Bitlocker",
+        "Count": 1
+    },
+    {
+        "Keyword": "Polymorphism",
+        "Count": 1
+    },
+    {
+        "Keyword": "Concurrency pattern",
+        "Count": 1
+    },
+    {
+        "Keyword": "Binary Exploitation",
+        "Count": 1
+    },
+    {
+        "Keyword": "Model View View Model",
+        "Count": 1
+    },
+    {
+        "Keyword": "Cross Site Request Forgery",
+        "Count": 1
+    },
+    {
+        "Keyword": "Database Management System",
+        "Count": 1
+    },
+    {
+        "Keyword": "Pointer Variable"
+    },
+    {
+        "Keyword": "Firewall"
+    },
+    {
+        "Keyword": "Unicode"
+    },
+    {
+        "Keyword": "Event-driven Programming"
+    },
+    {
+        "Keyword": "Friend Function"
+    },
+    {
+        "Keyword": "Windows 3.1"
+    },
+    {
+        "Keyword": "Internet Protocol"
+    },
+    {
+        "Keyword": "Open System Interconnection"
+    },
+    {
+        "Keyword": "Resource Acquisition Is Initialization"
+    },
+    {
+        "Keyword": "Internet Information Services"
+    },
+    {
+        "Keyword": "Big-O",
+        "Count": 1
+    },
+    {
+        "Keyword": "Multicast",
+        "Count": 1
+    },
+    {
+        "Keyword": "IEnumerable",
+        "Count": 1
+    },
+    {
+        "Keyword": "Raspberry Pi",
+        "Count": 1
+    },
+    {
+        "Keyword": "Nonrepudiation",
+        "Count": 2
+    },
+    {
+        "Keyword": "Integrated Electronics",
+        "Count": 1
+    },
+    {
+        "Keyword": "International Business Machines",
+        "Count": 1
+    },
+    {
+        "Keyword": "Protocol Independent Multicast - PIM",
+        "Count": 1
+    },
+    {
+        "Keyword": "Border Gateway Protocol, dinh tuyen ngoai vung",
+        "Count": 1
+    },
+    {
+        "Keyword": "Dial-up - Phuong thuc truy cap internet qua <quay so dien thoai>"
+    },
+    {
+        "Keyword": "Linux",
+        "Count": 1
+    },
+    {
+        "Keyword": "Oracle",
+        "Count": 1
+    },
+    {
+        "Keyword": "Bandwidth",
+        "Count": 1
+    },
+    {
+        "Keyword": "Google Now",
+        "Count": 1
+    },
+    {
+        "Keyword": "Flash Sort",
+        "Count": 1
+    },
+    {
+        "Keyword": "Index Operator",
+        "Count": 1
+    },
+    {
+        "Keyword": "Implicit Casting",
+        "Count": 1
+    },
+    {
+        "Keyword": "Encryption scheme",
+        "Count": 1
+    },
+    {
+        "Keyword": "Database Security",
+        "Count": 1
+    },
+    {
+        "Keyword": "Internet Group Management Protocol - IGMP",
+        "Count": 2
+    },
+    {
+        "Keyword": "Planar Graph"
+    },
+    {
+        "Keyword": "Total Commander"
+    },
+    {
+        "Keyword": "asymmetric encryption"
+    },
+    {
+        "Keyword": "Apache Subversion"
+    },
+    {
+        "Keyword": "Data Center"
+    },
+    {
+        "Keyword": "BlackBerry World"
+    },
+    {
+        "Keyword": "Operator"
+    },
+    {
+        "Keyword": "Adversarial Network"
+    },
+    {
+        "Keyword": "Augmented Reality"
+    },
+    {
+        "Keyword": "Hamming Distance"
+    },
+    {
+        "Keyword": "Component"
+    },
+    {
+        "Keyword": "Linear Recursion"
+    },
+    {
+        "Keyword": "Telnet"
+    },
+    {
+        "Keyword": "Compositon"
+    },
+    {
+        "Keyword": "Deep Blue"
+    },
+    {
+        "Keyword": "DenseNet"
+    },
+    {
+        "Keyword": "Solid State Driver"
+    },
+    {
+        "Keyword": "Privacy"
+    },
+    {
+        "Keyword": "Car-to-car Communication"
+    },
+    {
+        "Keyword": "Support Vector Regression"
+    },
+    {
+        "Keyword": "power on self test"
+    },
+    {
+        "Keyword": "Algorithmic Complexity"
+    },
+    {
+        "Keyword": "Critical Section"
+    },
+    {
+        "Keyword": "Local Aread Network"
+    },
+    {
+        "Keyword": "Strategy Pattern"
+    },
+    {
+        "Keyword": "Conventional Cryptosystem"
+    },
+    {
+        "Keyword": "Steganography"
+    },
+    {
+        "Keyword": "Scrash"
+    },
+    {
+        "Keyword": "Methodology",
+        "Count": 1
+    },
+    {
+        "Keyword": "Constraint"
+    },
+    {
+        "Keyword": "3DES"
+    },
+    {
+        "Keyword": "pandas"
+    },
+    {
+        "Keyword": "Built-in Data Type"
+    },
+    {
+        "Keyword": "Entropy"
+    },
+    {
+        "Keyword": "ALOHA"
     },
     {
         "Keyword": "Single Thread",
         "Count": 1
     },
     {
+        "Keyword": "Wide Character"
+    },
+    {
+        "Keyword": "Const Casting"
+    },
+    {
+        "Keyword": "Digital Signal Processing"
+    },
+    {
+        "Keyword": "New Technology File System"
+    },
+    {
+        "Keyword": "Adversarial Attack"
+    },
+    {
+        "Keyword": "Bioinformatics"
+    },
+    {
+        "Keyword": "Redundant Array of Independent Disks"
+    },
+    {
+        "Keyword": "Template"
+    },
+    {
+        "Keyword": "Isolation"
+    },
+    {
+        "Keyword": "Wearable Device"
+    },
+    {
+        "Keyword": "Transmission rate"
+    },
+    {
+        "Keyword": "Distributed Hash Tables - ky thuat su dung trong torrent"
+    },
+    {
+        "Keyword": "Thrashing"
+    },
+    {
+        "Keyword": "Hyper-V"
+    },
+    {
+        "Keyword": "Arithmetic Logic Unit"
+    },
+    {
+        "Keyword": "R",
+        "Count": 1
+    },
+    {
+        "Keyword": "Insertion sort"
+    },
+    {
+        "Keyword": "Metropolitan Ared Network"
+    },
+    {
+        "Keyword": "dereference operator"
+    },
+    {
+        "Keyword": "Queue"
+    },
+    {
+        "Keyword": "Adobe Flash Player"
+    },
+    {
+        "Keyword": "Actual Argument"
+    },
+    {
+        "Keyword": "K-nearest neighbor"
+    },
+    {
+        "Keyword": "Windows NT"
+    },
+    {
+        "Keyword": "Multiple Inheritance"
+    },
+    {
+        "Keyword": "High-level Shader Language"
+    },
+    {
+        "Keyword": "Port"
+    },
+    {
+        "Keyword": "IP Address"
+    },
+    {
+        "Keyword": "totient"
+    },
+    {
+        "Keyword": "Beacon frame, qua trinh quet, do song di dong",
+        "Count": 1
+    },
+    {
+        "Keyword": "Hack"
+    },
+    {
+        "Keyword": "Circular Linked List"
+    },
+    {
+        "Keyword": "Prototype"
+    },
+    {
+        "Keyword": "Logarithm Time"
+    },
+    {
+        "Keyword": "Abstract Window Toolkit"
+    },
+    {
+        "Keyword": "Man in the middle"
+    },
+    {
+        "Keyword": "Attacker"
+    },
+    {
+        "Keyword": "AlphaFord"
+    },
+    {
+        "Keyword": "Kickstarter"
+    },
+    {
+        "Keyword": "Observer Pattern"
+    },
+    {
+        "Keyword": "Google Panda"
+    },
+    {
+        "Keyword": "Google Doodle"
+    },
+    {
+        "Keyword": "circuit",
+        "Count": 1
+    },
+    {
+        "Keyword": "Google Maps"
+    },
+    {
+        "Keyword": "XCode"
+    },
+    {
+        "Keyword": "Hungarian Notation"
+    },
+    {
+        "Keyword": "Exponent"
+    },
+    {
+        "Keyword": "Python"
+    },
+    {
+        "Keyword": "Filename Date Accessed (MFT)"
+    },
+    {
+        "Keyword": "forking repo"
+    },
+    {
+        "Keyword": "OpenGL Shading Language"
+    },
+    {
+        "Keyword": "Datalink Layer",
+        "Count": 1
+    },
+    {
+        "Keyword": "Bag of Words"
+    },
+    {
+        "Keyword": "Role-based access control"
+    },
+    {
+        "Keyword": "Gang of Four"
+    },
+    {
+        "Keyword": "Stack Memory"
+    },
+    {
+        "Keyword": "Prim Algorithm"
+    },
+    {
+        "Keyword": "Power Management"
+    },
+    {
+        "Keyword": "Kaspersky"
+    },
+    {
+        "Keyword": "Slammer"
+    },
+    {
+        "Keyword": "Relocation Read-Only"
+    },
+    {
+        "Keyword": "Induction"
+    },
+    {
+        "Keyword": "Selection Sort"
+    },
+    {
+        "Keyword": "Finite State Machine",
+        "Count": 1
+    },
+    {
+        "Keyword": "Binary Recursion"
+    },
+    {
+        "Keyword": "Reinforcement Learning"
+    },
+    {
+        "Keyword": "NVIDIA"
+    },
+    {
+        "Keyword": "Generative Adversarial Network"
+    },
+    {
+        "Keyword": "Collision Domain"
+    },
+    {
+        "Keyword": "payload"
+    },
+    {
+        "Keyword": "Machine Learning"
+    },
+    {
+        "Keyword": "Linux Kernel",
+        "Count": 1
+    },
+    {
+        "Keyword": "Loss Function"
+    },
+    {
+        "Keyword": "Memory Allocation"
+    },
+    {
+        "Keyword": "Uncentainty"
+    },
+    {
+        "Keyword": "Advanced Encryption Standard"
+    },
+    {
+        "Keyword": "Java Database Connectivity"
+    },
+    {
+        "Keyword": "Kindle Fire"
+    },
+    {
+        "Keyword": "Checkpointing"
+    },
+    {
+        "Keyword": "Sobel Operator"
+    },
+    {
+        "Keyword": "Personal Home Page"
+    },
+    {
+        "Keyword": "Data Management"
+    },
+    {
+        "Keyword": "Central Processing Unit",
+        "Count": 1
+    },
+    {
+        "Keyword": "Nanocomputer"
+    },
+    {
+        "Keyword": "Binary Search"
+    },
+    {
+        "Keyword": "adhoc mode"
+    },
+    {
+        "Keyword": "Octave"
+    },
+    {
+        "Keyword": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+    },
+    {
+        "Keyword": "Operand"
+    },
+    {
+        "Keyword": "Motorola"
+    },
+    {
+        "Keyword": "Google Glass"
+    },
+    {
+        "Keyword": "Recommender System"
+    },
+    {
+        "Keyword": "Deepfake"
+    },
+    {
+        "Keyword": "Business Logic Layer"
+    },
+    {
+        "Keyword": "Resource-Management Cells"
+    },
+    {
+        "Keyword": "Google App Engine"
+    },
+    {
+        "Keyword": "Authentication"
+    },
+    {
+        "Keyword": "Information Leak"
+    },
+    {
+        "Keyword": "Memory Mapping"
+    },
+    {
+        "Keyword": "Java Development Kit"
+    },
+    {
+        "Keyword": "Data Execution Prevention"
+    },
+    {
+        "Keyword": "Public Key"
+    },
+    {
+        "Keyword": "Elastic Compute Cloud"
+    },
+    {
+        "Keyword": "Markov Model"
+    },
+    {
+        "Keyword": "Port Address Translation"
+    },
+    {
+        "Keyword": "Class"
+    },
+    {
+        "Keyword": "Remote Procedure Call"
+    },
+    {
+        "Keyword": "Adruino"
+    },
+    {
+        "Keyword": "Loop Structure"
+    },
+    {
+        "Keyword": "Intel 4004"
+    },
+    {
+        "Keyword": "Flow chart"
+    },
+    {
+        "Keyword": "Software development kit",
+        "Count": 1
+    },
+    {
+        "Keyword": "Functional Programming"
+    },
+    {
+        "Keyword": "Generating Function"
+    },
+    {
+        "Keyword": "Batch"
+    },
+    {
+        "Keyword": "Windows Me"
+    },
+    {
+        "Keyword": "Variable Declaration"
+    },
+    {
+        "Keyword": "polling"
+    },
+    {
+        "Keyword": "Shockwave Flash"
+    },
+    {
+        "Keyword": "Constant Bit Rate - thuoc ATM - dam bao toc do khong doi"
+    },
+    {
+        "Keyword": "XQuery"
+    },
+    {
+        "Keyword": "Wi-Fi"
+    },
+    {
+        "Keyword": "Sciencedirect"
+    },
+    {
+        "Keyword": "Lowest Common Ancestor"
+    },
+    {
+        "Keyword": "Mutable"
+    },
+    {
+        "Keyword": "Connectivity"
+    },
+    {
+        "Keyword": "Dynamic Programming"
+    },
+    {
+        "Keyword": "List Comprehension"
+    },
+    {
+        "Keyword": "Modeling"
+    },
+    {
+        "Keyword": "Sentinel"
+    },
+    {
+        "Keyword": "Youtube"
+    },
+    {
+        "Keyword": "Last In First Out"
+    },
+    {
+        "Keyword": "Forwarding"
+    },
+    {
+        "Keyword": "Turing Test"
+    },
+    {
+        "Keyword": "Broadcast"
+    },
+    {
+        "Keyword": "BitDefender"
+    },
+    {
+        "Keyword": "Statement"
+    },
+    {
+        "Keyword": "Massachusetts Institute of Technology"
+    },
+    {
+        "Keyword": "Polling"
+    },
+    {
+        "Keyword": "Silicon Valley",
+        "Count": 1
+    },
+    {
+        "Keyword": "Pentium"
+    },
+    {
+        "Keyword": "Functional Dependency"
+    },
+    {
+        "Keyword": "Fourier Transform",
+        "Count": 1
+    },
+    {
+        "Keyword": "Overriding"
+    },
+    {
+        "Keyword": "Four Color Theorem"
+    },
+    {
+        "Keyword": "Transmission Control Protocol - TCP"
+    },
+    {
+        "Keyword": "Information retrieval"
+    },
+    {
+        "Keyword": "Sub String"
+    },
+    {
+        "Keyword": "Artificial Intelligent"
+    },
+    {
         "Keyword": "Object Recognition",
         "Count": 1
     },
     {
-        "Keyword": "Authentication",
+        "Keyword": "Administrator"
+    },
+    {
+        "Keyword": "Bing"
+    },
+    {
+        "Keyword": "Information Theory"
+    },
+    {
+        "Keyword": "Fibonacci Sequence"
+    },
+    {
+        "Keyword": "First In First Out"
+    },
+    {
+        "Keyword": "Dynamic Array"
+    },
+    {
+        "Keyword": "Metadata"
+    },
+    {
+        "Keyword": "Euler Diagram"
+    },
+    {
+        "Keyword": "Macbook Pro"
+    },
+    {
+        "Keyword": "Mode of Operation"
+    },
+    {
+        "Keyword": "Blob detection"
+    },
+    {
+        "Keyword": "Multiplexing -- Demultiplexing",
         "Count": 1
     },
     {
-        "Keyword": "Atomicity",
+        "Keyword": "calling convention"
+    },
+    {
+        "Keyword": "Computer Vision"
+    },
+    {
+        "Keyword": "Triplet loss"
+    },
+    {
+        "Keyword": "VirtualBox"
+    },
+    {
+        "Keyword": "SPSS Statistics"
+    },
+    {
+        "Keyword": "Link Layer"
+    },
+    {
+        "Keyword": "Kruskal Algorithm",
         "Count": 1
     },
     {
-        "Keyword": "Relocation Read-Only",
+        "Keyword": "Laptop"
+    },
+    {
+        "Keyword": "Dynamic Link Library"
+    },
+    {
+        "Keyword": "A* Search Algorithm"
+    },
+    {
+        "Keyword": "Connectionless - Phi ket noi, vi du UDP"
+    },
+    {
+        "Keyword": "Saigon Hi Tech Park"
+    },
+    {
+        "Keyword": "Very large-scale integration"
+    },
+    {
+        "Keyword": "timestamp"
+    },
+    {
+        "Keyword": "Composite Number"
+    },
+    {
+        "Keyword": "Forward Declaration"
+    },
+    {
+        "Keyword": "git fork"
+    },
+    {
+        "Keyword": "Access Modifier"
+    },
+    {
+        "Keyword": "Linear Algebra"
+    },
+    {
+        "Keyword": "B-Tree"
+    },
+    {
+        "Keyword": "Playstation Vita"
+    },
+    {
+        "Keyword": "Binary File"
+    },
+    {
+        "Keyword": "Data tampering"
+    },
+    {
+        "Keyword": "Mark Zuckerberg"
+    },
+    {
+        "Keyword": "Unreal"
+    },
+    {
+        "Keyword": "Computer Network"
+    },
+    {
+        "Keyword": "Yahoo",
         "Count": 1
     },
     {
-        "Keyword": "Abstract",
+        "Keyword": "Bootstrap"
+    },
+    {
+        "Keyword": "Function Library"
+    },
+    {
+        "Keyword": "Graph Coloring"
+    },
+    {
+        "Keyword": "Starcraft"
+    },
+    {
+        "Keyword": "Logistic Regression"
+    },
+    {
+        "Keyword": "Normal Form"
+    },
+    {
+        "Keyword": "program launcher"
+    },
+    {
+        "Keyword": "International Collegiate Programming Contest"
+    },
+    {
+        "Keyword": "Data Definition Language"
+    },
+    {
+        "Keyword": "Haswell"
+    },
+    {
+        "Keyword": "Ubuntu"
+    },
+    {
+        "Keyword": "Memory Address"
+    },
+    {
+        "Keyword": "Minimum Spanning Tree"
+    },
+    {
+        "Keyword": "Transaction",
         "Count": 1
     },
     {
-        "Keyword": "Windows Presentation Foundation",
+        "Keyword": "Network News Transfer Protocol"
+    },
+    {
+        "Keyword": "Peer-to-peer"
+    },
+    {
+        "Keyword": "Superclass"
+    },
+    {
+        "Keyword": "Nokia City Lens"
+    },
+    {
+        "Keyword": "User identity"
+    },
+    {
+        "Keyword": "Operating System"
+    },
+    {
+        "Keyword": "Relational Database"
+    },
+    {
+        "Keyword": "Responsive Web"
+    },
+    {
+        "Keyword": "Prolog"
+    },
+    {
+        "Keyword": "Cache"
+    },
+    {
+        "Keyword": "Google Hummingbird"
+    },
+    {
+        "Keyword": "ChatGPT"
+    },
+    {
+        "Keyword": "Memory Leak"
+    },
+    {
+        "Keyword": "CUDA"
+    },
+    {
+        "Keyword": "Windows CE"
+    },
+    {
+        "Keyword": "Foreign Key"
+    },
+    {
+        "Keyword": "Conditional Expression"
+    },
+    {
+        "Keyword": "Worm"
+    },
+    {
+        "Keyword": "Static Method",
         "Count": 1
     },
     {
-        "Keyword": "Transport Layer",
+        "Keyword": "Binary Insertion Sort"
+    },
+    {
+        "Keyword": "Loss-tolerant"
+    },
+    {
+        "Keyword": "File Allocation Table"
+    },
+    {
+        "Keyword": "Torrent"
+    },
+    {
+        "Keyword": "Graphic User Interface"
+    },
+    {
+        "Keyword": "Ethernet, loai mang LAN thong dung nhat"
+    },
+    {
+        "Keyword": "Code Reuse"
+    },
+    {
+        "Keyword": "Lenovo"
+    },
+    {
+        "Keyword": "Class diagram"
+    },
+    {
+        "Keyword": "Computer Science"
+    },
+    {
+        "Keyword": "Mozila Thunderbird"
+    },
+    {
+        "Keyword": "Windows Azure"
+    },
+    {
+        "Keyword": "backoff"
+    },
+    {
+        "Keyword": "Keyword"
+    },
+    {
+        "Keyword": "Website"
+    },
+    {
+        "Keyword": "Secure Socket Layer"
+    },
+    {
+        "Keyword": "DeepFake Detection"
+    },
+    {
+        "Keyword": "Robotic Process Automation",
         "Count": 1
     },
     {
-        "Keyword": "Half Life",
+        "Keyword": "Point-to-Point"
+    },
+    {
+        "Keyword": "Github"
+    },
+    {
+        "Keyword": "Singular Value Decomposition"
+    },
+    {
+        "Keyword": "Interpreter Pattern"
+    },
+    {
+        "Keyword": "Multiprotocol Label Switching - MPLS"
+    },
+    {
+        "Keyword": "Java"
+    },
+    {
+        "Keyword": "parity"
+    },
+    {
+        "Keyword": "Turing Award"
+    },
+    {
+        "Keyword": "Game Designer"
+    },
+    {
+        "Keyword": "Dell"
+    },
+    {
+        "Keyword": "Overflow"
+    },
+    {
+        "Keyword": "Preprocessing"
+    },
+    {
+        "Keyword": "Novell IPX"
+    },
+    {
+        "Keyword": "Class Declaration"
+    },
+    {
+        "Keyword": "Rational Unified Process"
+    },
+    {
+        "Keyword": "Fast Fourier Transform"
+    },
+    {
+        "Keyword": "Cloning"
+    },
+    {
+        "Keyword": "Inception v3"
+    },
+    {
+        "Keyword": "Half Duplex"
+    },
+    {
+        "Keyword": "Stateless - neu khong dung Cookies",
         "Count": 1
     },
     {
-        "Keyword": "Eight Queens Puzzle",
+        "Keyword": "Laser Printer"
+    },
+    {
+        "Keyword": "Reference Variable"
+    },
+    {
+        "Keyword": "Touchscreen"
+    },
+    {
+        "Keyword": "Dropbox"
+    },
+    {
+        "Keyword": "LATEX"
+    },
+    {
+        "Keyword": "Optical Flow"
+    },
+    {
+        "Keyword": "SmallTalk"
+    },
+    {
+        "Keyword": "Xbox"
+    },
+    {
+        "Keyword": "diophantine equation"
+    },
+    {
+        "Keyword": "spooling"
+    },
+    {
+        "Keyword": "bit per second"
+    },
+    {
+        "Keyword": "Carrier Sense Multiple Access - CSMA"
+    },
+    {
+        "Keyword": "Megaupload"
+    },
+    {
+        "Keyword": "Subnet Mask"
+    },
+    {
+        "Keyword": "Linked List",
         "Count": 1
     },
     {
-        "Keyword": "Test and set",
+        "Keyword": "Hard disk drive"
+    },
+    {
+        "Keyword": "Raedon"
+    },
+    {
+        "Keyword": "OpenGL ES"
+    },
+    {
+        "Keyword": "Software as a Service"
+    },
+    {
+        "Keyword": "Caesar Cipher"
+    },
+    {
+        "Keyword": "Greedy Algorithm"
+    },
+    {
+        "Keyword": "Alexa"
+    },
+    {
+        "Keyword": "sigmoid"
+    },
+    {
+        "Keyword": "Shortest seek time first"
+    },
+    {
+        "Keyword": "Sequentially Access"
+    },
+    {
+        "Keyword": "Parent class"
+    },
+    {
+        "Keyword": "Request"
+    },
+    {
+        "Keyword": "Least Significant Bit"
+    },
+    {
+        "Keyword": "Sergey Brin"
+    },
+    {
+        "Keyword": "Builder Pattern"
+    },
+    {
+        "Keyword": "Cursor"
+    },
+    {
+        "Keyword": "Sub-program"
+    },
+    {
+        "Keyword": "Red-Black Tree",
         "Count": 1
     },
     {
-        "Keyword": "Windows Server",
+        "Keyword": "Computational Geometry"
+    },
+    {
+        "Keyword": "Network Interface Card - NIC"
+    },
+    {
+        "Keyword": "Notable language"
+    },
+    {
+        "Keyword": "Internet Service Provider"
+    },
+    {
+        "Keyword": "Information Gain"
+    },
+    {
+        "Keyword": "Authorization"
+    },
+    {
+        "Keyword": "Repeater"
+    },
+    {
+        "Keyword": "Username"
+    },
+    {
+        "Keyword": "Hidden Markov Model"
+    },
+    {
+        "Keyword": "Explicit Casting"
+    },
+    {
+        "Keyword": "Method Overloading"
+    },
+    {
+        "Keyword": "Bit"
+    },
+    {
+        "Keyword": "Adjacency Matrix"
+    },
+    {
+        "Keyword": "Time-to-live"
+    },
+    {
+        "Keyword": "APARNET"
+    },
+    {
+        "Keyword": "Integrity Constraint"
+    },
+    {
+        "Keyword": "Scrolling"
+    },
+    {
+        "Keyword": "Data Abstraction"
+    },
+    {
+        "Keyword": "Unicast"
+    },
+    {
+        "Keyword": "HaNoi Tower"
+    },
+    {
+        "Keyword": "Non-Persistent Connections"
+    },
+    {
+        "Keyword": "Ruby on Rail",
         "Count": 1
     },
     {
-        "Keyword": "Stack Memory",
+        "Keyword": "Bridge Pattern"
+    },
+    {
+        "Keyword": "Arcade Game",
         "Count": 1
     },
     {
-        "Keyword": "Data transfer object",
+        "Keyword": "Zalo"
+    },
+    {
+        "Keyword": "Business Logic Tier"
+    },
+    {
+        "Keyword": "Network Address Translation Overload"
+    },
+    {
+        "Keyword": "Attachment"
+    },
+    {
+        "Keyword": "Singleton Pattern"
+    },
+    {
+        "Keyword": "Parser"
+    },
+    {
+        "Keyword": "Behaviour"
+    },
+    {
+        "Keyword": "Input"
+    },
+    {
+        "Keyword": "maximum likelihood estimation"
+    },
+    {
+        "Keyword": "NTT Data"
+    },
+    {
+        "Keyword": "Probability Distribution",
         "Count": 1
     },
     {
-        "Keyword": "Microprocessor",
+        "Keyword": "View"
+    },
+    {
+        "Keyword": "Discrete Mathematics"
+    },
+    {
+        "Keyword": "Ripple-Carry Adder",
         "Count": 1
     },
     {
-        "Keyword": "Forward Error Correction - FEC",
+        "Keyword": "WhatsApp"
+    },
+    {
+        "Keyword": "Cross Site Scripting"
+    },
+    {
+        "Keyword": "Euclidean Distance"
+    },
+    {
+        "Keyword": "Uniform Resource Indetifier"
+    },
+    {
+        "Keyword": "Template Method Pattern"
+    },
+    {
+        "Keyword": "Wireless Mouse"
+    },
+    {
+        "Keyword": "Computer Security"
+    },
+    {
+        "Keyword": "Architectural Patterns"
+    },
+    {
+        "Keyword": "Cache-friendly"
+    },
+    {
+        "Keyword": "NoSQL"
+    },
+    {
+        "Keyword": "Zero Day Exploit"
+    },
+    {
+        "Keyword": "verbose instruction"
+    },
+    {
+        "Keyword": "Scala"
+    },
+    {
+        "Keyword": "Object-oriented Programming"
+    },
+    {
+        "Keyword": "Single Linked List",
         "Count": 1
     },
     {
-        "Keyword": "Digital identity",
-        "Count": 1
-    },
-    {
-        "Keyword": "Inheritance Relationship",
-        "Count": 1
-    },
-    {
-        "Keyword": "Integer Programming",
-        "Count": 1
-    },
-    {
-        "Keyword": "plug-in",
-        "Count": 1
-    },
-    {
-        "Keyword": "Visual Basic",
-        "Count": 1
-    },
-    {
-        "Keyword": "Bit per second",
-        "Count": 1
-    },
-    {
-        "Keyword": "IntelliJ IDEA",
-        "Count": 1
-    },
-    {
-        "Keyword": "Peripheral Component Interconnect",
-        "Count": 1
-    },
-    {
-        "Keyword": "Function Polymorphism",
-        "Count": 1
-    },
-    {
-        "Keyword": "Tuple",
-        "Count": 1
-    },
-    {
-        "Keyword": "Application Programming Interface",
-        "Count": 1
+        "Keyword": "Priority Queue"
     },
     {
         "Keyword": "Abstract Method",
         "Count": 1
     },
     {
-        "Keyword": "Object-oriented Programming",
+        "Keyword": "Cartesian Product"
+    },
+    {
+        "Keyword": "PostgreSQL"
+    },
+    {
+        "Keyword": "Stack Overflow"
+    },
+    {
+        "Keyword": "Windows Presentation Foundation"
+    },
+    {
+        "Keyword": "Trojan Horse"
+    },
+    {
+        "Keyword": "Nondeterministic finite automaton"
+    },
+    {
+        "Keyword": "Hadoop"
+    },
+    {
+        "Keyword": "Polish notation"
+    },
+    {
+        "Keyword": "Error Detection-Correction - EDC"
+    },
+    {
+        "Keyword": "Serial Advanced Technology Attachment"
+    },
+    {
+        "Keyword": "Mediafire"
+    },
+    {
+        "Keyword": "network protocol analyzer"
+    },
+    {
+        "Keyword": "Mediator Pattern"
+    },
+    {
+        "Keyword": "Integrated Circuit"
+    },
+    {
+        "Keyword": "Location"
+    },
+    {
+        "Keyword": "Files Transfer Protocol"
+    },
+    {
+        "Keyword": "Windows 8"
+    },
+    {
+        "Keyword": "iTunes",
         "Count": 1
     },
     {
-        "Keyword": "Postfix notation",
-        "Count": 1
+        "Keyword": "Wikileaks"
     },
     {
-        "Keyword": "Heap Memory",
-        "Count": 1
+        "Keyword": "Paul Allen"
     },
     {
-        "Keyword": "Register",
-        "Count": 1
+        "Keyword": "Web Cache = Proxy Server"
     },
     {
-        "Keyword": "UTF-8",
-        "Count": 1
+        "Keyword": "Pattern Matching"
     },
     {
-        "Keyword": "Media",
-        "Count": 1
+        "Keyword": "Wii"
     },
     {
-        "Keyword": "OpenGL Shading Language",
-        "Count": 1
+        "Keyword": "Mako Surgical"
     },
     {
-        "Keyword": "Cookie",
+        "Keyword": "Virtual Local Area Network - VLAN"
+    },
+    {
+        "Keyword": "Blank"
+    },
+    {
+        "Keyword": "Java Platform Standard Edition"
+    },
+    {
+        "Keyword": "NetBean"
+    },
+    {
+        "Keyword": "CIA Triad"
+    },
+    {
+        "Keyword": "Parameter"
+    },
+    {
+        "Keyword": "Graph"
+    },
+    {
+        "Keyword": "LUA"
+    },
+    {
+        "Keyword": "Dispatch"
+    },
+    {
+        "Keyword": "Research & Development"
+    },
+    {
+        "Keyword": "Jeff Bezos"
+    },
+    {
+        "Keyword": "Casting"
+    },
+    {
+        "Keyword": "Datagram"
+    },
+    {
+        "Keyword": "Donald Knuth"
+    },
+    {
+        "Keyword": "OpenGL"
+    },
+    {
+        "Keyword": "Cycle"
+    },
+    {
+        "Keyword": "Outsourcing"
+    },
+    {
+        "Keyword": "DirectX"
+    },
+    {
+        "Keyword": "Apache Tomcat"
+    },
+    {
+        "Keyword": "Yahoo Messenger"
+    },
+    {
+        "Keyword": "Database"
+    },
+    {
+        "Keyword": "String Matching"
+    },
+    {
+        "Keyword": "Backpropagation"
+    },
+    {
+        "Keyword": "Raw data"
+    },
+    {
+        "Keyword": "Capital Letter"
+    },
+    {
+        "Keyword": "Output"
+    },
+    {
+        "Keyword": "Input Device"
+    },
+    {
+        "Keyword": "Case Study"
+    },
+    {
+        "Keyword": "AOL"
+    },
+    {
+        "Keyword": "Assembly Language"
+    },
+    {
+        "Keyword": "Worst case Complexity"
+    },
+    {
+        "Keyword": "Windows Communication Foundation"
+    },
+    {
+        "Keyword": "Automatic Repeat Request"
+    },
+    {
+        "Keyword": "Laplacian"
+    },
+    {
+        "Keyword": "Immuatable"
+    },
+    {
+        "Keyword": "LISP"
+    },
+    {
+        "Keyword": "Cryptocurrency"
+    },
+    {
+        "Keyword": "Supervised Learning"
+    },
+    {
+        "Keyword": "Bridge (cut-edge, cut arc or an isthmus)"
+    },
+    {
+        "Keyword": "Deterministic finite automaton"
+    },
+    {
+        "Keyword": "Windows"
+    },
+    {
+        "Keyword": "CSNET"
+    },
+    {
+        "Keyword": "Consumer Electronics Show"
+    },
+    {
+        "Keyword": "Redis"
+    },
+    {
+        "Keyword": "Andrey Markov"
+    },
+    {
+        "Keyword": "Kindle"
+    },
+    {
+        "Keyword": "Offset"
+    },
+    {
+        "Keyword": "Reverse Engineering"
+    },
+    {
+        "Keyword": "Bubble Sort"
+    },
+    {
+        "Keyword": "Tim Berners-Lee"
+    },
+    {
+        "Keyword": "Tablet Computer"
+    },
+    {
+        "Keyword": "Pure Virtual Method"
+    },
+    {
+        "Keyword": "Deadlock"
+    },
+    {
+        "Keyword": "Turing Machine"
+    },
+    {
+        "Keyword": "Cache hit"
+    },
+    {
+        "Keyword": "PCI Express"
+    },
+    {
+        "Keyword": "Kinect",
         "Count": 1
     },
     {
@@ -5188,31 +2496,2350 @@
         "Count": 1
     },
     {
-        "Keyword": "Maximum Transmission Unit",
+        "Keyword": "Digitization"
+    },
+    {
+        "Keyword": "Extreme Programming"
+    },
+    {
+        "Keyword": "Dependent"
+    },
+    {
+        "Keyword": "Security"
+    },
+    {
+        "Keyword": "Hash Function"
+    },
+    {
+        "Keyword": "Integrated Development Enviroment"
+    },
+    {
+        "Keyword": "Vertex",
         "Count": 1
+    },
+    {
+        "Keyword": "Relational Algebra"
+    },
+    {
+        "Keyword": "Substitution Cipher"
+    },
+    {
+        "Keyword": "Process"
+    },
+    {
+        "Keyword": "Congestion Avoidance"
+    },
+    {
+        "Keyword": "base pointer"
+    },
+    {
+        "Keyword": "File Trasfer Protocol"
+    },
+    {
+        "Keyword": "gamification"
+    },
+    {
+        "Keyword": "Convex Hull"
+    },
+    {
+        "Keyword": "Directory Traversal"
+    },
+    {
+        "Keyword": "Netscape"
+    },
+    {
+        "Keyword": "Polynomial Time"
+    },
+    {
+        "Keyword": "Linear Time"
+    },
+    {
+        "Keyword": "Suffix Array"
+    },
+    {
+        "Keyword": "Floating Point"
+    },
+    {
+        "Keyword": "Plain Text"
+    },
+    {
+        "Keyword": "Rich Text Format"
+    },
+    {
+        "Keyword": "Local Host"
+    },
+    {
+        "Keyword": "Larry Page"
+    },
+    {
+        "Keyword": "Floyd Algorithm",
+        "Count": 1
+    },
+    {
+        "Keyword": "Reverse Polish notation"
+    },
+    {
+        "Keyword": "Spiral Model"
+    },
+    {
+        "Keyword": "Function Polymorphism",
+        "Count": 1
+    },
+    {
+        "Keyword": "Ping",
+        "Count": 1
+    },
+    {
+        "Keyword": "Apache"
+    },
+    {
+        "Keyword": "Session Layer"
+    },
+    {
+        "Keyword": "Scripting Language"
+    },
+    {
+        "Keyword": "Non-repudiation"
+    },
+    {
+        "Keyword": "Standard Template Library"
+    },
+    {
+        "Keyword": "Logical Operator"
+    },
+    {
+        "Keyword": "Skydrive"
+    },
+    {
+        "Keyword": "Data"
+    },
+    {
+        "Keyword": "Hub"
+    },
+    {
+        "Keyword": "Command Pattern"
+    },
+    {
+        "Keyword": "Digitalization"
+    },
+    {
+        "Keyword": "Consistency"
+    },
+    {
+        "Keyword": "Logical Memory Address"
+    },
+    {
+        "Keyword": "Text Editor"
+    },
+    {
+        "Keyword": "Swing"
+    },
+    {
+        "Keyword": "Speech Recognition"
+    },
+    {
+        "Keyword": "Directory"
+    },
+    {
+        "Keyword": "Quicksort"
+    },
+    {
+        "Keyword": "numpy"
+    },
+    {
+        "Keyword": "Distinguished Encoding Rules"
+    },
+    {
+        "Keyword": "Memoization"
+    },
+    {
+        "Keyword": "Address Space Layout Randomization"
+    },
+    {
+        "Keyword": "Double-ended Queue"
+    },
+    {
+        "Keyword": "Data Encryption Standard"
+    },
+    {
+        "Keyword": "P vs NP"
+    },
+    {
+        "Keyword": "Tim Cook",
+        "Count": 1
+    },
+    {
+        "Keyword": "Binary Search Tree"
+    },
+    {
+        "Keyword": "Singly Linear Linked List"
+    },
+    {
+        "Keyword": "File system"
+    },
+    {
+        "Keyword": "Frame"
+    },
+    {
+        "Keyword": "Java Virtual Machine"
+    },
+    {
+        "Keyword": "Supercomputer"
+    },
+    {
+        "Keyword": "Physical Memory Address"
+    },
+    {
+        "Keyword": "Cyber-Physical Production Systems"
+    },
+    {
+        "Keyword": "Predictive Analytics"
+    },
+    {
+        "Keyword": "Microsoft Developer Network"
+    },
+    {
+        "Keyword": "Model View Controller"
+    },
+    {
+        "Keyword": "Digital Watermarking"
+    },
+    {
+        "Keyword": "LinkedIn"
+    },
+    {
+        "Keyword": "IP Spoofing"
+    },
+    {
+        "Keyword": "Sign"
+    },
+    {
+        "Keyword": "Clock Rate"
+    },
+    {
+        "Keyword": "nonvolatine memory"
+    },
+    {
+        "Keyword": "What You See is What You Get"
+    },
+    {
+        "Keyword": "TED"
+    },
+    {
+        "Keyword": "Project Manager"
+    },
+    {
+        "Keyword": "Static Member"
+    },
+    {
+        "Keyword": "Degree"
+    },
+    {
+        "Keyword": "Endian"
+    },
+    {
+        "Keyword": "Internet Checksum"
+    },
+    {
+        "Keyword": "Database Replica"
+    },
+    {
+        "Keyword": "Pop"
+    },
+    {
+        "Keyword": "Built-in Class"
+    },
+    {
+        "Keyword": "Imagine Cup"
+    },
+    {
+        "Keyword": "Android Developer Tools"
+    },
+    {
+        "Keyword": "Theta Join"
+    },
+    {
+        "Keyword": "C++"
+    },
+    {
+        "Keyword": "Path"
+    },
+    {
+        "Keyword": "Entry Date Modified\n",
+        "Count": 1
+    },
+    {
+        "Keyword": "Socket"
+    },
+    {
+        "Keyword": "Busy Waiting"
+    },
+    {
+        "Keyword": "Encryption"
+    },
+    {
+        "Keyword": "Windows 7"
+    },
+    {
+        "Keyword": "Cryptography"
+    },
+    {
+        "Keyword": "Digitized"
+    },
+    {
+        "Keyword": "Complex Instruction Set Computing"
+    },
+    {
+        "Keyword": "Programming Language"
+    },
+    {
+        "Keyword": "Leap Motion"
+    },
+    {
+        "Keyword": "Context Menu"
+    },
+    {
+        "Keyword": "Replay Attach"
+    },
+    {
+        "Keyword": "Dalvik Virtual Machine"
+    },
+    {
+        "Keyword": "American National Standards Institute"
+    },
+    {
+        "Keyword": "Formal Variable"
+    },
+    {
+        "Keyword": "Euler's totient function"
+    },
+    {
+        "Keyword": "Cryptanalysis"
+    },
+    {
+        "Keyword": "Metric learning"
+    },
+    {
+        "Keyword": "Asynchronous JavaScript and XML"
+    },
+    {
+        "Keyword": "Platform as a Service"
+    },
+    {
+        "Keyword": "Heap Memory"
+    },
+    {
+        "Keyword": "Windows XP"
+    },
+    {
+        "Keyword": "Peterson"
+    },
+    {
+        "Keyword": "Shortcut"
+    },
+    {
+        "Keyword": "Register"
+    },
+    {
+        "Keyword": "Larry Ellison"
+    },
+    {
+        "Keyword": "Web Exploitation"
+    },
+    {
+        "Keyword": "Enterprise"
+    },
+    {
+        "Keyword": "Z function"
+    },
+    {
+        "Keyword": "Data Mining"
+    },
+    {
+        "Keyword": "Dotted Decimal Notation - vidu 192.168.1.1"
+    },
+    {
+        "Keyword": "Dimension"
+    },
+    {
+        "Keyword": "Reference Parameter"
+    },
+    {
+        "Keyword": "Hewlett-Packard"
+    },
+    {
+        "Keyword": "Client"
+    },
+    {
+        "Keyword": "Stack canary"
+    },
+    {
+        "Keyword": "token-passing"
+    },
+    {
+        "Keyword": "Software Architecture"
+    },
+    {
+        "Keyword": "Routing Information Protocol"
+    },
+    {
+        "Keyword": "Chromebook"
+    },
+    {
+        "Keyword": "Playstation",
+        "Count": 1
+    },
+    {
+        "Keyword": "Circular Distributed Hash Tables - ky thuat su dung trong torrent"
+    },
+    {
+        "Keyword": "Response"
+    },
+    {
+        "Keyword": "Backtracking"
+    },
+    {
+        "Keyword": "Cellular Network"
+    },
+    {
+        "Keyword": "snippet"
+    },
+    {
+        "Keyword": "Fatal Error"
+    },
+    {
+        "Keyword": "First come first server"
+    },
+    {
+        "Keyword": "F#",
+        "Count": 1
+    },
+    {
+        "Keyword": "Imperative Programming"
+    },
+    {
+        "Keyword": "Factory Method Pattern"
+    },
+    {
+        "Keyword": "EmguCV"
+    },
+    {
+        "Keyword": "Secrecy"
+    },
+    {
+        "Keyword": "Go-Back N"
+    },
+    {
+        "Keyword": "Iterator"
+    },
+    {
+        "Keyword": "Coaxial cable"
+    },
+    {
+        "Keyword": "GPS longtitude"
+    },
+    {
+        "Keyword": "Return Oriented Programming"
+    },
+    {
+        "Keyword": "Google Street View"
+    },
+    {
+        "Keyword": "SQL Injection"
+    },
+    {
+        "Keyword": "Hololens"
+    },
+    {
+        "Keyword": "Tail Recursion"
+    },
+    {
+        "Keyword": "Clique"
+    },
+    {
+        "Keyword": "Dennis Ritchie"
+    },
+    {
+        "Keyword": "Structured Query Language"
+    },
+    {
+        "Keyword": "C-style casting"
+    },
+    {
+        "Keyword": "Alpha Go"
+    },
+    {
+        "Keyword": "Vim"
+    },
+    {
+        "Keyword": "Backbone"
+    },
+    {
+        "Keyword": "Sequential Search"
+    },
+    {
+        "Keyword": "Push"
+    },
+    {
+        "Keyword": "Unified Modeling Language"
+    },
+    {
+        "Keyword": "Metro"
+    },
+    {
+        "Keyword": "Microsoft Build"
+    },
+    {
+        "Keyword": "Infix notation"
+    },
+    {
+        "Keyword": "Balanced Binary Search Tree"
+    },
+    {
+        "Keyword": "Metric Space"
+    },
+    {
+        "Keyword": "Data Type"
+    },
+    {
+        "Keyword": ".NET Framework"
+    },
+    {
+        "Keyword": "Dynamic Memory"
+    },
+    {
+        "Keyword": "Eric Schmidt"
+    },
+    {
+        "Keyword": "SQL injection payload"
+    },
+    {
+        "Keyword": "Dictionaries"
+    },
+    {
+        "Keyword": "Distant Centralized Databases"
+    },
+    {
+        "Keyword": "OpenCV"
+    },
+    {
+        "Keyword": "Vigenere Cipher"
+    },
+    {
+        "Keyword": "Probability"
+    },
+    {
+        "Keyword": "Available Bit Rate - thuoc ATM"
+    },
+    {
+        "Keyword": "Avast"
+    },
+    {
+        "Keyword": "Coding Theory"
+    },
+    {
+        "Keyword": "Polish prefix notation"
+    },
+    {
+        "Keyword": "Blowfish"
+    },
+    {
+        "Keyword": "General Data Protection Regulation"
+    },
+    {
+        "Keyword": "Method Overriding"
+    },
+    {
+        "Keyword": "Transistor",
+        "Count": 1
+    },
+    {
+        "Keyword": "metadata"
+    },
+    {
+        "Keyword": "Round Trip Time - RTT"
+    },
+    {
+        "Keyword": "Signal to Noise Ratio - SNR"
+    },
+    {
+        "Keyword": "Branch Statements"
+    },
+    {
+        "Keyword": "Software interrupt"
+    },
+    {
+        "Keyword": "Broadcast Domain"
+    },
+    {
+        "Keyword": "memory dumping"
+    },
+    {
+        "Keyword": "Strategy"
+    },
+    {
+        "Keyword": "PageRank"
+    },
+    {
+        "Keyword": "Wide Area Network"
+    },
+    {
+        "Keyword": "Thread"
+    },
+    {
+        "Keyword": "Fedora"
+    },
+    {
+        "Keyword": "Google Drive"
+    },
+    {
+        "Keyword": "Switch"
+    },
+    {
+        "Keyword": "Image Segmentation"
+    },
+    {
+        "Keyword": "Virtual Inheriatance"
+    },
+    {
+        "Keyword": "plug-in"
+    },
+    {
+        "Keyword": "Dequeue"
+    },
+    {
+        "Keyword": "Embedded System"
+    },
+    {
+        "Keyword": "Geographic Information System"
+    },
+    {
+        "Keyword": "World of Warcraft"
+    },
+    {
+        "Keyword": "Digital Forensics"
+    },
+    {
+        "Keyword": "Procedure Linkage Table"
+    },
+    {
+        "Keyword": "Forward Error Correction - FEC",
+        "Count": 1
+    },
+    {
+        "Keyword": "IMAP - Giao thuc truy cap thu, xin hon POP3"
+    },
+    {
+        "Keyword": "Object"
+    },
+    {
+        "Keyword": "Media Access Control - MAC"
+    },
+    {
+        "Keyword": "Connected Component"
+    },
+    {
+        "Keyword": "Macintosh"
+    },
+    {
+        "Keyword": "Digital signature"
+    },
+    {
+        "Keyword": "Terrain"
+    },
+    {
+        "Keyword": "Java Platform Enterprise Edition"
+    },
+    {
+        "Keyword": "Knight Tour"
+    },
+    {
+        "Keyword": "Connection-Oriented Service"
+    },
+    {
+        "Keyword": "Loop Invariant",
+        "Count": 1
+    },
+    {
+        "Keyword": "bitstream file"
+    },
+    {
+        "Keyword": "Froyo"
+    },
+    {
+        "Keyword": "PHP: Hypertext Preprocessor",
+        "Count": 1
+    },
+    {
+        "Keyword": "Adapter Pattern",
+        "Count": 1
+    },
+    {
+        "Keyword": "Static Array"
+    },
+    {
+        "Keyword": "SCRUM"
+    },
+    {
+        "Keyword": "traffic history"
+    },
+    {
+        "Keyword": "Gateway Routers"
+    },
+    {
+        "Keyword": "Flickr"
+    },
+    {
+        "Keyword": "Markov Chain"
+    },
+    {
+        "Keyword": "Sector"
+    },
+    {
+        "Keyword": "Streaming"
+    },
+    {
+        "Keyword": "Cyber crime investigation"
+    },
+    {
+        "Keyword": "ARPANET"
+    },
+    {
+        "Keyword": "Optical Character Recognition"
+    },
+    {
+        "Keyword": "Cloning Pattern"
+    },
+    {
+        "Keyword": "Peer-To-Peer"
+    },
+    {
+        "Keyword": "Packet"
+    },
+    {
+        "Keyword": "System R"
+    },
+    {
+        "Keyword": "Maximum Transmission Unit - MTU"
+    },
+    {
+        "Keyword": "Markov Process"
+    },
+    {
+        "Keyword": "MongoDB"
+    },
+    {
+        "Keyword": "Bluray"
+    },
+    {
+        "Keyword": "Sony Picture"
+    },
+    {
+        "Keyword": "Springer"
+    },
+    {
+        "Keyword": "Specialization"
+    },
+    {
+        "Keyword": "Red Green Blue Alpha",
+        "Count": 1
+    },
+    {
+        "Keyword": "Rivest - Shamir - Adleman"
+    },
+    {
+        "Keyword": "Dynamic Host Configuration Protocol - DHCP"
+    },
+    {
+        "Keyword": "Ruby"
+    },
+    {
+        "Keyword": "floppy disk"
+    },
+    {
+        "Keyword": "gadget"
+    },
+    {
+        "Keyword": "Process Control Block - PCB"
+    },
+    {
+        "Keyword": "iCloud"
+    },
+    {
+        "Keyword": "Deep Learning"
+    },
+    {
+        "Keyword": "Variable"
+    },
+    {
+        "Keyword": "PostScript"
+    },
+    {
+        "Keyword": "Mathematica"
+    },
+    {
+        "Keyword": "Memory Fragment"
+    },
+    {
+        "Keyword": "String"
+    },
+    {
+        "Keyword": "Biometric"
+    },
+    {
+        "Keyword": "Data Type Definition"
+    },
+    {
+        "Keyword": "hand off"
+    },
+    {
+        "Keyword": "Coprime"
+    },
+    {
+        "Keyword": "Affine Transformation"
+    },
+    {
+        "Keyword": "Onedrive"
+    },
+    {
+        "Keyword": "Filename Date Modified (MFT)"
+    },
+    {
+        "Keyword": "Landmark recognition"
+    },
+    {
+        "Keyword": "Histogram"
+    },
+    {
+        "Keyword": "Histogram Specification"
+    },
+    {
+        "Keyword": "American Standard Code for Information Interchange"
+    },
+    {
+        "Keyword": "Constant"
+    },
+    {
+        "Keyword": "Search Engine Optimization"
+    },
+    {
+        "Keyword": "Computational complexity theory"
+    },
+    {
+        "Keyword": "Nokia Lumia"
+    },
+    {
+        "Keyword": "Hidden Terminal Problem"
+    },
+    {
+        "Keyword": "Privilege"
+    },
+    {
+        "Keyword": "checksum, kiem tong"
+    },
+    {
+        "Keyword": "Trojan"
+    },
+    {
+        "Keyword": "C"
+    },
+    {
+        "Keyword": "Class-level Method"
+    },
+    {
+        "Keyword": "Search Algorithm"
+    },
+    {
+        "Keyword": "Prime"
+    },
+    {
+        "Keyword": "Spring"
+    },
+    {
+        "Keyword": "File Signature"
+    },
+    {
+        "Keyword": "Data Warehouse"
+    },
+    {
+        "Keyword": "Haskell"
+    },
+    {
+        "Keyword": "Natural Join"
+    },
+    {
+        "Keyword": "Wireless Router"
+    },
+    {
+        "Keyword": "Compare"
+    },
+    {
+        "Keyword": "Authentication (AuthN)"
+    },
+    {
+        "Keyword": "Google Instant"
+    },
+    {
+        "Keyword": "Word Processing"
+    },
+    {
+        "Keyword": "Marshmallow"
+    },
+    {
+        "Keyword": "ATI Technologies"
+    },
+    {
+        "Keyword": "Jelly Bean"
+    },
+    {
+        "Keyword": "Graphics Device Interface"
+    },
+    {
+        "Keyword": "Need For Speed"
+    },
+    {
+        "Keyword": "SQLite"
+    },
+    {
+        "Keyword": "Automotive Engineering"
+    },
+    {
+        "Keyword": "Classless Inter-domain Routing"
+    },
+    {
+        "Keyword": "Honeycomb"
+    },
+    {
+        "Keyword": "Interpolation search"
+    },
+    {
+        "Keyword": "parallelizable "
+    },
+    {
+        "Keyword": "end-to-end"
+    },
+    {
+        "Keyword": "User Datagram Protocol - UDP"
+    },
+    {
+        "Keyword": "LulzSec",
+        "Count": 1
+    },
+    {
+        "Keyword": "Voice over Internet Protocol"
+    },
+    {
+        "Keyword": "High-Performance Computer"
+    },
+    {
+        "Keyword": "Router"
+    },
+    {
+        "Keyword": "Knight's Tour Problem"
+    },
+    {
+        "Keyword": "Dynamic allocation"
+    },
+    {
+        "Keyword": "Master-slave relationship"
+    },
+    {
+        "Keyword": "Mozila Firefox"
+    },
+    {
+        "Keyword": "Crowdsourcing"
+    },
+    {
+        "Keyword": "Request to Send"
+    },
+    {
+        "Keyword": "Handshake "
+    },
+    {
+        "Keyword": "Forensics",
+        "Count": 1
+    },
+    {
+        "Keyword": "Enterprise Resource Planning"
+    },
+    {
+        "Keyword": "Pascal"
+    },
+    {
+        "Keyword": "Client-Server Protocol",
+        "Count": 1
+    },
+    {
+        "Keyword": "Symmectric Cryptosystem"
+    },
+    {
+        "Keyword": "Array"
+    },
+    {
+        "Keyword": "IPSec, giao thuc bao mat IP"
+    },
+    {
+        "Keyword": "Half Life"
+    },
+    {
+        "Keyword": "bit parity"
+    },
+    {
+        "Keyword": "The Pirate Bay"
+    },
+    {
+        "Keyword": "Trail"
+    },
+    {
+        "Keyword": "Google I/O"
+    },
+    {
+        "Keyword": "Abstract Syntax Notation One"
+    },
+    {
+        "Keyword": "CSMA/CD, trien khai CSMA la Carrier Sense Multiple Access"
+    },
+    {
+        "Keyword": "destination IP address"
+    },
+    {
+        "Keyword": "Throughput"
+    },
+    {
+        "Keyword": "TCP Packet -- UDP Segment"
+    },
+    {
+        "Keyword": "Classful addressing"
+    },
+    {
+        "Keyword": "Articulation Point (Cut Vertex)"
+    },
+    {
+        "Keyword": "Decorator Pattern"
+    },
+    {
+        "Keyword": "Shallow Copy"
+    },
+    {
+        "Keyword": "Windows Phone"
+    },
+    {
+        "Keyword": "Ethernet",
+        "Count": 1
+    },
+    {
+        "Keyword": "Calculus"
+    },
+    {
+        "Keyword": "Abstract Factory Pattern"
+    },
+    {
+        "Keyword": "Broadband"
+    },
+    {
+        "Keyword": "Propogating Cipher Block Chaining"
+    },
+    {
+        "Keyword": "Distance Vector Algorithm",
+        "Count": 1
+    },
+    {
+        "Keyword": "Intrusion Detection System"
+    },
+    {
+        "Keyword": "shell"
+    },
+    {
+        "Keyword": "Project Loon"
+    },
+    {
+        "Keyword": "Binary Code"
+    },
+    {
+        "Keyword": "Portable Document Format"
+    },
+    {
+        "Keyword": "Thread-yield"
+    },
+    {
+        "Keyword": "Skype"
+    },
+    {
+        "Keyword": "Botnet"
+    },
+    {
+        "Keyword": "Function Overloading"
+    },
+    {
+        "Keyword": "Primary Key"
+    },
+    {
+        "Keyword": "Gameloft"
+    },
+    {
+        "Keyword": "Genetic Algorithm"
+    },
+    {
+        "Keyword": "Friend"
+    },
+    {
+        "Keyword": "Root Class"
+    },
+    {
+        "Keyword": "Novell"
+    },
+    {
+        "Keyword": "Notification"
+    },
+    {
+        "Keyword": "Confidentiality"
+    },
+    {
+        "Keyword": "Fiber Distribute Data Interface - FDDI"
+    },
+    {
+        "Keyword": "Enigma"
+    },
+    {
+        "Keyword": "least-significant bit "
+    },
+    {
+        "Keyword": "Histogram Matching"
+    },
+    {
+        "Keyword": "Greatest Common Divisor"
+    },
+    {
+        "Keyword": "thrasing"
+    },
+    {
+        "Keyword": "Robert Noyce"
+    },
+    {
+        "Keyword": "Common Runtime Language"
+    },
+    {
+        "Keyword": "Ford-Bellman Algorithm"
+    },
+    {
+        "Keyword": "data payload"
+    },
+    {
+        "Keyword": "Online Transaction Processing"
+    },
+    {
+        "Keyword": "Relation"
+    },
+    {
+        "Keyword": "Simple Mail Transfer Protocol"
+    },
+    {
+        "Keyword": "Class Implementation"
+    },
+    {
+        "Keyword": "Reinterprest Casting"
+    },
+    {
+        "Keyword": "Digital image processing"
+    },
+    {
+        "Keyword": "Procedural Programming"
+    },
+    {
+        "Keyword": "stack frame"
+    },
+    {
+        "Keyword": "Eyetracking"
+    },
+    {
+        "Keyword": "Proxy Patern"
+    },
+    {
+        "Keyword": "Distributed Denial of Service"
+    },
+    {
+        "Keyword": "Unix"
+    },
+    {
+        "Keyword": "Google+"
+    },
+    {
+        "Keyword": "Web Browser"
+    },
+    {
+        "Keyword": "Hypertext Transfer Protocol"
+    },
+    {
+        "Keyword": "XPath"
+    },
+    {
+        "Keyword": "Abstract"
+    },
+    {
+        "Keyword": "Bit error rate - BRE"
+    },
+    {
+        "Keyword": "Xbox 360"
+    },
+    {
+        "Keyword": "Euler",
+        "Count": 1
+    },
+    {
+        "Keyword": "Divide and Conquer"
+    },
+    {
+        "Keyword": "Edge"
+    },
+    {
+        "Keyword": "VLSI - Very Large Scale Integrated"
+    },
+    {
+        "Keyword": "Vulnerability"
+    },
+    {
+        "Keyword": "Widget"
+    },
+    {
+        "Keyword": "Foursquare"
+    },
+    {
+        "Keyword": "Linksys"
+    },
+    {
+        "Keyword": "Mainframe Computer"
+    },
+    {
+        "Keyword": "Nondeterministic Polynomial time"
+    },
+    {
+        "Keyword": "HAS-A"
+    },
+    {
+        "Keyword": "Namespace"
+    },
+    {
+        "Keyword": "Header"
+    },
+    {
+        "Keyword": "Google Penguin"
+    },
+    {
+        "Keyword": "private exponent"
+    },
+    {
+        "Keyword": "Instance"
+    },
+    {
+        "Keyword": "Bitwise Copy"
+    },
+    {
+        "Keyword": "Video Card"
+    },
+    {
+        "Keyword": "Specification"
+    },
+    {
+        "Keyword": "Pointer"
+    },
+    {
+        "Keyword": "Matrix Laboratory"
+    },
+    {
+        "Keyword": "Pixel"
+    },
+    {
+        "Keyword": "Bitmap Header"
+    },
+    {
+        "Keyword": "Advanced Micro Devices"
+    },
+    {
+        "Keyword": "Container Orchestration"
+    },
+    {
+        "Keyword": "Intel x86"
+    },
+    {
+        "Keyword": "Folder"
+    },
+    {
+        "Keyword": "Red Hat Enterprise"
+    },
+    {
+        "Keyword": "Classification"
+    },
+    {
+        "Keyword": "Fingerprint"
+    },
+    {
+        "Keyword": "Image Processing"
+    },
+    {
+        "Keyword": "Uniform Distribution"
+    },
+    {
+        "Keyword": "Maximum Segment Size"
+    },
+    {
+        "Keyword": "Clear to Send"
+    },
+    {
+        "Keyword": "Silverlight"
+    },
+    {
+        "Keyword": "Reference"
+    },
+    {
+        "Keyword": "Fsoft"
+    },
+    {
+        "Keyword": "Time out"
+    },
+    {
+        "Keyword": "Quantum Computer"
+    },
+    {
+        "Keyword": "Data Control Language"
+    },
+    {
+        "Keyword": "Sort Algorithm"
+    },
+    {
+        "Keyword": "Initialization Vector"
+    },
+    {
+        "Keyword": "Semaphore"
+    },
+    {
+        "Keyword": "Javascript"
+    },
+    {
+        "Keyword": "Apple Talk"
+    },
+    {
+        "Keyword": "Y2K bug"
+    },
+    {
+        "Keyword": "Bash"
+    },
+    {
+        "Keyword": "Deep Copy"
+    },
+    {
+        "Keyword": "Network Address Translation"
+    },
+    {
+        "Keyword": "Tag"
+    },
+    {
+        "Keyword": "IntelliJ IDEA"
+    },
+    {
+        "Keyword": "Visual Basic"
+    },
+    {
+        "Keyword": "distributed ledger"
+    },
+    {
+        "Keyword": "Manhattan Distance"
+    },
+    {
+        "Keyword": "Agile"
+    },
+    {
+        "Keyword": "Integer Factorization"
+    },
+    {
+        "Keyword": "Chain of Responsibility Pattern"
+    },
+    {
+        "Keyword": "Class Name",
+        "Count": 1
+    },
+    {
+        "Keyword": "Data Member"
+    },
+    {
+        "Keyword": "Contrastive learning"
+    },
+    {
+        "Keyword": "Programming Tip"
+    },
+    {
+        "Keyword": "Composite Pattern"
+    },
+    {
+        "Keyword": "Blockchain"
+    },
+    {
+        "Keyword": "Direct Memory Access - DMA"
+    },
+    {
+        "Keyword": "deep fake"
+    },
+    {
+        "Keyword": "Bit mask",
+        "Count": 1
+    },
+    {
+        "Keyword": "LibreOffice"
+    },
+    {
+        "Keyword": "Controller"
+    },
+    {
+        "Keyword": "Media"
+    },
+    {
+        "Keyword": "Really Simple Syndication"
+    },
+    {
+        "Keyword": "Paypal"
+    },
+    {
+        "Keyword": "Congestion Control"
+    },
+    {
+        "Keyword": "Optimization Problem"
+    },
+    {
+        "Keyword": "Internet Explorer"
+    },
+    {
+        "Keyword": "Apple App Store"
+    },
+    {
+        "Keyword": "Eastern Standard Time"
+    },
+    {
+        "Keyword": "Xbox One"
+    },
+    {
+        "Keyword": "Segment - goi tin"
+    },
+    {
+        "Keyword": "Non Fungible Token"
+    },
+    {
+        "Keyword": "IS-A"
+    },
+    {
+        "Keyword": "Receiver"
+    },
+    {
+        "Keyword": "Bluetooth"
+    },
+    {
+        "Keyword": "Extraction Operator"
+    },
+    {
+        "Keyword": "Digital Transformation"
+    },
+    {
+        "Keyword": "Google Chrome"
+    },
+    {
+        "Keyword": "Earliest Deadline First scheduling"
+    },
+    {
+        "Keyword": "Threat modeling"
+    },
+    {
+        "Keyword": "Face Detection"
+    },
+    {
+        "Keyword": "Walk"
+    },
+    {
+        "Keyword": "Maple"
+    },
+    {
+        "Keyword": "Linear Programming",
+        "Count": 1
+    },
+    {
+        "Keyword": "Semantic"
+    },
+    {
+        "Keyword": "Symmetric Cryptosystem"
+    },
+    {
+        "Keyword": "Address Resolution Protocol - ARP"
+    },
+    {
+        "Keyword": "Analytic Combinatorics"
+    },
+    {
+        "Keyword": "Business Logic Sevices"
+    },
+    {
+        "Keyword": "Collission Avoidance"
+    },
+    {
+        "Keyword": "asymetric multiprocessing"
+    },
+    {
+        "Keyword": "Rectified Linear Unit"
+    },
+    {
+        "Keyword": "Exponential Time"
+    },
+    {
+        "Keyword": "BitTorrent"
+    },
+    {
+        "Keyword": "Decision Problem"
+    },
+    {
+        "Keyword": "polling messages"
+    },
+    {
+        "Keyword": "MySpace"
+    },
+    {
+        "Keyword": "Multiple Thread"
+    },
+    {
+        "Keyword": "Graph API"
+    },
+    {
+        "Keyword": "Lexicographical Order"
+    },
+    {
+        "Keyword": "kubernetes"
+    },
+    {
+        "Keyword": "Parallel Computing"
+    },
+    {
+        "Keyword": "Generative Adversarial Network Modeling"
+    },
+    {
+        "Keyword": "Container"
+    },
+    {
+        "Keyword": "Brute Force"
+    },
+    {
+        "Keyword": "CRT Monitor"
+    },
+    {
+        "Keyword": "PreEmptive"
+    },
+    {
+        "Keyword": "Malware"
+    },
+    {
+        "Keyword": "DB2"
+    },
+    {
+        "Keyword": "Decompiler"
+    },
+    {
+        "Keyword": "E-signature"
+    },
+    {
+        "Keyword": "Natural Language Processing"
+    },
+    {
+        "Keyword": "Mutexes"
+    },
+    {
+        "Keyword": "Dongatory"
+    },
+    {
+        "Keyword": "Private Key"
+    },
+    {
+        "Keyword": "Lip-syncing"
+    },
+    {
+        "Keyword": "Delete"
+    },
+    {
+        "Keyword": "Na\u00efve Bayes"
+    },
+    {
+        "Keyword": "Bitcoin"
+    },
+    {
+        "Keyword": "AVL Tree"
+    },
+    {
+        "Keyword": "Procedure"
+    },
+    {
+        "Keyword": "Interpolation Search"
+    },
+    {
+        "Keyword": "Spanning tree"
+    },
+    {
+        "Keyword": "Copy"
+    },
+    {
+        "Keyword": "Byte Stuffing, ky thuat trong PeertoPeer"
+    },
+    {
+        "Keyword": "Attaching Processe"
+    },
+    {
+        "Keyword": "National Security Agency"
+    },
+    {
+        "Keyword": "DNS Caching"
+    },
+    {
+        "Keyword": "Symbian"
+    },
+    {
+        "Keyword": "Padding Oracle Attack"
+    },
+    {
+        "Keyword": "Vsphere",
+        "Count": 1
+    },
+    {
+        "Keyword": "Analysis of Algorithm"
+    },
+    {
+        "Keyword": "Lambda Expression"
+    },
+    {
+        "Keyword": "Time-division Multiplexing"
+    },
+    {
+        "Keyword": "Alias"
+    },
+    {
+        "Keyword": "Cisco System"
+    },
+    {
+        "Keyword": "Round Trip Time"
+    },
+    {
+        "Keyword": "Local Features"
+    },
+    {
+        "Keyword": "Joomla"
+    },
+    {
+        "Keyword": "Pseudocode"
+    },
+    {
+        "Keyword": "Steve Ballmer"
+    },
+    {
+        "Keyword": "Control Flows"
+    },
+    {
+        "Keyword": "Javascript Object Notation"
+    },
+    {
+        "Keyword": "Cloud Computing"
+    },
+    {
+        "Keyword": "Google Play"
+    },
+    {
+        "Keyword": "Unikey",
+        "Count": 1
+    },
+    {
+        "Keyword": "Single-hop",
+        "Count": 1
+    },
+    {
+        "Keyword": "Regular Expression"
+    },
+    {
+        "Keyword": "privilege escalation"
+    },
+    {
+        "Keyword": "Subnet"
+    },
+    {
+        "Keyword": "Wordpress"
+    },
+    {
+        "Keyword": "Digital"
+    },
+    {
+        "Keyword": "Regular Language"
+    },
+    {
+        "Keyword": "Sparse Coding"
+    },
+    {
+        "Keyword": "Topology"
+    },
+    {
+        "Keyword": "Virtual Private Network"
+    },
+    {
+        "Keyword": "Formal Parameter"
+    },
+    {
+        "Keyword": "Siamese network"
+    },
+    {
+        "Keyword": "Side Channel"
+    },
+    {
+        "Keyword": "Lip-syncing"
+    },
+    {
+        "Keyword": "Universal Coordinated Time"
+    },
+    {
+        "Keyword": "Nonvolatile memory express"
+    },
+    {
+        "Keyword": "Extensible Markup Language"
+    },
+    {
+        "Keyword": "Dynamic Allocation of Memory"
+    },
+    {
+        "Keyword": "Hypertext Markup Language"
+    },
+    {
+        "Keyword": "Data Access Layer"
+    },
+    {
+        "Keyword": "Information Security"
+    },
+    {
+        "Keyword": "File Magic Number"
+    },
+    {
+        "Keyword": "WHOIS"
+    },
+    {
+        "Keyword": "Uniform Resource Name"
+    },
+    {
+        "Keyword": "HTC"
+    },
+    {
+        "Keyword": "hexadecimal"
+    },
+    {
+        "Keyword": "Race Condition"
+    },
+    {
+        "Keyword": "Data access object"
+    },
+    {
+        "Keyword": "Destructor"
+    },
+    {
+        "Keyword": "Dijkstra Algorithm"
+    },
+    {
+        "Keyword": "User-Agent"
+    },
+    {
+        "Keyword": "diameter"
+    },
+    {
+        "Keyword": "Enqueue"
+    },
+    {
+        "Keyword": "Structured Data"
+    },
+    {
+        "Keyword": "Macbook Air"
+    },
+    {
+        "Keyword": "Primitive"
+    },
+    {
+        "Keyword": "Pycharm"
+    },
+    {
+        "Keyword": "Design Pattern"
+    },
+    {
+        "Keyword": "Optimal"
+    },
+    {
+        "Keyword": "Normal Distribution"
+    },
+    {
+        "Keyword": "Nested Recursion"
+    },
+    {
+        "Keyword": "Authorization  (AuthZ)"
+    },
+    {
+        "Keyword": "DeepFake"
+    },
+    {
+        "Keyword": "disk image"
+    },
+    {
+        "Keyword": "Naive Bayes"
+    },
+    {
+        "Keyword": "Entry Date Created"
+    },
+    {
+        "Keyword": "Control Structure"
+    },
+    {
+        "Keyword": "Packet Capture"
+    },
+    {
+        "Keyword": "Coursera"
+    },
+    {
+        "Keyword": "Opera"
+    },
+    {
+        "Keyword": "Googlecode"
+    },
+    {
+        "Keyword": "Ivy Bridge"
+    },
+    {
+        "Keyword": "Fiber To The Home - FTTH "
+    },
+    {
+        "Keyword": "Double-ended Priority Queue"
+    },
+    {
+        "Keyword": "Safari"
+    },
+    {
+        "Keyword": "Intellectual property rights"
+    },
+    {
+        "Keyword": "infrastructure mode"
+    },
+    {
+        "Keyword": "Generalization"
+    },
+    {
+        "Keyword": "Compiler"
+    },
+    {
+        "Keyword": "Command Injection"
+    },
+    {
+        "Keyword": "Learning rate"
+    },
+    {
+        "Keyword": "Extended Euclidean Algorithm"
+    },
+    {
+        "Keyword": "Face swapping"
+    },
+    {
+        "Keyword": "Anjuta"
+    },
+    {
+        "Keyword": "Stream"
+    },
+    {
+        "Keyword": "Quality Control"
+    },
+    {
+        "Keyword": "Constructor"
+    },
+    {
+        "Keyword": "Network Security"
+    },
+    {
+        "Keyword": "OculusVR"
+    },
+    {
+        "Keyword": "exclusive OR"
+    },
+    {
+        "Keyword": "Version"
+    },
+    {
+        "Keyword": "HipHop Virtual Machine"
+    },
+    {
+        "Keyword": "MapReduce"
+    },
+    {
+        "Keyword": "ActionScript"
+    },
+    {
+        "Keyword": "Transport Layer Secure"
+    },
+    {
+        "Keyword": "session hijacking"
+    },
+    {
+        "Keyword": "Trigger"
+    },
+    {
+        "Keyword": "basic input output system"
+    },
+    {
+        "Keyword": "Fibonacci Number",
+        "Count": 1
+    },
+    {
+        "Keyword": "Data Access Sevices"
+    },
+    {
+        "Keyword": "softmax"
+    },
+    {
+        "Keyword": "Functional Overloading"
+    },
+    {
+        "Keyword": "Algorithm Implementation"
+    },
+    {
+        "Keyword": "Normalize"
+    },
+    {
+        "Keyword": "Playstation Portable"
+    },
+    {
+        "Keyword": "Programming Paradigm"
+    },
+    {
+        "Keyword": "Galaxy 4S"
+    },
+    {
+        "Keyword": "Rendezvous Point",
+        "Count": 1
+    },
+    {
+        "Keyword": "Cloud Storage"
+    },
+    {
+        "Keyword": "Basic Service Set - BSS"
+    },
+    {
+        "Keyword": "Hyperlink"
+    },
+    {
+        "Keyword": "Converter"
+    },
+    {
+        "Keyword": "Application Layer"
+    },
+    {
+        "Keyword": "Interpreter"
+    },
+    {
+        "Keyword": "Twitter"
+    },
+    {
+        "Keyword": "Test Case"
+    },
+    {
+        "Keyword": "OSI - Open Systems Interconnection model"
+    },
+    {
+        "Keyword": "clang"
+    },
+    {
+        "Keyword": "Portable Operating System Interface"
+    },
+    {
+        "Keyword": "Reusability"
+    },
+    {
+        "Keyword": "Best case Complexity"
+    },
+    {
+        "Keyword": "Source code"
+    },
+    {
+        "Keyword": "Microsoft Foundation Class"
+    },
+    {
+        "Keyword": "Mantissa",
+        "Count": 1
+    },
+    {
+        "Keyword": "State Pattern"
+    },
+    {
+        "Keyword": "Dynamic Casting"
+    },
+    {
+        "Keyword": "Visitor Pattern"
+    },
+    {
+        "Keyword": "Data Access Tier"
+    },
+    {
+        "Keyword": "Sourceforge"
+    },
+    {
+        "Keyword": "Bayesian Network",
+        "Count": 1
+    },
+    {
+        "Keyword": "Content Delivery Network"
+    },
+    {
+        "Keyword": "Heap"
+    },
+    {
+        "Keyword": "Generic Code"
+    },
+    {
+        "Keyword": "Wikipedia"
+    },
+    {
+        "Keyword": "Advanced Encryption Standard (AES)"
+    },
+    {
+        "Keyword": "Stack Unwinding"
+    },
+    {
+        "Keyword": "Host-to-Host"
+    },
+    {
+        "Keyword": "Zend Framework"
+    },
+    {
+        "Keyword": "Run-length encoding"
+    },
+    {
+        "Keyword": "Crowdfunding"
+    },
+    {
+        "Keyword": "Integrity"
+    },
+    {
+        "Keyword": "Secure Hash Algorithm"
+    },
+    {
+        "Keyword": "Global Offset Table"
+    },
+    {
+        "Keyword": "AngularJS"
+    },
+    {
+        "Keyword": "Filename Date Created (MFT)"
+    },
+    {
+        "Keyword": "Shielded Twisted Pair"
+    },
+    {
+        "Keyword": "Basic Data Type"
+    },
+    {
+        "Keyword": "Anonymity"
+    },
+    {
+        "Keyword": "Structural pattern"
+    },
+    {
+        "Keyword": "Interface"
+    },
+    {
+        "Keyword": "Mac OS"
+    },
+    {
+        "Keyword": "GLONASS"
+    },
+    {
+        "Keyword": "Copy Constructor"
+    },
+    {
+        "Keyword": "Inheritance Relationship",
+        "Count": 1
+    },
+    {
+        "Keyword": "Interrupts"
+    },
+    {
+        "Keyword": "Obfuscation"
+    },
+    {
+        "Keyword": "Cascading Style Sheets"
+    },
+    {
+        "Keyword": "Prototype Pattern"
+    },
+    {
+        "Keyword": "Atomicity",
+        "Count": 1
+    },
+    {
+        "Keyword": "Optimal Binary Search Tree"
+    },
+    {
+        "Keyword": "Linear Search"
+    },
+    {
+        "Keyword": "Halt Problem"
+    },
+    {
+        "Keyword": "Attribute"
+    },
+    {
+        "Keyword": "Member-wise Copy"
+    },
+    {
+        "Keyword": "Interrupt"
+    },
+    {
+        "Keyword": "Elsevier"
+    },
+    {
+        "Keyword": "Hard coding"
+    },
+    {
+        "Keyword": "Registry"
+    },
+    {
+        "Keyword": "Hierachical Structure"
+    },
+    {
+        "Keyword": "eXtensible Application Markup Language"
+    },
+    {
+        "Keyword": "Infrastructure"
+    },
+    {
+        "Keyword": "Heartbleed"
+    },
+    {
+        "Keyword": "Referential Integrity"
+    },
+    {
+        "Keyword": "Smartwatch"
+    },
+    {
+        "Keyword": "Principal Component Analysis"
+    },
+    {
+        "Keyword": "Peripheral Component Interconnect Express"
+    },
+    {
+        "Keyword": "Statistical Analysis System"
+    },
+    {
+        "Keyword": "Finite-State-Machine - FSM"
+    },
+    {
+        "Keyword": "Programming Interface"
+    },
+    {
+        "Keyword": "Master Boot Record"
+    },
+    {
+        "Keyword": "Multilayer Perceptrons"
+    },
+    {
+        "Keyword": "Stream Cipher"
+    },
+    {
+        "Keyword": "Hash Table"
+    },
+    {
+        "Keyword": "ASUS"
+    },
+    {
+        "Keyword": "Cisco"
+    },
+    {
+        "Keyword": "Boolean Operator"
+    },
+    {
+        "Keyword": "Tumblr"
+    },
+    {
+        "Keyword": "Java Applet"
+    },
+    {
+        "Keyword": "Spanning-Tree Broadcast"
+    },
+    {
+        "Keyword": "Knapsack"
+    },
+    {
+        "Keyword": "Domain Name System"
+    },
+    {
+        "Keyword": "Battlefield"
+    },
+    {
+        "Keyword": "Lotus Software"
+    },
+    {
+        "Keyword": "Association for Computing Machinery"
+    },
+    {
+        "Keyword": "Statistical Learning"
+    },
+    {
+        "Keyword": "Navigate"
+    },
+    {
+        "Keyword": "Hologram"
+    },
+    {
+        "Keyword": "Tree",
+        "Count": 1
+    },
+    {
+        "Keyword": "Fragmentation Offset"
+    },
+    {
+        "Keyword": "Content delivery network"
+    },
+    {
+        "Keyword": "Recognition"
+    },
+    {
+        "Keyword": "Cipher Block Chaining"
+    },
+    {
+        "Keyword": "Venn Diagram"
+    },
+    {
+        "Keyword": "Character"
+    },
+    {
+        "Keyword": "jitter - dam bao nguong toi da su sai khac"
+    },
+    {
+        "Keyword": "Process Mapping"
+    },
+    {
+        "Keyword": "Wrapping"
+    },
+    {
+        "Keyword": "Objective-C"
+    },
+    {
+        "Keyword": "Multitasking"
+    },
+    {
+        "Keyword": "Creational pattern"
+    },
+    {
+        "Keyword": "Macro"
+    },
+    {
+        "Keyword": "Pipeline"
+    },
+    {
+        "Keyword": "Facade Pattern"
+    },
+    {
+        "Keyword": "Human Computer Interaction",
+        "Count": 1
+    },
+    {
+        "Keyword": "Google Nexus"
+    },
+    {
+        "Keyword": "Decision Tree"
+    },
+    {
+        "Keyword": "Activation Function"
     },
     {
         "Keyword": "CheapFake",
         "Count": 1
     },
     {
-        "Keyword": "Microsoft Build",
+        "Keyword": "Moore Law"
+    },
+    {
+        "Keyword": "Physical Layer"
+    },
+    {
+        "Keyword": "Quadratic Time"
+    },
+    {
+        "Keyword": "Block"
+    },
+    {
+        "Keyword": "Formal Language"
+    },
+    {
+        "Keyword": "Class-level Member"
+    },
+    {
+        "Keyword": "Mobile Application"
+    },
+    {
+        "Keyword": "iMac"
+    },
+    {
+        "Keyword": "Concrete subclass",
         "Count": 1
     },
     {
-        "Keyword": "Ripple-Carry Adder",
+        "Keyword": "Toolbox"
+    },
+    {
+        "Keyword": "Beacon"
+    },
+    {
+        "Keyword": "Function Pointer"
+    },
+    {
+        "Keyword": "Decision Table"
+    },
+    {
+        "Keyword": "POP3 - Giao thuc truy cap thu don gian"
+    },
+    {
+        "Keyword": "Child process"
+    },
+    {
+        "Keyword": "Fragmentation"
+    },
+    {
+        "Keyword": "IPv6"
+    },
+    {
+        "Keyword": "Test and set",
         "Count": 1
     },
     {
-        "Keyword": "Network Topology",
+        "Keyword": "Smartphone",
         "Count": 1
     },
     {
-        "Keyword": "Intelligent Personal Assitant",
+        "Keyword": "NP Complete",
         "Count": 1
     },
     {
-        "Keyword": "Ubuntu",
+        "Keyword": "Virtual Method",
+        "Count": 1
+    },
+    {
+        "Keyword": "View-Master",
+        "Count": 1
+    },
+    {
+        "Keyword": "Methodological",
+        "Count": 1
+    },
+    {
+        "Keyword": "Code Duplication",
+        "Count": 1
+    },
+    {
+        "Keyword": "Extensible HyperText Markup Language",
+        "Count": 1
+    },
+    {
+        "Keyword": "Maximum Transmission Unit",
+        "Count": 1
+    },
+    {
+        "Keyword": "Mobile World Congress",
         "Count": 1
     },
     {
@@ -5220,23 +4847,219 @@
         "Count": 1
     },
     {
-        "Keyword": "Business Intelligent",
+        "Keyword": "Big-endian",
         "Count": 1
     },
     {
-        "Keyword": "Central Processing Unit",
+        "Keyword": "public exponent",
         "Count": 1
     },
     {
-        "Keyword": "Concrete subclass",
-        "Count": 2
+        "Keyword": "Microsoft Surface",
+        "Count": 1
+    },
+    {
+        "Keyword": "Cryptology",
+        "Count": 1
+    },
+    {
+        "Keyword": "Generative Pre-trained Transformer",
+        "Count": 1
+    },
+    {
+        "Keyword": "Intelligent Personal Assitant",
+        "Count": 1
+    },
+    {
+        "Keyword": "Private Data Member",
+        "Count": 1
+    },
+    {
+        "Keyword": "Long Short Term Memory",
+        "Count": 1
+    },
+    {
+        "Keyword": "GPS latitude",
+        "Count": 1
+    },
+    {
+        "Keyword": "Julia",
+        "Count": 1
+    },
+    {
+        "Keyword": "Canny Edge Detector",
+        "Count": 1
+    },
+    {
+        "Keyword": "Call of Duty",
+        "Count": 1
+    },
+    {
+        "Keyword": "Windows Server",
+        "Count": 1
+    },
+    {
+        "Keyword": "External Storage",
+        "Count": 1
     },
     {
         "Keyword": "End of File",
-        "Count": 2
+        "Count": 1
     },
     {
-        "Keyword": "Arcade Game",
-        "Count": 2
+        "Keyword": "retransmission",
+        "Count": 1
+    },
+    {
+        "Keyword": "Integer Programming",
+        "Count": 1
+    },
+    {
+        "Keyword": "Optical Disk",
+        "Count": 1
+    },
+    {
+        "Keyword": "OpenSSL",
+        "Count": 1
+    },
+    {
+        "Keyword": "Picasa",
+        "Count": 1
+    },
+    {
+        "Keyword": "Retrieval",
+        "Count": 1
+    },
+    {
+        "Keyword": "Intializers",
+        "Count": 1
+    },
+    {
+        "Keyword": "Digital identity",
+        "Count": 1
+    },
+    {
+        "Keyword": "Application Programming Interface",
+        "Count": 1
+    },
+    {
+        "Keyword": "Peripheral Component Interconnect",
+        "Count": 1
+    },
+    {
+        "Keyword": "Team Foundation",
+        "Count": 1
+    },
+    {
+        "Keyword": "JavaFX",
+        "Count": 1
+    },
+    {
+        "Keyword": "Hue Saturation",
+        "Count": 1
+    },
+    {
+        "Keyword": "Combinatoric",
+        "Count": 1
+    },
+    {
+        "Keyword": "Virtual Reality",
+        "Count": 1
+    },
+    {
+        "Keyword": "Boolean",
+        "Count": 1
+    },
+    {
+        "Keyword": "Local Area Network",
+        "Count": 1
+    },
+    {
+        "Keyword": "Home network",
+        "Count": 1
+    },
+    {
+        "Keyword": "Wireless Access Point",
+        "Count": 1
+    },
+    {
+        "Keyword": "Netscape - Nha phat trien JavaScript",
+        "Count": 1
+    },
+    {
+        "Keyword": "Concatenation",
+        "Count": 1
+    },
+    {
+        "Keyword": "Microsoft Cortana",
+        "Count": 1
+    },
+    {
+        "Keyword": "Global Variable",
+        "Count": 1
+    },
+    {
+        "Keyword": "Bottom-up",
+        "Count": 1
+    },
+    {
+        "Keyword": "Microprocessor",
+        "Count": 1
+    },
+    {
+        "Keyword": "Breadth First Search",
+        "Count": 1
+    },
+    {
+        "Keyword": "Big Data",
+        "Count": 1
+    },
+    {
+        "Keyword": "Symbol ",
+        "Count": 1
+    },
+    {
+        "Keyword": "Recovering",
+        "Count": 1
+    },
+    {
+        "Keyword": "Fast Recovery",
+        "Count": 1
+    },
+    {
+        "Keyword": "Distributed Databases",
+        "Count": 1
+    },
+    {
+        "Keyword": "Data Structure",
+        "Count": 1
+    },
+    {
+        "Keyword": "Mail box",
+        "Count": 1
+    },
+    {
+        "Keyword": "Lollipop",
+        "Count": 1
+    },
+    {
+        "Keyword": "Sieve of Eratosthenes",
+        "Count": 1
+    },
+    {
+        "Keyword": "Doubly Linear Linked List",
+        "Count": 1
+    },
+    {
+        "Keyword": "UTF-8",
+        "Count": 1
+    },
+    {
+        "Keyword": "Frequency-division Multiplexing",
+        "Count": 1
+    },
+    {
+        "Keyword": "qubit",
+        "Count": 1
     }
 ]

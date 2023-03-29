@@ -1,0 +1,218 @@
+[INFO] Step: 0, Remaining steps: 49/50
+[TeamThanh2][TeamKhoi] starting points: (2, 10), (13, 4).
+[TeamThanh2] Starting point (2, 10).
+[TeamKhoi] Starting point (13, 4).
+[INFO] Step: 1, Remaining steps: 48/50
+[TeamThanh2] Move from (2, 10) to (2, 11)
+[TeamKhoi] Move from (13, 4) to (13, 3)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 5 coins.
+[INFO] Step: 2, Remaining steps: 47/50
+[TeamThanh2] Move from (2, 11) to (2, 12)
+[TeamKhoi] Move from (13, 3) to (12, 3)
+[TeamThanh2] Get 3 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 3, Remaining steps: 46/50
+[TeamThanh2] Move from (2, 12) to (3, 12)
+[TeamKhoi] Move from (12, 3) to (11, 3)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 4, Remaining steps: 45/50
+[TeamThanh2] Move from (3, 12) to (3, 13)
+[TeamKhoi] Move from (11, 3) to (10, 3)
+[TeamThanh2] Get 5 coins.
+[TeamKhoi] Get 2 coins.
+[INFO] Step: 5, Remaining steps: 44/50
+[TeamThanh2] Move from (3, 13) to (3, 12)
+[TeamKhoi] Move from (10, 3) to (9, 3)
+[TeamKhoi] Get 2 coins.
+[INFO] Step: 6, Remaining steps: 43/50
+[TeamThanh2] Move from (3, 12) to (3, 11)
+[TeamKhoi] Move from (9, 3) to (9, 4)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Equip shield.
+[INFO] Step: 7, Remaining steps: 42/50
+[TeamThanh2] Move from (3, 11) to (3, 10)
+[TeamKhoi] Move from (9, 4) to (10, 4)
+[TeamThanh2] Get 2 coins.
+[TeamKhoi] Encounter trap.
+[INFO] Step: 8, Remaining steps: 41/50
+[TeamThanh2] Move from (3, 10) to (3, 9)
+[TeamKhoi] Move from (10, 4) to (10, 3)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 9, Remaining steps: 40/50
+[TeamThanh2] Move from (3, 9) to (4, 9)
+[TeamKhoi] Move from (10, 3) to (10, 2)
+[TeamThanh2] Equip shield.
+[INFO] Step: 10, Remaining steps: 39/50
+[TeamThanh2] Move from (4, 9) to (4, 8)
+[TeamKhoi] Move from (10, 2) to (11, 2)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 11, Remaining steps: 38/50
+[TeamThanh2] Move from (4, 8) to (4, 7)
+[TeamKhoi] Move from (11, 2) to (12, 2)
+[TeamKhoi] Get 3 coins.
+[INFO] Step: 12, Remaining steps: 37/50
+[TeamThanh2] Move from (4, 7) to (4, 6)
+[TeamKhoi] Move from (12, 2) to (13, 2)
+[TeamThanh2] Get 2 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 13, Remaining steps: 36/50
+[TeamThanh2] Move from (4, 6) to (4, 5)
+[TeamKhoi] Move from (13, 2) to (13, 3)
+[INFO] Step: 14, Remaining steps: 35/50
+[TeamThanh2] Move from (4, 5) to (4, 4)
+[TeamKhoi] Move from (13, 3) to (14, 3)
+[TeamThanh2] Get 2 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 15, Remaining steps: 34/50
+[TeamThanh2] Move from (4, 4) to (3, 4)
+[TeamKhoi] Move from (14, 3) to (14, 4)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 3 coins.
+[INFO] Step: 16, Remaining steps: 33/50
+[TeamThanh2] Move from (3, 4) to (2, 4)
+[TeamKhoi] Move from (14, 4) to (14, 5)
+[TeamThanh2] Encounter trap.
+[TeamKhoi] Encounter trap.
+[INFO] Step: 17, Remaining steps: 32/50
+[TeamThanh2] Move from (2, 4) to (2, 5)
+[TeamKhoi] Move from (14, 5) to (14, 6)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 18, Remaining steps: 31/50
+[TeamThanh2] Move from (2, 5) to (3, 5)
+[TeamKhoi] Move from (14, 6) to (14, 7)
+[INFO] Step: 19, Remaining steps: 30/50
+[TeamThanh2] Move from (3, 5) to (4, 5)
+[TeamKhoi] Move from (14, 7) to (14, 8)
+[INFO] Step: 20, Remaining steps: 29/50
+[TeamThanh2] Move from (4, 5) to (5, 5)
+[TeamKhoi] Move from (14, 8) to (14, 9)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 21, Remaining steps: 28/50
+[TeamThanh2] Move from (5, 5) to (6, 5)
+[TeamKhoi] Move from (14, 9) to (13, 9)
+[TeamKhoi] Get 3 coins.
+[INFO] Step: 22, Remaining steps: 27/50
+[TeamThanh2] Move from (6, 5) to (6, 6)
+[TeamKhoi] Move from (13, 9) to (13, 10)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 23, Remaining steps: 26/50
+[TeamThanh2] Move from (6, 6) to (6, 5)
+[TeamKhoi] Move from (13, 10) to (13, 11)
+[INFO] Step: 24, Remaining steps: 25/50
+[TeamThanh2] Move from (6, 5) to (7, 5)
+[TeamKhoi] Move from (13, 11) to (13, 12)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 25, Remaining steps: 24/50
+Treasure appeared at (8, 8). Treasure value = 3.
+[TeamThanh2] Move from (7, 5) to (6, 5)
+[TeamKhoi] Move from (13, 12) to (13, 13)
+[TeamKhoi] Get 2 coins.
+[INFO] Step: 26, Remaining steps: 23/50
+[TeamThanh2] Move from (6, 5) to (6, 4)
+[TeamKhoi] Move from (13, 13) to (12, 13)
+[TeamThanh2] Get 2 coins.
+[INFO] Step: 27, Remaining steps: 22/50
+[TeamThanh2] Move from (6, 4) to (7, 4)
+[TeamKhoi] Move from (12, 13) to (11, 13)
+[INFO] Step: 28, Remaining steps: 21/50
+[TeamThanh2] Move from (7, 4) to (8, 4)
+[TeamKhoi] Move from (11, 13) to (10, 13)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 29, Remaining steps: 20/50
+[TeamThanh2] Move from (8, 4) to (8, 5)
+[TeamKhoi] Move from (10, 13) to (9, 13)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 3 coins.
+[INFO] Step: 30, Remaining steps: 19/50
+[TeamThanh2] Move from (8, 5) to (8, 6)
+[TeamKhoi] Move from (9, 13) to (9, 12)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 31, Remaining steps: 18/50
+[TeamThanh2] Move from (8, 6) to (8, 7)
+[TeamKhoi] Move from (9, 12) to (9, 11)
+[INFO] Step: 32, Remaining steps: 17/50
+[TeamThanh2] Move from (8, 7) to (8, 8)
+[TeamKhoi] Move from (9, 11) to (8, 11)
+[TeamThanh2] Get 3 coins.
+[INFO] Step: 33, Remaining steps: 16/50
+[TeamThanh2] Move from (8, 8) to (7, 8)
+[TeamKhoi] Move from (8, 11) to (7, 11)
+[INFO] Step: 34, Remaining steps: 15/50
+[TeamThanh2] Move from (7, 8) to (6, 8)
+[TeamKhoi] Move from (7, 11) to (6, 11)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 35, Remaining steps: 14/50
+[TeamThanh2] Move from (6, 8) to (5, 8)
+[TeamKhoi] Move from (6, 11) to (6, 12)
+[TeamThanh2] Get 1 coins.
+[INFO] Step: 36, Remaining steps: 13/50
+[TeamThanh2] Move from (5, 8) to (5, 9)
+[TeamKhoi] Move from (6, 12) to (5, 12)
+[TeamThanh2] Encounter trap.
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 37, Remaining steps: 12/50
+[TeamThanh2] Move from (5, 9) to (6, 9)
+[TeamKhoi] Move from (5, 12) to (5, 13)
+[TeamThanh2] Encounter trap.
+[INFO] Step: 38, Remaining steps: 11/50
+[TeamThanh2] Move from (6, 9) to (7, 9)
+[TeamKhoi] Move from (5, 13) to (5, 14)
+[TeamKhoi] Encounter trap.
+[INFO] Step: 39, Remaining steps: 10/50
+[TeamThanh2] Move from (7, 9) to (8, 9)
+[TeamKhoi] Move from (5, 14) to (4, 14)
+[TeamThanh2] Get 1 coins.
+[TeamKhoi] Get 3 coins.
+[INFO] Step: 40, Remaining steps: 9/50
+[TeamThanh2] Move from (8, 9) to (8, 10)
+[TeamKhoi] Move from (4, 14) to (3, 14)
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 41, Remaining steps: 8/50
+[TeamThanh2] Move from (8, 10) to (9, 10)
+[TeamKhoi] Move from (3, 14) to (3, 15)
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 42, Remaining steps: 7/50
+[TeamThanh2] Move from (9, 10) to (10, 10)
+[TeamKhoi] Move from (3, 15) to (2, 15)
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 43, Remaining steps: 6/50
+[TeamThanh2] Move from (10, 10) to (10, 11)
+[TeamKhoi] Move from (2, 15) to (2, 14)
+[TeamKhoi] Encounter trap.
+[INFO] Step: 44, Remaining steps: 5/50
+[TeamThanh2] Move from (10, 11) to (10, 12)
+[TeamKhoi] Move from (2, 14) to (2, 13)
+[TeamKhoi] Get 1 coins.
+[INFO] Step: 45, Remaining steps: 4/50
+Command '['./TeamKhoi', '>', 'log.txt']' timed out after 2 seconds
+[TeamKhoi][ERROR] Invalid input file.
+[TeamThanh2] Move from (10, 12) to (10, 13)
+[TeamKhoi] Invalid move from (2, 13) to (0, 0)
+[INFO] Step: 46, Remaining steps: 3/50
+Command '['./TeamKhoi', '>', 'log.txt']' timed out after 2 seconds
+[TeamKhoi][ERROR] Invalid input file.
+[TeamThanh2] Move from (10, 13) to (11, 13)
+[TeamKhoi] Invalid move from (2, 13) to (0, 0)
+[INFO] Step: 47, Remaining steps: 2/50
+Command '['./TeamKhoi', '>', 'log.txt']' timed out after 2 seconds
+[TeamKhoi][ERROR] Invalid input file.
+[TeamThanh2] Move from (11, 13) to (12, 13)
+[TeamKhoi] Invalid move from (2, 13) to (0, 0)
+[INFO] Step: 48, Remaining steps: 1/50
+Command '['./TeamKhoi', '>', 'log.txt']' timed out after 2 seconds
+[TeamKhoi][ERROR] Invalid input file.
+[TeamThanh2] Move from (12, 13) to (13, 13)
+[TeamKhoi] Invalid move from (2, 13) to (0, 0)
+[INFO] Step: 49, Remaining steps: 0/50
+Command '['./TeamKhoi', '>', 'log.txt']' timed out after 2 seconds
+[TeamKhoi][ERROR] Invalid input file.
+[TeamThanh2] Move from (13, 13) to (14, 13)
+[TeamKhoi] Invalid move from (2, 13) to (0, 0)
+[TeamThanh2] Get 1 coins.
+Final score:
+[TeamThanh2] is alive and shielded with 39 coins.
+[TeamKhoi] is alive and shielded with 37 coins.
