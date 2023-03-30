@@ -238,6 +238,11 @@ class Game:
             for i in range((NUM_KEYWORDs - self.keyword_index % NUM_KEYWORDs) % NUM_KEYWORDs):
                 self.ignore_list.append(data[self.keyword_index + i]['Keyword'])
         self.timer = -1
+        if self.hasUpdated:
+            self.hasUpdated = False            
+            with open(link, 'w') as file:
+                file.write(json.dumps(data, indent = 4))
+                file.close()
 
     def resetGameState(self):
         self.score = 0
@@ -272,11 +277,7 @@ class Game:
         self.again_button = Button(600, 500, 150, 50, "Play again")
         self.again_button.draw(surface)
 
-        if self.hasUpdated:
-            self.hasUpdated = False            
-            with open(link, 'w') as file:
-                file.write(json.dumps(data, indent = 4))
-                file.close()
+        
 
     # ----- set up intro stage ----
     
