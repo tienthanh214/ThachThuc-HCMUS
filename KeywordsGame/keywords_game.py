@@ -152,9 +152,9 @@ class Game:
 
         self.result_list = []
         self.ignore_list = []
-        self.data_setting = Setting(0)
+        self.data_setting = Setting()
 
-        self.order_list = OptionBox(width // 10 * 2, 420, 160, 40, (150, 150, 150), (100, 200, 255), score_font, ["Random", "Sorted", "Reversed"])
+        self.order_list = OptionBox(width // 10 * 2, 420, 160, 40, (150, 150, 150), (100, 200, 255), score_font, ["Sorted", "Random", "Reversed"])
         self.mode_list = OptionBox(width // 10 * 6, 420, 160, 40, (150, 150, 150), (100, 200, 255), score_font, ["Official", "Endless"])
         self.is_endless_mode = False
 
@@ -284,11 +284,11 @@ class Game:
     def setupOrderChoice(self):
         order_choice_index = self.order_list.update()
         if (order_choice_index == 1):
-            self.data_setting.order = 1
+            self.data_setting.order = 0
         elif (order_choice_index == 2):
             self.data_setting.order = -1
         elif (order_choice_index == 0):
-            self.data_setting.order = 0
+            self.data_setting.order = 1
         self.order_list.draw(surface)
 
     def setupModeChoice(self):
@@ -365,7 +365,7 @@ class Game:
 
 ''' ---- keyword order and set of keyword in round ---- '''
 class Setting:
-    def __init__(self, order = 0):
+    def __init__(self, order = 1):
         # Random - Descreasing - Increasing
         #    0   -    -1       -    1
         self.order = order # random default
