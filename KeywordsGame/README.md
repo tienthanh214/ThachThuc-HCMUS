@@ -37,7 +37,7 @@ Có 3 chế độ thứ tự các từ khoá xuất hiện
 
 
 ## Run game
-1. Chạy trực tiếp file thực thi exe
+1. Chạy trực tiếp file thực thi exe (được tạo từ pyinstaller theo command `pyinstaller --onefile --noconsole keywords_game.py`)
 2. Chạy file python (cần cài đặt thư viện pygame `pip3 install pygame`) 
   ```bash
   python keywords_game.py
