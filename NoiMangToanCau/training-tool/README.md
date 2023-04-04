@@ -1,15 +1,38 @@
 # Training NMTC tool
 ## Usage
 Open file `app/index.html` to run on your browser locally
+## Game
+1. Convert 2 Hex to Char (ASCII)
+2. Convert Char (ASCII) to 5 bit
+3. Convert 4 Bit to a Hex
+4. Convert a Decimal to Hex
 
+## Create new game
+In folder [src/containers](/NoiMangToanCau/training-tool/src/containers/), create new file (ex: `BinToHex.jsx`)
+
+Follow example code ([DecToHex](/NoiMangToanCau/training-tool/src/containers/DecToHex.jsx), [CharToBit](/NoiMangToanCau/training-tool/src/containers/CharToBit.jsx)). Use `GameWrapper` component:
+- `checkCorrect(correctValue, userInput)`: function that receive correct value and user's answer and return *True* if correct else *False*
+- `genQuestion`: function that return a question string
+- `gameName`: name of the game
+- `numOfQuestion`: number of questions
+- `answerLength`: maximum length of the answer
+
+Then edit `listGame` in [App.js](/NoiMangToanCau/training-tool/src/App.js), to make game visible
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run project code, you need install nodejs, then
+```bash
+    npm install
+    npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
