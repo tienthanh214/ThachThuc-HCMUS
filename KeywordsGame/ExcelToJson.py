@@ -1,3 +1,12 @@
+'''
+This code insert keywords data into keywords JSON file 
+Excel file should have format
+|Keywords|UpdatedIndex|
+
+each row contains a keyword
+first row of UpdatedIndex contain latest updated index
+
+'''
 import pandas
 import json
 
