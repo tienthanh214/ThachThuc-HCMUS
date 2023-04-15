@@ -49,7 +49,11 @@ sh run.sh Map.txt TeamRenamed TeamYou
 Simple visualize match result
 ```bash
 cd DauTruongAI/back-office
-python3 visualizer.py -r . -i path/to/TeamRenamed_TeamJazzy.json -t match
+python3 visualizer.py -r . -i <path/to/match_file.json> -t match
+```
+example:
+```bash
+python3 visualizer.py -r . -i ../btcsource/Tournament/Match/TeamTruc_TeamKhoi_Map.json -t match     
 ```
 Result in [visualization](/DauTruongAI/back-office/visualization/) (file `.gif`)
 
