@@ -1,0 +1,11 @@
+main
+main_khoi
+main_TrucJ
+*.dSYM
+MAP.INP
+MOVE.OUT
+STATE.OUT
+test.cpp
+test
+*.txt
+*.exe
