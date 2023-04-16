@@ -8,7 +8,7 @@ Team 5 người chia thành 2 đội, một đội có nhiệm vụ mô tả key
 ### Keywords Database
 Database keywords được lưu ở [keywords_.json](/KeywordsGame/keywords/keywords_.json)
 
-Có định dạng json mảng object gồm 2 key là "Keywords" và "Counter", đại diện cho nội dung từ khoá và số lần đã gặp từ này.
+Có định dạng json mảng object gồm 2 key là "Keywords" và "Count", đại diện cho nội dung từ khoá và số lần đã gặp từ này.
 
 Thêm từ khoá mới vào file json trên
 

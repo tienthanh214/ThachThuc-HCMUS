@@ -1,3 +1,8 @@
+'''
+Gen random map symmetric, connected, total 100 gold, 2 shield
+Author: TrucJ
+'''
+
 from enum import Enum
 from random import randint, randrange, random
 import os

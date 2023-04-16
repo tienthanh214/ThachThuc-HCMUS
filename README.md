@@ -5,6 +5,7 @@
   <img src="/images/thachthuc2020.jpg"/>
 </p>
 
+[Intro Team Video](https://fb.watch/jX6FkpxeRU/)
 - [Vòng loại](https://fb.watch/cxfsq6TVac/)
 - [Bán kết](https://fb.watch/cxfzyzacV8/)
 - [Chung kết](https://fb.watch/cxfCxOMJcv/)

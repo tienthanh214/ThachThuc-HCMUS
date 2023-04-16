@@ -1,3 +1,8 @@
+'''
+Visualize match result
+Author: minhkhoi1026
+'''
+
 import argparse
 from PIL import Image
 import glob

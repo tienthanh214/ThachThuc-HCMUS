@@ -1,3 +1,9 @@
+'''
+Benchmarking script for DauTruongAI, export result to csv file
+Statistic match result of 2 teams
+Author: minhkhoi1026
+'''
+
 import itertools
 import json
 import os
