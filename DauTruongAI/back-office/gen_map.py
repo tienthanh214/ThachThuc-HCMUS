@@ -3,6 +3,7 @@ Gen random map symmetric, connected, total 100 gold, 2 shield
 Author: TrucJ
 '''
 
+import argparse
 from enum import Enum
 from random import randint, randrange, random
 import os
@@ -12,8 +13,8 @@ import os
 
 ratio_horizontal = 1
 ratio_vertical = 1
-ratio_main_diagonal = 1
-ratio_sub_diagonal = 1
+ratio_diagonal = 1
+ratio_antidiagonal = 1
 # Tỉ lệ random trục đối xứng, ví dụ như trên thì tỉ lệ các trục đối xứng là như nhau
 
 ratio15 = 5
@@ -24,19 +25,12 @@ ratio11 = 2
 ratio_gold = [13,11,9,5,2]
 # Tỉ lệ random giá trị vàng trong ô, lần lượt là 1 2 3 4 5, ví dụ như trên thì tỉ lệ chọn giá trị 2 là 11/(13+11+9+5+2)
 
-num_of_map = 30
-# Số lượng map muốn gene
-
-save_path = "./generated_map"
-# Folder lưu map
-
-
 
 class Axis(Enum):
     HORIZONTAL = 1
     VERTICAL = 2
-    MAIN_DIAGONAL = 3
-    SUB_DIAGONAL = 4
+    DIAGONAL = 3
+    ANTIDIAGONAL = 4
 
 # Thuật toán dưới đây generate map dựa theo 2 trục: đường chéo chính và trục tung.
 # (Các trục khác sẽ được sinh bằng cách sinh theo trục tương tự rồi lấy đối xứng).
@@ -47,7 +41,7 @@ class Axis(Enum):
 #       - Lấy đối xứng qua trục để có nửa map còn lại
 def gene_map(M:int, N:int, axis:Axis, dangerous_cnt:int):
     def is_diagonal() -> bool:
-        return axis == Axis.MAIN_DIAGONAL or axis == Axis.SUB_DIAGONAL
+        return axis == Axis.DIAGONAL or axis == Axis.ANTIDIAGONAL
     def is_in_axis(x:int, y:int) -> bool:
         if is_diagonal():
             if x == y:
@@ -167,7 +161,7 @@ def gene_map(M:int, N:int, axis:Axis, dangerous_cnt:int):
                     if connected_ids[i][j] == id:
                         connected_ids[i][j] = cur_id
 
-    if axis == Axis.MAIN_DIAGONAL or axis == Axis.SUB_DIAGONAL:
+    if axis == Axis.DIAGONAL or axis == Axis.ANTIDIAGONAL:
         for x in range(0,M+2):
             for y in range(0,N+2):
                 if x < y:
@@ -285,7 +279,7 @@ def gene_map(M:int, N:int, axis:Axis, dangerous_cnt:int):
 
 
 
-    if axis == Axis.SUB_DIAGONAL:
+    if axis == Axis.ANTIDIAGONAL:
         newmap = [["0"]*(N+2) for _ in range(M+2)]
         for x in range(0,M+2):
             for y in range(0,N+2):
@@ -313,33 +307,56 @@ def rand_edge_len():
         return 11
 
 def rand_axis() -> Axis:
-    rd = randint(1, ratio_horizontal + ratio_vertical + ratio_main_diagonal + ratio_sub_diagonal)
+    rd = randint(1, ratio_horizontal + ratio_vertical + ratio_diagonal + ratio_antidiagonal)
     if rd <= ratio_horizontal:
         return Axis.HORIZONTAL
     elif rd <= ratio_horizontal + ratio_vertical:
         return Axis.VERTICAL
-    elif rd <= ratio_horizontal + ratio_vertical + ratio_main_diagonal:
-        return Axis.MAIN_DIAGONAL
+    elif rd <= ratio_horizontal + ratio_vertical + ratio_diagonal:
+        return Axis.DIAGONAL
     else:
-        return Axis.SUB_DIAGONAL
+        return Axis.ANTIDIAGONAL
 
-for id in range(num_of_map):
-    rd_axis = rand_axis()
-    if rd_axis == Axis.MAIN_DIAGONAL or rd_axis == Axis.SUB_DIAGONAL:
-        M = rand_edge_len()
-        N = M
-    else:
-        M = rand_edge_len()
-        N = rand_edge_len()
-    dangerous_cnt=randint(int(M*N/5)-5, int(M*N/4.5))
+def main(num_of_map, output):
+    for id in range(int(num_of_map)):
+        rd_axis = rand_axis()
+        if rd_axis == Axis.DIAGONAL or rd_axis == Axis.ANTIDIAGONAL:
+            M = rand_edge_len()
+            N = M
+        else:
+            M = rand_edge_len()
+            N = rand_edge_len()
+        dangerous_cnt=randint(int(M*N/5)-5, int(M*N/4.5))
 
-    map = gene_map(M, N, rd_axis, dangerous_cnt)
+        map = gene_map(M, N, rd_axis, dangerous_cnt)
 
-    with open(os.path.join(save_path,f"map{id+1}.txt"), "w") as f:
-        f.write(str(M) + " " + str(N) + "\n")
-        for x in range(1,M+1):
-            line = ""
-            for y in range(1,N+1):
-                line += map[x][y] + " "
-            line += "\n"
-            f.write(line)
+        with open(os.path.join(output,f"map{id+1}.txt"), "w") as f:
+            f.write(str(M) + " " + str(N) + "\n")
+            for x in range(1,M+1):
+                line = ""
+                for y in range(1,N+1):
+                    line += map[x][y] + " "
+                line += "\n"
+                f.write(line)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        prog="Dau truong AI visualizer",
+        description="Generate a visualizer of map and match",
+    )
+    parser.add_argument(
+        "-n",
+        "--num",
+        required=True,
+        help="type of visualize you want to generate"
+        "'map' for maps visualization and 'match' for match visualization",
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        default="generated_map",
+        help="path to result directory where you want to save result",
+    )
+    args = parser.parse_args()
+    main(args.num, args.output)

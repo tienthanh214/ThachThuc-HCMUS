@@ -62,7 +62,7 @@ sh run.sh Map.txt TeamRenamed TeamYou
 ### Visualization
 Simple visualize match result
 ```bash
-cd DauTruongAI/back-office
+scd DauTruongAI/back-office
 python3 visualizer.py -r . -i <path/to/match_file.json> -t match
 ```
 example:
@@ -74,23 +74,6 @@ Result in [visualization](/DauTruongAI/back-office/visualization/) (file `.gif`)
 ### Benchmark
 This is a benchmarking script that allows you to compare the performance of two AI agents in a game. The script exports the result to a csv file and provides statistics on the match results of the two teams.
 
-The script requires Python 3 to run and uses the following libraries: 
-- os
-- shutil
-- subprocess
-- pandas
-- tqdm
-
-Instructions for using this code:
-1. Install Python 3 if you haven't already.
-2. Install the required libraries mentioned above.
-3. Download or clone this repository.
-4. Modify the main function to set the team names (`team1` and `team2`), number of experiment per map + step (`NUM_TRY`), mode (`"windows"` or `"linux"`), map directory (`map_dir`, note that you might have to change the `run.bat` file if you modify this), result directory (`result_dir`), run file (`run_file`) and list of steps `K`.
-5. Run the code by running the benchmark function. This will execute the game matches on the different maps specified in the `map_dir` folder and output the result to a csv file in the `result_dir` folder.
-```python
-python benchmark.py
-```
-
-Note: When running the script, make sure that the AI agent files are properly named and placed in the `Players` directory.
-
 ### Map generation
+cd DauTruongAI/back-office
+python3 gen_map.py -n <num_of_maps> -o <path_to_save_maps>
