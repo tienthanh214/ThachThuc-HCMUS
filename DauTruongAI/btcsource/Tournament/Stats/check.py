@@ -1,10 +1,12 @@
 import csv
 
-# with open('TeamThanh_TeamTrucJ_stat (1).csv') as csv_file:
-with open('TeamThanh_TeamJazzy_stat.csv') as csv_file:
+with open('TeamJazzyNew_TeamSenoNew_stat.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     cnt = 0
+    fwin = 0
+    fdraw = 0
+    flose = 0
     for row in csv_reader:
         if line_count == 0:
             line_count += 1
@@ -13,16 +15,24 @@ with open('TeamThanh_TeamJazzy_stat.csv') as csv_file:
             if cnt == 1:
                 map = row[0]
                 win = 0
+                draw = 0
+                lose = 0
                 score  = 0
             if row[5] > row[9]:
                 status = "Win"
-                win += 2
+                win += 1
                 score += int(row[5])
             elif row[5] == row[9]:
                 status = "Draw"
-                win += 1
+                draw += 1
             else:
                 status = "Lose"
+                lose += 1
             if cnt == 10:
                 cnt = 0
-                print(map, win, score)
+                print(map, win, draw, lose)
+                fwin += win
+                fdraw += draw
+                flose += lose
+
+print("Total:", fwin, fdraw, flose)
