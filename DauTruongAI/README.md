@@ -6,9 +6,23 @@ Có thể sử dụng file `TeamRenamed.exe` để làm AI baseline chỉ nhằm
 
 Xem AI TeamRenamed thi đấu: [tại đây](https://www.facebook.com/100007708905334/videos/946877976733960/)
 
+## Baseline template
+This code template [here](/DauTruongAI/dev/main.cpp) provides the basic structure for creating an AI agent that can play a game on a given map. It includes:
+- A set of constant definitions and a `MapInfo` struct that stores information about the map, such as its dimensions, the location of shields and dangerous zones, and the symmetry type of the map. 
+- A `BaseSolution` class that can be extended to implement different AI strategies for playing the game.
+
+The code includes functions for checking whether a given coordinate is inside the map, checking the symmetry of the map, and printing debug information. It also includes a random number generator for use in some AI algorithms.
+
+The main function currently returns 0 and needs to be modified to call the run function of an AI agent that implements the `BaseSolution` class.
+
+After all, you can create an executable of your agent using the `make` command:
+```bash
+make FNAME=<your-file.cpp>
+```
+
 ## How to run checker
 
-Based on [this repo](https://github.com/vltanh/botwar-battleship)
+Based on the official source of Thach Thuc organizer.
 
 The folder **must** be arranged this specific way:
 
@@ -58,5 +72,25 @@ python3 visualizer.py -r . -i ../btcsource/Tournament/Match/TeamTruc_TeamKhoi_Ma
 Result in [visualization](/DauTruongAI/back-office/visualization/) (file `.gif`)
 
 ### Benchmark
+This is a benchmarking script that allows you to compare the performance of two AI agents in a game. The script exports the result to a csv file and provides statistics on the match results of the two teams.
+
+The script requires Python 3 to run and uses the following libraries: 
+- os
+- shutil
+- subprocess
+- pandas
+- tqdm
+
+Instructions for using this code:
+1. Install Python 3 if you haven't already.
+2. Install the required libraries mentioned above.
+3. Download or clone this repository.
+4. Modify the main function to set the team names (`team1` and `team2`), number of experiment per map + step (`NUM_TRY`), mode (`"windows"` or `"linux"`), map directory (`map_dir`, note that you might have to change the `run.bat` file if you modify this), result directory (`result_dir`), run file (`run_file`) and list of steps `K`.
+5. Run the code by running the benchmark function. This will execute the game matches on the different maps specified in the `map_dir` folder and output the result to a csv file in the `result_dir` folder.
+```python
+python benchmark.py
+```
+
+Note: When running the script, make sure that the AI agent files are properly named and placed in the `Players` directory.
 
 ### Map generation
