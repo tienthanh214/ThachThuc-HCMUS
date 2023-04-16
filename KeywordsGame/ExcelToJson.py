@@ -1,7 +1,7 @@
 '''
-This code insert keywords data into keywords JSON file 
+This code insert keywords data from xlsx file into keywords JSON file 
 Excel file should have format
-|Keywords|UpdatedIndex|
+|Keyword|UpdatedIndex|
 
 each row contains a keyword
 first row of UpdatedIndex contain latest updated index
