@@ -7,8 +7,10 @@
 
 [Intro Team Video](https://fb.watch/jX6FkpxeRU/)
 - [Vòng loại](https://fb.watch/cxfsq6TVac/)
-- [Bán kết](https://fb.watch/cxfzyzacV8/)
-- [Chung kết](https://fb.watch/cxfCxOMJcv/)
+- [Bán kết](https://fb.watch/q_G5mX7DtC/)
+- Chung kết:
+  - [Part 1](https://fb.watch/cxfCxOMJcv/)
+  - [Part 3](https://fb.watch/q_GdRa_3kX/)
 
 ## 2021 - Runner up
 <p align="center">
